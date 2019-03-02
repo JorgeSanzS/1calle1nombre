@@ -1,0 +1,2830 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Palas de Rei
+| align="right" | 48057
+| align="right" | 1956
+| align="right" | 518
+| align="right" | 1956
+| align="right" | 48574
+| align="right" | 50647
+| align="right" | 95.9%
+|-
+| O Vicedo
+| align="right" | 12137
+| align="right" | 1376
+| align="right" | 0
+| align="right" | 1376
+| align="right" | 12137
+| align="right" | 14553
+| align="right" | 83.4%
+|-
+| Redondela
+| align="right" | 95431
+| align="right" | 2539
+| align="right" | 550
+| align="right" | 2539
+| align="right" | 95982
+| align="right" | 131052
+| align="right" | 73.2%
+|-
+| Pontecesures
+| align="right" | 13668
+| align="right" | 243
+| align="right" | 131
+| align="right" | 243
+| align="right" | 13799
+| align="right" | 18917
+| align="right" | 72.9%
+|-
+| Dumbría
+| align="right" | 21226
+| align="right" | 1100
+| align="right" | 1109
+| align="right" | 1100
+| align="right" | 22335
+| align="right" | 22335
+| align="right" | 100.0%
+|-
+| Mondariz
+| align="right" | 72903
+| align="right" | 2682
+| align="right" | 13343
+| align="right" | 2682
+| align="right" | 86246
+| align="right" | 89197
+| align="right" | 96.7%
+|-
+| Vilanova de Arousa
+| align="right" | 49885
+| align="right" | 922
+| align="right" | 5696
+| align="right" | 922
+| align="right" | 55581
+| align="right" | 61958
+| align="right" | 89.7%
+|-
+| Guntín
+| align="right" | 24104
+| align="right" | 492
+| align="right" | 359
+| align="right" | 492
+| align="right" | 24463
+| align="right" | 25744
+| align="right" | 95.0%
+|-
+| O Barco de Valdeorras
+| align="right" | 27868
+| align="right" | 2738
+| align="right" | 434
+| align="right" | 2738
+| align="right" | 28302
+| align="right" | 57857
+| align="right" | 48.9%
+|-
+| Monterrei
+| align="right" | 29779
+| align="right" | 577
+| align="right" | 0
+| align="right" | 577
+| align="right" | 29779
+| align="right" | 32575
+| align="right" | 91.4%
+|-
+| Santiago de Compostela
+| align="right" | 70381
+| align="right" | 19590
+| align="right" | 6548
+| align="right" | 19590
+| align="right" | 76928
+| align="right" | 272542
+| align="right" | 28.2%
+|-
+| O Páramo
+| align="right" | 20001
+| align="right" | 415
+| align="right" | 122
+| align="right" | 415
+| align="right" | 20123
+| align="right" | 20123
+| align="right" | 100.0%
+|-
+| Negueira de Muñiz
+| align="right" | 3948
+| align="right" | 103
+| align="right" | 0
+| align="right" | 103
+| align="right" | 3948
+| align="right" | 3948
+| align="right" | 100.0%
+|-
+| O Grove
+| align="right" | 34718
+| align="right" | 1169
+| align="right" | 676
+| align="right" | 1169
+| align="right" | 35393
+| align="right" | 49814
+| align="right" | 71.1%
+|-
+| O Porriño
+| align="right" | 54503
+| align="right" | 5548
+| align="right" | 965
+| align="right" | 5548
+| align="right" | 55468
+| align="right" | 78713
+| align="right" | 70.5%
+|-
+| A Mezquita
+| align="right" | 12305
+| align="right" | 526
+| align="right" | 221
+| align="right" | 526
+| align="right" | 12526
+| align="right" | 16481
+| align="right" | 76.0%
+|-
+| Frades
+| align="right" | 8243
+| align="right" | 2430
+| align="right" | 79
+| align="right" | 2430
+| align="right" | 8322
+| align="right" | 20018
+| align="right" | 41.6%
+|-
+| Vilamarín
+| align="right" | 24178
+| align="right" | 413
+| align="right" | 517
+| align="right" | 413
+| align="right" | 24695
+| align="right" | 24695
+| align="right" | 100.0%
+|-
+| Malpica de Bergantiños
+| align="right" | 52978
+| align="right" | 1404
+| align="right" | 1600
+| align="right" | 1404
+| align="right" | 54578
+| align="right" | 60504
+| align="right" | 90.2%
+|-
+| Barro
+| align="right" | 27027
+| align="right" | 554
+| align="right" | 113
+| align="right" | 554
+| align="right" | 27140
+| align="right" | 27140
+| align="right" | 100.0%
+|-
+| Baltar
+| align="right" | 18730
+| align="right" | 473
+| align="right" | 0
+| align="right" | 473
+| align="right" | 18730
+| align="right" | 20854
+| align="right" | 89.8%
+|-
+| Sada
+| align="right" | 27235
+| align="right" | 8312
+| align="right" | 4419
+| align="right" | 8312
+| align="right" | 31653
+| align="right" | 73547
+| align="right" | 43.0%
+|-
+| Boimorto
+| align="right" | 7374
+| align="right" | 643
+| align="right" | 0
+| align="right" | 643
+| align="right" | 7374
+| align="right" | 7374
+| align="right" | 100.0%
+|-
+| O Incio
+| align="right" | 36004
+| align="right" | 695
+| align="right" | 0
+| align="right" | 695
+| align="right" | 36004
+| align="right" | 36862
+| align="right" | 97.7%
+|-
+| Castroverde
+| align="right" | 52442
+| align="right" | 907
+| align="right" | 0
+| align="right" | 907
+| align="right" | 52442
+| align="right" | 54335
+| align="right" | 96.5%
+|-
+| Paradela
+| align="right" | 31647
+| align="right" | 626
+| align="right" | 85
+| align="right" | 626
+| align="right" | 31732
+| align="right" | 31893
+| align="right" | 99.5%
+|-
+| Begonte
+| align="right" | 17858
+| align="right" | 888
+| align="right" | 91
+| align="right" | 888
+| align="right" | 17949
+| align="right" | 20103
+| align="right" | 89.3%
+|-
+| Irixoa
+| align="right" | 5645
+| align="right" | 1268
+| align="right" | 568
+| align="right" | 1268
+| align="right" | 6213
+| align="right" | 6675
+| align="right" | 93.1%
+|-
+| A Guarda
+| align="right" | 25701
+| align="right" | 1960
+| align="right" | 0
+| align="right" | 1960
+| align="right" | 25701
+| align="right" | 46485
+| align="right" | 55.3%
+|-
+| A Gudiña
+| align="right" | 13945
+| align="right" | 830
+| align="right" | 0
+| align="right" | 830
+| align="right" | 13945
+| align="right" | 19300
+| align="right" | 72.3%
+|-
+| A Teixeira
+| align="right" | 7588
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 7588
+| align="right" | 8683
+| align="right" | 87.4%
+|-
+| Fisterra
+| align="right" | 13871
+| align="right" | 1316
+| align="right" | 6802
+| align="right" | 1316
+| align="right" | 20673
+| align="right" | 28832
+| align="right" | 71.7%
+|-
+| Entrimo
+| align="right" | 19388
+| align="right" | 364
+| align="right" | 0
+| align="right" | 364
+| align="right" | 19388
+| align="right" | 19449
+| align="right" | 99.7%
+|-
+| Vilar de Barrio
+| align="right" | 20035
+| align="right" | 402
+| align="right" | 102
+| align="right" | 402
+| align="right" | 20137
+| align="right" | 22953
+| align="right" | 87.7%
+|-
+| Alfoz
+| align="right" | 12015
+| align="right" | 548
+| align="right" | 155
+| align="right" | 548
+| align="right" | 12170
+| align="right" | 12170
+| align="right" | 100.0%
+|-
+| Oroso
+| align="right" | 11720
+| align="right" | 1530
+| align="right" | 481
+| align="right" | 1530
+| align="right" | 12201
+| align="right" | 20842
+| align="right" | 58.5%
+|-
+| Ribas de Sil
+| align="right" | 14413
+| align="right" | 425
+| align="right" | 432
+| align="right" | 425
+| align="right" | 14845
+| align="right" | 16155
+| align="right" | 91.9%
+|-
+| Laza
+| align="right" | 28384
+| align="right" | 785
+| align="right" | 653
+| align="right" | 785
+| align="right" | 29038
+| align="right" | 32907
+| align="right" | 88.2%
+|-
+| Trazo
+| align="right" | 8497
+| align="right" | 1084
+| align="right" | 433
+| align="right" | 1084
+| align="right" | 8930
+| align="right" | 9758
+| align="right" | 91.5%
+|-
+| Riós
+| align="right" | 35013
+| align="right" | 798
+| align="right" | 39
+| align="right" | 798
+| align="right" | 35052
+| align="right" | 35052
+| align="right" | 100.0%
+|-
+| Bande
+| align="right" | 29068
+| align="right" | 570
+| align="right" | 0
+| align="right" | 570
+| align="right" | 29068
+| align="right" | 30430
+| align="right" | 95.5%
+|-
+| Pol
+| align="right" | 41187
+| align="right" | 915
+| align="right" | 29
+| align="right" | 915
+| align="right" | 41216
+| align="right" | 42011
+| align="right" | 98.1%
+|-
+| Montederramo
+| align="right" | 19385
+| align="right" | 568
+| align="right" | 0
+| align="right" | 568
+| align="right" | 19385
+| align="right" | 19449
+| align="right" | 99.7%
+|-
+| Triacastela
+| align="right" | 13429
+| align="right" | 287
+| align="right" | 0
+| align="right" | 287
+| align="right" | 13429
+| align="right" | 13429
+| align="right" | 100.0%
+|-
+| Viveiro
+| align="right" | 29305
+| align="right" | 7585
+| align="right" | 992
+| align="right" | 7585
+| align="right" | 30297
+| align="right" | 42570
+| align="right" | 71.2%
+|-
+| As Pontes de García Rodríguez
+| align="right" | 12397
+| align="right" | 3749
+| align="right" | 170
+| align="right" | 3749
+| align="right" | 12566
+| align="right" | 41944
+| align="right" | 30.0%
+|-
+| Coles
+| align="right" | 36072
+| align="right" | 574
+| align="right" | 0
+| align="right" | 574
+| align="right" | 36072
+| align="right" | 36316
+| align="right" | 99.3%
+|-
+| A Peroxa
+| align="right" | 31146
+| align="right" | 898
+| align="right" | 2859
+| align="right" | 898
+| align="right" | 34005
+| align="right" | 34005
+| align="right" | 100.0%
+|-
+| Corcubión
+| align="right" | 6907
+| align="right" | 303
+| align="right" | 181
+| align="right" | 303
+| align="right" | 7088
+| align="right" | 7761
+| align="right" | 91.3%
+|-
+| A Pobra do Brollón
+| align="right" | 32430
+| align="right" | 830
+| align="right" | 0
+| align="right" | 830
+| align="right" | 32430
+| align="right" | 34084
+| align="right" | 95.1%
+|-
+| Toques
+| align="right" | 12085
+| align="right" | 426
+| align="right" | 0
+| align="right" | 426
+| align="right" | 12085
+| align="right" | 12085
+| align="right" | 100.0%
+|-
+| Beade
+| align="right" | 5681
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 5681
+| align="right" | 5681
+| align="right" | 100.0%
+|-
+| Piñor
+| align="right" | 17496
+| align="right" | 473
+| align="right" | 0
+| align="right" | 473
+| align="right" | 17496
+| align="right" | 17496
+| align="right" | 100.0%
+|-
+| Carballo
+| align="right" | 65590
+| align="right" | 2943
+| align="right" | 972
+| align="right" | 2943
+| align="right" | 66562
+| align="right" | 121654
+| align="right" | 54.7%
+|-
+| Vigo
+| align="right" | 137221
+| align="right" | 14084
+| align="right" | 28952
+| align="right" | 14084
+| align="right" | 166173
+| align="right" | 549822
+| align="right" | 30.2%
+|-
+| Carballedo
+| align="right" | 49257
+| align="right" | 820
+| align="right" | 0
+| align="right" | 820
+| align="right" | 49257
+| align="right" | 49257
+| align="right" | 100.0%
+|-
+| A Pobra de Trives
+| align="right" | 27033
+| align="right" | 598
+| align="right" | 608
+| align="right" | 598
+| align="right" | 27641
+| align="right" | 33386
+| align="right" | 82.8%
+|-
+| Gondomar
+| align="right" | 39119
+| align="right" | 1021
+| align="right" | 5351
+| align="right" | 1021
+| align="right" | 44470
+| align="right" | 47193
+| align="right" | 94.2%
+|-
+| Cangas
+| align="right" | 44716
+| align="right" | 2077
+| align="right" | 20128
+| align="right" | 2077
+| align="right" | 64844
+| align="right" | 102988
+| align="right" | 63.0%
+|-
+| Sarria
+| align="right" | 70215
+| align="right" | 2739
+| align="right" | 125
+| align="right" | 2739
+| align="right" | 70340
+| align="right" | 94143
+| align="right" | 74.7%
+|-
+| Cerceda
+| align="right" | 2859
+| align="right" | 2612
+| align="right" | 194
+| align="right" | 2612
+| align="right" | 3053
+| align="right" | 16877
+| align="right" | 18.1%
+|-
+| Valga
+| align="right" | 32217
+| align="right" | 570
+| align="right" | 0
+| align="right" | 570
+| align="right" | 32217
+| align="right" | 32217
+| align="right" | 100.0%
+|-
+| Xunqueira de Ambía
+| align="right" | 18692
+| align="right" | 544
+| align="right" | 0
+| align="right" | 544
+| align="right" | 18692
+| align="right" | 20187
+| align="right" | 92.6%
+|-
+| Vilar de Santos
+| align="right" | 13350
+| align="right" | 181
+| align="right" | 0
+| align="right" | 181
+| align="right" | 13350
+| align="right" | 14274
+| align="right" | 93.5%
+|-
+| Teo
+| align="right" | 14865
+| align="right" | 6533
+| align="right" | 3127
+| align="right" | 6533
+| align="right" | 17992
+| align="right" | 31540
+| align="right" | 57.0%
+|-
+| Cabanas
+| align="right" | 19168
+| align="right" | 2326
+| align="right" | 945
+| align="right" | 2326
+| align="right" | 20113
+| align="right" | 23995
+| align="right" | 83.8%
+|-
+| San Cibrao das Viñas
+| align="right" | 32968
+| align="right" | 1664
+| align="right" | 73
+| align="right" | 1664
+| align="right" | 33041
+| align="right" | 35107
+| align="right" | 94.1%
+|-
+| Muras
+| align="right" | 1695
+| align="right" | 693
+| align="right" | 0
+| align="right" | 693
+| align="right" | 1695
+| align="right" | 2099
+| align="right" | 80.7%
+|-
+| A Pontenova
+| align="right" | 47264
+| align="right" | 880
+| align="right" | 0
+| align="right" | 880
+| align="right" | 47264
+| align="right" | 47264
+| align="right" | 100.0%
+|-
+| Monfero
+| align="right" | 17985
+| align="right" | 1119
+| align="right" | 0
+| align="right" | 1119
+| align="right" | 17985
+| align="right" | 17985
+| align="right" | 100.0%
+|-
+| Verea
+| align="right" | 26691
+| align="right" | 345
+| align="right" | 0
+| align="right" | 345
+| align="right" | 26691
+| align="right" | 26691
+| align="right" | 100.0%
+|-
+| Rubiá
+| align="right" | 20735
+| align="right" | 599
+| align="right" | 0
+| align="right" | 599
+| align="right" | 20735
+| align="right" | 24771
+| align="right" | 83.7%
+|-
+| A Pastoriza
+| align="right" | 73357
+| align="right" | 1300
+| align="right" | 0
+| align="right" | 1300
+| align="right" | 73357
+| align="right" | 76782
+| align="right" | 95.5%
+|-
+| Miño
+| align="right" | 16494
+| align="right" | 5164
+| align="right" | 1404
+| align="right" | 5164
+| align="right" | 17898
+| align="right" | 38425
+| align="right" | 46.6%
+|-
+| Coirós
+| align="right" | 6316
+| align="right" | 1765
+| align="right" | 7747
+| align="right" | 1765
+| align="right" | 14064
+| align="right" | 14888
+| align="right" | 94.5%
+|-
+| Ribadumia
+| align="right" | 53986
+| align="right" | 812
+| align="right" | 5953
+| align="right" | 812
+| align="right" | 59938
+| align="right" | 60350
+| align="right" | 99.3%
+|-
+| Navia de Suarna
+| align="right" | 46482
+| align="right" | 712
+| align="right" | 0
+| align="right" | 712
+| align="right" | 46482
+| align="right" | 48131
+| align="right" | 96.6%
+|-
+| Porqueira
+| align="right" | 18359
+| align="right" | 290
+| align="right" | 0
+| align="right" | 290
+| align="right" | 18359
+| align="right" | 19768
+| align="right" | 92.9%
+|-
+| Pontevedra
+| align="right" | 135849
+| align="right" | 3434
+| align="right" | 4388
+| align="right" | 3434
+| align="right" | 140237
+| align="right" | 201697
+| align="right" | 69.5%
+|-
+| San Xoán de Río
+| align="right" | 16591
+| align="right" | 330
+| align="right" | 0
+| align="right" | 330
+| align="right" | 16591
+| align="right" | 16942
+| align="right" | 97.9%
+|-
+| Laxe
+| align="right" | 21522
+| align="right" | 1196
+| align="right" | 1337
+| align="right" | 1196
+| align="right" | 22859
+| align="right" | 31302
+| align="right" | 73.0%
+|-
+| Sanxenxo
+| align="right" | 79652
+| align="right" | 1984
+| align="right" | 570
+| align="right" | 1984
+| align="right" | 80222
+| align="right" | 86175
+| align="right" | 93.1%
+|-
+| Sobrado
+| align="right" | 22131
+| align="right" | 865
+| align="right" | 1462
+| align="right" | 865
+| align="right" | 23593
+| align="right" | 23593
+| align="right" | 100.0%
+|-
+| Melón
+| align="right" | 21413
+| align="right" | 486
+| align="right" | 180
+| align="right" | 486
+| align="right" | 21593
+| align="right" | 21593
+| align="right" | 100.0%
+|-
+| Samos
+| align="right" | 21760
+| align="right" | 1060
+| align="right" | 0
+| align="right" | 1060
+| align="right" | 21760
+| align="right" | 22302
+| align="right" | 97.6%
+|-
+| Foz
+| align="right" | 16388
+| align="right" | 1697
+| align="right" | 0
+| align="right" | 1697
+| align="right" | 16388
+| align="right" | 36656
+| align="right" | 44.7%
+|-
+| Fornelos de Montes
+| align="right" | 19410
+| align="right" | 574
+| align="right" | 0
+| align="right" | 574
+| align="right" | 19410
+| align="right" | 19822
+| align="right" | 97.9%
+|-
+| A Coruña
+| align="right" | 37181
+| align="right" | 20115
+| align="right" | 3741
+| align="right" | 20115
+| align="right" | 40922
+| align="right" | 275047
+| align="right" | 14.9%
+|-
+| Lobios
+| align="right" | 29560
+| align="right" | 972
+| align="right" | 954
+| align="right" | 972
+| align="right" | 30514
+| align="right" | 30514
+| align="right" | 100.0%
+|-
+| Verín
+| align="right" | 46878
+| align="right" | 1256
+| align="right" | 974
+| align="right" | 1256
+| align="right" | 47853
+| align="right" | 72847
+| align="right" | 65.7%
+|-
+| Ares
+| align="right" | 3053
+| align="right" | 7233
+| align="right" | 824
+| align="right" | 7233
+| align="right" | 3877
+| align="right" | 37763
+| align="right" | 10.3%
+|-
+| As Somozas
+| align="right" | 3595
+| align="right" | 1436
+| align="right" | 0
+| align="right" | 1436
+| align="right" | 3595
+| align="right" | 3595
+| align="right" | 100.0%
+|-
+| Vilariño de Conso
+| align="right" | 13302
+| align="right" | 336
+| align="right" | 0
+| align="right" | 336
+| align="right" | 13302
+| align="right" | 15164
+| align="right" | 87.7%
+|-
+| Castro de Rei
+| align="right" | 57432
+| align="right" | 1526
+| align="right" | 0
+| align="right" | 1526
+| align="right" | 57432
+| align="right" | 58943
+| align="right" | 97.4%
+|-
+| Meira
+| align="right" | 17494
+| align="right" | 334
+| align="right" | 0
+| align="right" | 334
+| align="right" | 17494
+| align="right" | 20474
+| align="right" | 85.4%
+|-
+| Culleredo
+| align="right" | 14561
+| align="right" | 7345
+| align="right" | 15107
+| align="right" | 7345
+| align="right" | 29668
+| align="right" | 83393
+| align="right" | 35.6%
+|-
+| Lugo
+| align="right" | 154394
+| align="right" | 23474
+| align="right" | 376
+| align="right" | 23474
+| align="right" | 154770
+| align="right" | 333604
+| align="right" | 46.4%
+|-
+| Cabana de Bergantiños
+| align="right" | 51957
+| align="right" | 1013
+| align="right" | 1079
+| align="right" | 1013
+| align="right" | 53037
+| align="right" | 53523
+| align="right" | 99.1%
+|-
+| Paderne de Allariz
+| align="right" | 23381
+| align="right" | 517
+| align="right" | 95
+| align="right" | 517
+| align="right" | 23476
+| align="right" | 23476
+| align="right" | 100.0%
+|-
+| Allariz
+| align="right" | 18841
+| align="right" | 13187
+| align="right" | 1283
+| align="right" | 13187
+| align="right" | 20124
+| align="right" | 30256
+| align="right" | 66.5%
+|-
+| A Illa de Arousa
+| align="right" | 2270
+| align="right" | 346
+| align="right" | 431
+| align="right" | 346
+| align="right" | 2700
+| align="right" | 12008
+| align="right" | 22.5%
+|-
+| Betanzos
+| align="right" | 16091
+| align="right" | 4445
+| align="right" | 520
+| align="right" | 4445
+| align="right" | 16612
+| align="right" | 36099
+| align="right" | 46.0%
+|-
+| Boqueixón
+| align="right" | 8768
+| align="right" | 1002
+| align="right" | 399
+| align="right" | 1002
+| align="right" | 9167
+| align="right" | 9167
+| align="right" | 100.0%
+|-
+| Gomesende
+| align="right" | 17616
+| align="right" | 238
+| align="right" | 0
+| align="right" | 238
+| align="right" | 17616
+| align="right" | 17616
+| align="right" | 100.0%
+|-
+| Arzúa
+| align="right" | 16601
+| align="right" | 2749
+| align="right" | 0
+| align="right" | 2749
+| align="right" | 16601
+| align="right" | 24912
+| align="right" | 66.6%
+|-
+| Cortegada
+| align="right" | 21273
+| align="right" | 319
+| align="right" | 0
+| align="right" | 319
+| align="right" | 21273
+| align="right" | 24303
+| align="right" | 87.5%
+|-
+| Moaña
+| align="right" | 44794
+| align="right" | 884
+| align="right" | 31749
+| align="right" | 884
+| align="right" | 76543
+| align="right" | 85476
+| align="right" | 89.5%
+|-
+| Val do Dubra
+| align="right" | 19761
+| align="right" | 1240
+| align="right" | 409
+| align="right" | 1240
+| align="right" | 20169
+| align="right" | 23167
+| align="right" | 87.1%
+|-
+| Lobeira
+| align="right" | 18821
+| align="right" | 303
+| align="right" | 0
+| align="right" | 303
+| align="right" | 18821
+| align="right" | 19566
+| align="right" | 96.2%
+|-
+| Brión
+| align="right" | 19427
+| align="right" | 1608
+| align="right" | 911
+| align="right" | 1608
+| align="right" | 20338
+| align="right" | 25110
+| align="right" | 81.0%
+|-
+| Lourenzá
+| align="right" | 22223
+| align="right" | 674
+| align="right" | 0
+| align="right" | 674
+| align="right" | 22223
+| align="right" | 25207
+| align="right" | 88.2%
+|-
+| Tui
+| align="right" | 49105
+| align="right" | 3668
+| align="right" | 1670
+| align="right" | 3668
+| align="right" | 50775
+| align="right" | 65304
+| align="right" | 77.8%
+|-
+| Esgos
+| align="right" | 16471
+| align="right" | 384
+| align="right" | 0
+| align="right" | 384
+| align="right" | 16471
+| align="right" | 16471
+| align="right" | 100.0%
+|-
+| Dozón
+| align="right" | 16049
+| align="right" | 339
+| align="right" | 0
+| align="right" | 339
+| align="right" | 16049
+| align="right" | 16049
+| align="right" | 100.0%
+|-
+| Poio
+| align="right" | 30776
+| align="right" | 3495
+| align="right" | 0
+| align="right" | 3495
+| align="right" | 30776
+| align="right" | 102716
+| align="right" | 30.0%
+|-
+| Paderne
+| align="right" | 15154
+| align="right" | 2002
+| align="right" | 1588
+| align="right" | 2002
+| align="right" | 16742
+| align="right" | 22581
+| align="right" | 74.1%
+|-
+| Baiona
+| align="right" | 20749
+| align="right" | 1164
+| align="right" | 1071
+| align="right" | 1164
+| align="right" | 21820
+| align="right" | 56137
+| align="right" | 38.9%
+|-
+| Moeche
+| align="right" | 250
+| align="right" | 1932
+| align="right" | 0
+| align="right" | 1932
+| align="right" | 250
+| align="right" | 250
+| align="right" | 100.0%
+|-
+| Cartelle
+| align="right" | 47923
+| align="right" | 1151
+| align="right" | 76
+| align="right" | 1151
+| align="right" | 47999
+| align="right" | 48081
+| align="right" | 99.8%
+|-
+| Ponteareas
+| align="right" | 134051
+| align="right" | 5814
+| align="right" | 1621
+| align="right" | 5814
+| align="right" | 135672
+| align="right" | 152349
+| align="right" | 89.1%
+|-
+| O Pereiro de Aguiar
+| align="right" | 47805
+| align="right" | 1435
+| align="right" | 914
+| align="right" | 1435
+| align="right" | 48720
+| align="right" | 50755
+| align="right" | 96.0%
+|-
+| Narón
+| align="right" | 12824
+| align="right" | 16740
+| align="right" | 4971
+| align="right" | 16740
+| align="right" | 17795
+| align="right" | 79773
+| align="right" | 22.3%
+|-
+| Soutomaior
+| align="right" | 17395
+| align="right" | 444
+| align="right" | 1185
+| align="right" | 444
+| align="right" | 18580
+| align="right" | 26018
+| align="right" | 71.4%
+|-
+| Rianxo
+| align="right" | 57949
+| align="right" | 1709
+| align="right" | 0
+| align="right" | 1709
+| align="right" | 57949
+| align="right" | 64247
+| align="right" | 90.2%
+|-
+| Castro Caldelas
+| align="right" | 20805
+| align="right" | 596
+| align="right" | 38
+| align="right" | 596
+| align="right" | 20842
+| align="right" | 28647
+| align="right" | 72.8%
+|-
+| Bueu
+| align="right" | 22525
+| align="right" | 5445
+| align="right" | 29777
+| align="right" | 5445
+| align="right" | 52302
+| align="right" | 65196
+| align="right" | 80.2%
+|-
+| O Saviñao
+| align="right" | 61638
+| align="right" | 1087
+| align="right" | 0
+| align="right" | 1087
+| align="right" | 61638
+| align="right" | 68120
+| align="right" | 90.5%
+|-
+| Vedra
+| align="right" | 30163
+| align="right" | 2431
+| align="right" | 4563
+| align="right" | 2431
+| align="right" | 34726
+| align="right" | 35677
+| align="right" | 97.3%
+|-
+| Vilardevós
+| align="right" | 35502
+| align="right" | 584
+| align="right" | 103
+| align="right" | 584
+| align="right" | 35605
+| align="right" | 37569
+| align="right" | 94.8%
+|-
+| Petín
+| align="right" | 7169
+| align="right" | 231
+| align="right" | 739
+| align="right" | 231
+| align="right" | 7908
+| align="right" | 12882
+| align="right" | 61.4%
+|-
+| Cervantes
+| align="right" | 42817
+| align="right" | 1226
+| align="right" | 304
+| align="right" | 1226
+| align="right" | 43120
+| align="right" | 43391
+| align="right" | 99.4%
+|-
+| Vimianzo
+| align="right" | 62952
+| align="right" | 1680
+| align="right" | 1103
+| align="right" | 1680
+| align="right" | 64055
+| align="right" | 69203
+| align="right" | 92.6%
+|-
+| Sandiás
+| align="right" | 15143
+| align="right" | 412
+| align="right" | 0
+| align="right" | 412
+| align="right" | 15143
+| align="right" | 15329
+| align="right" | 98.8%
+|-
+| Láncara
+| align="right" | 40454
+| align="right" | 835
+| align="right" | 195
+| align="right" | 835
+| align="right" | 40649
+| align="right" | 45194
+| align="right" | 89.9%
+|-
+| Monforte de Lemos
+| align="right" | 61665
+| align="right" | 3059
+| align="right" | 467
+| align="right" | 3059
+| align="right" | 62132
+| align="right" | 91533
+| align="right" | 67.9%
+|-
+| Cotobade
+| align="right" | 50831
+| align="right" | 1289
+| align="right" | 3519
+| align="right" | 1289
+| align="right" | 54350
+| align="right" | 54841
+| align="right" | 99.1%
+|-
+| Catoira
+| align="right" | 20007
+| align="right" | 532
+| align="right" | 573
+| align="right" | 532
+| align="right" | 20580
+| align="right" | 20580
+| align="right" | 100.0%
+|-
+| Santa Comba
+| align="right" | 40643
+| align="right" | 1561
+| align="right" | 0
+| align="right" | 1561
+| align="right" | 40643
+| align="right" | 47494
+| align="right" | 85.6%
+|-
+| Bergondo
+| align="right" | 8689
+| align="right" | 6221
+| align="right" | 2886
+| align="right" | 6221
+| align="right" | 11575
+| align="right" | 88760
+| align="right" | 13.0%
+|-
+| Punxín
+| align="right" | 15181
+| align="right" | 199
+| align="right" | 0
+| align="right" | 199
+| align="right" | 15181
+| align="right" | 15181
+| align="right" | 100.0%
+|-
+| Crecente
+| align="right" | 48836
+| align="right" | 661
+| align="right" | 326
+| align="right" | 661
+| align="right" | 49162
+| align="right" | 49162
+| align="right" | 100.0%
+|-
+| Vilaboa
+| align="right" | 23401
+| align="right" | 688
+| align="right" | 15546
+| align="right" | 688
+| align="right" | 38947
+| align="right" | 38947
+| align="right" | 100.0%
+|-
+| Mondoñedo
+| align="right" | 36283
+| align="right" | 1656
+| align="right" | 90
+| align="right" | 1656
+| align="right" | 36373
+| align="right" | 43453
+| align="right" | 83.7%
+|-
+| Boiro
+| align="right" | 29707
+| align="right" | 1621
+| align="right" | 2428
+| align="right" | 1621
+| align="right" | 32135
+| align="right" | 42375
+| align="right" | 75.8%
+|-
+| Touro
+| align="right" | 16373
+| align="right" | 1099
+| align="right" | 24
+| align="right" | 1099
+| align="right" | 16397
+| align="right" | 17418
+| align="right" | 94.1%
+|-
+| Padrón
+| align="right" | 27968
+| align="right" | 1156
+| align="right" | 355
+| align="right" | 1156
+| align="right" | 28322
+| align="right" | 31232
+| align="right" | 90.7%
+|-
+| Guitiriz
+| align="right" | 53740
+| align="right" | 2583
+| align="right" | 0
+| align="right" | 2583
+| align="right" | 53740
+| align="right" | 67273
+| align="right" | 79.9%
+|-
+| Amoeiro
+| align="right" | 36080
+| align="right" | 378
+| align="right" | 101
+| align="right" | 378
+| align="right" | 36180
+| align="right" | 36180
+| align="right" | 100.0%
+|-
+| Carballeda de Valdeorras
+| align="right" | 23664
+| align="right" | 487
+| align="right" | 136
+| align="right" | 487
+| align="right" | 23800
+| align="right" | 25135
+| align="right" | 94.7%
+|-
+| Baños de Molgas
+| align="right" | 26613
+| align="right" | 1676
+| align="right" | 233
+| align="right" | 1676
+| align="right" | 26846
+| align="right" | 27395
+| align="right" | 98.0%
+|-
+| O Rosal
+| align="right" | 7780
+| align="right" | 1377
+| align="right" | 0
+| align="right" | 1377
+| align="right" | 7780
+| align="right" | 79256
+| align="right" | 9.8%
+|-
+| Friol
+| align="right" | 11870
+| align="right" | 14970
+| align="right" | 0
+| align="right" | 14970
+| align="right" | 11870
+| align="right" | 14116
+| align="right" | 84.1%
+|-
+| Baleira
+| align="right" | 30430
+| align="right" | 607
+| align="right" | 70
+| align="right" | 607
+| align="right" | 30500
+| align="right" | 31477
+| align="right" | 96.9%
+|-
+| Sober
+| align="right" | 51159
+| align="right" | 1497
+| align="right" | 68
+| align="right" | 1497
+| align="right" | 51227
+| align="right" | 51503
+| align="right" | 99.5%
+|-
+| Valdoviño
+| align="right" | 30663
+| align="right" | 6188
+| align="right" | 2375
+| align="right" | 6188
+| align="right" | 33038
+| align="right" | 33669
+| align="right" | 98.1%
+|-
+| Ponte Caldelas
+| align="right" | 18106
+| align="right" | 1167
+| align="right" | 248
+| align="right" | 1167
+| align="right" | 18355
+| align="right" | 19192
+| align="right" | 95.6%
+|-
+| O Corgo
+| align="right" | 59360
+| align="right" | 1572
+| align="right" | 167
+| align="right" | 1572
+| align="right" | 59527
+| align="right" | 62508
+| align="right" | 95.2%
+|-
+| Mugardos
+| align="right" | 5778
+| align="right" | 5593
+| align="right" | 154
+| align="right" | 5593
+| align="right" | 5932
+| align="right" | 30552
+| align="right" | 19.4%
+|-
+| Dodro
+| align="right" | 17268
+| align="right" | 899
+| align="right" | 2126
+| align="right" | 899
+| align="right" | 19393
+| align="right" | 19863
+| align="right" | 97.6%
+|-
+| Melide
+| align="right" | 31716
+| align="right" | 1697
+| align="right" | 0
+| align="right" | 1697
+| align="right" | 31716
+| align="right" | 49075
+| align="right" | 64.6%
+|-
+| Caldas de Reis
+| align="right" | 40842
+| align="right" | 1051
+| align="right" | 772
+| align="right" | 1051
+| align="right" | 41614
+| align="right" | 46419
+| align="right" | 89.6%
+|-
+| Portas
+| align="right" | 16289
+| align="right" | 276
+| align="right" | 215
+| align="right" | 276
+| align="right" | 16504
+| align="right" | 16504
+| align="right" | 100.0%
+|-
+| Outes
+| align="right" | 10800
+| align="right" | 2573
+| align="right" | 706
+| align="right" | 2573
+| align="right" | 11507
+| align="right" | 15545
+| align="right" | 74.0%
+|-
+| A Laracha
+| align="right" | 43797
+| align="right" | 2454
+| align="right" | 2246
+| align="right" | 2454
+| align="right" | 46043
+| align="right" | 62709
+| align="right" | 73.4%
+|-
+| Covelo
+| align="right" | 67665
+| align="right" | 1782
+| align="right" | 8238
+| align="right" | 1782
+| align="right" | 75903
+| align="right" | 76791
+| align="right" | 98.8%
+|-
+| Celanova
+| align="right" | 43658
+| align="right" | 1070
+| align="right" | 167
+| align="right" | 1070
+| align="right" | 43825
+| align="right" | 49881
+| align="right" | 87.9%
+|-
+| Marín
+| align="right" | 58904
+| align="right" | 779
+| align="right" | 19325
+| align="right" | 779
+| align="right" | 78229
+| align="right" | 84821
+| align="right" | 92.2%
+|-
+| Vilarmaior
+| align="right" | 1232
+| align="right" | 1178
+| align="right" | 0
+| align="right" | 1178
+| align="right" | 1232
+| align="right" | 1232
+| align="right" | 100.0%
+|-
+| Vilalba
+| align="right" | 127609
+| align="right" | 4834
+| align="right" | 0
+| align="right" | 4834
+| align="right" | 127609
+| align="right" | 146298
+| align="right" | 87.2%
+|-
+| Xove
+| align="right" | 13383
+| align="right" | 1343
+| align="right" | 0
+| align="right" | 1343
+| align="right" | 13383
+| align="right" | 15797
+| align="right" | 84.7%
+|-
+| Os Blancos
+| align="right" | 15507
+| align="right" | 254
+| align="right" | 0
+| align="right" | 254
+| align="right" | 15507
+| align="right" | 15507
+| align="right" | 100.0%
+|-
+| Baralla
+| align="right" | 44431
+| align="right" | 707
+| align="right" | 0
+| align="right" | 707
+| align="right" | 44431
+| align="right" | 50049
+| align="right" | 88.8%
+|-
+| Tomiño
+| align="right" | 122539
+| align="right" | 1971
+| align="right" | 3037
+| align="right" | 1971
+| align="right" | 125576
+| align="right" | 129343
+| align="right" | 97.1%
+|-
+| Vila de Cruces
+| align="right" | 55585
+| align="right" | 2075
+| align="right" | 856
+| align="right" | 2075
+| align="right" | 56441
+| align="right" | 59361
+| align="right" | 95.1%
+|-
+| Ribeira
+| align="right" | 28016
+| align="right" | 2310
+| align="right" | 5156
+| align="right" | 2310
+| align="right" | 33173
+| align="right" | 75696
+| align="right" | 43.8%
+|-
+| Cerdido
+| align="right" | 0
+| align="right" | 1100
+| align="right" | 0
+| align="right" | 1100
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Avión
+| align="right" | 32407
+| align="right" | 419
+| align="right" | 578
+| align="right" | 419
+| align="right" | 32985
+| align="right" | 32985
+| align="right" | 100.0%
+|-
+| O Irixo
+| align="right" | 32721
+| align="right" | 577
+| align="right" | 0
+| align="right" | 577
+| align="right" | 32721
+| align="right" | 32721
+| align="right" | 100.0%
+|-
+| Manzaneda
+| align="right" | 17343
+| align="right" | 442
+| align="right" | 605
+| align="right" | 442
+| align="right" | 17948
+| align="right" | 20070
+| align="right" | 89.4%
+|-
+| Toén
+| align="right" | 34534
+| align="right" | 550
+| align="right" | 46
+| align="right" | 550
+| align="right" | 34579
+| align="right" | 34579
+| align="right" | 100.0%
+|-
+| Carral
+| align="right" | 8055
+| align="right" | 3335
+| align="right" | 3464
+| align="right" | 3335
+| align="right" | 11520
+| align="right" | 23396
+| align="right" | 49.2%
+|-
+| Oímbra
+| align="right" | 18728
+| align="right" | 308
+| align="right" | 0
+| align="right" | 308
+| align="right" | 18728
+| align="right" | 18813
+| align="right" | 99.5%
+|-
+| Cee
+| align="right" | 31503
+| align="right" | 1080
+| align="right" | 4715
+| align="right" | 1080
+| align="right" | 36218
+| align="right" | 45249
+| align="right" | 80.0%
+|-
+| Moraña
+| align="right" | 36043
+| align="right" | 427
+| align="right" | 0
+| align="right" | 427
+| align="right" | 36043
+| align="right" | 36312
+| align="right" | 99.3%
+|-
+| A Pobra do Caramiñal
+| align="right" | 18625
+| align="right" | 934
+| align="right" | 706
+| align="right" | 934
+| align="right" | 19331
+| align="right" | 31928
+| align="right" | 60.5%
+|-
+| Oleiros
+| align="right" | 15062
+| align="right" | 16354
+| align="right" | 4041
+| align="right" | 16354
+| align="right" | 19102
+| align="right" | 200371
+| align="right" | 9.5%
+|-
+| Mañón
+| align="right" | 15243
+| align="right" | 1649
+| align="right" | 0
+| align="right" | 1649
+| align="right" | 15243
+| align="right" | 15881
+| align="right" | 96.0%
+|-
+| Castrelo de Miño
+| align="right" | 27222
+| align="right" | 393
+| align="right" | 0
+| align="right" | 393
+| align="right" | 27222
+| align="right" | 28730
+| align="right" | 94.8%
+|-
+| Mazaricos
+| align="right" | 52825
+| align="right" | 1216
+| align="right" | 58
+| align="right" | 1216
+| align="right" | 52883
+| align="right" | 52883
+| align="right" | 100.0%
+|-
+| Cerdedo
+| align="right" | 21012
+| align="right" | 459
+| align="right" | 2174
+| align="right" | 459
+| align="right" | 23186
+| align="right" | 25038
+| align="right" | 92.6%
+|-
+| Taboada
+| align="right" | 10532
+| align="right" | 566
+| align="right" | 77
+| align="right" | 566
+| align="right" | 10610
+| align="right" | 17556
+| align="right" | 60.4%
+|-
+| Nigrán
+| align="right" | 44738
+| align="right" | 1533
+| align="right" | 2202
+| align="right" | 1533
+| align="right" | 46940
+| align="right" | 64461
+| align="right" | 72.8%
+|-
+| Ferrol
+| align="right" | 36435
+| align="right" | 18917
+| align="right" | 12417
+| align="right" | 18917
+| align="right" | 48852
+| align="right" | 154540
+| align="right" | 31.6%
+|-
+| Maceda
+| align="right" | 28472
+| align="right" | 837
+| align="right" | 359
+| align="right" | 837
+| align="right" | 28831
+| align="right" | 34217
+| align="right" | 84.3%
+|-
+| Forcarei
+| align="right" | 36960
+| align="right" | 1010
+| align="right" | 23
+| align="right" | 1010
+| align="right" | 36984
+| align="right" | 39692
+| align="right" | 93.2%
+|-
+| Lousame
+| align="right" | 24119
+| align="right" | 778
+| align="right" | 1536
+| align="right" | 778
+| align="right" | 25656
+| align="right" | 25656
+| align="right" | 100.0%
+|-
+| Ames
+| align="right" | 40190
+| align="right" | 2474
+| align="right" | 6348
+| align="right" | 2474
+| align="right" | 46538
+| align="right" | 71073
+| align="right" | 65.5%
+|-
+| Porto do Son
+| align="right" | 24813
+| align="right" | 1706
+| align="right" | 1929
+| align="right" | 1706
+| align="right" | 26742
+| align="right" | 31055
+| align="right" | 86.1%
+|-
+| Vilagarcía de Arousa
+| align="right" | 36197
+| align="right" | 2090
+| align="right" | 1355
+| align="right" | 2090
+| align="right" | 37552
+| align="right" | 111239
+| align="right" | 33.8%
+|-
+| Outeiro de Rei
+| align="right" | 36003
+| align="right" | 1503
+| align="right" | 78
+| align="right" | 1503
+| align="right" | 36081
+| align="right" | 38079
+| align="right" | 94.8%
+|-
+| Parada de Sil
+| align="right" | 14814
+| align="right" | 552
+| align="right" | 0
+| align="right" | 552
+| align="right" | 14814
+| align="right" | 14936
+| align="right" | 99.2%
+|-
+| Mesía
+| align="right" | 7195
+| align="right" | 2697
+| align="right" | 228
+| align="right" | 2697
+| align="right" | 7422
+| align="right" | 7422
+| align="right" | 100.0%
+|-
+| Trasmiras
+| align="right" | 19971
+| align="right" | 451
+| align="right" | 165
+| align="right" | 451
+| align="right" | 20136
+| align="right" | 21396
+| align="right" | 94.1%
+|-
+| Pontedeume
+| align="right" | 9967
+| align="right" | 3234
+| align="right" | 949
+| align="right" | 3234
+| align="right" | 10916
+| align="right" | 22073
+| align="right" | 49.5%
+|-
+| San Amaro
+| align="right" | 12301
+| align="right" | 262
+| align="right" | 0
+| align="right" | 262
+| align="right" | 12301
+| align="right" | 12301
+| align="right" | 100.0%
+|-
+| Oia
+| align="right" | 29850
+| align="right" | 816
+| align="right" | 1742
+| align="right" | 816
+| align="right" | 31592
+| align="right" | 32344
+| align="right" | 97.7%
+|-
+| Cambados
+| align="right" | 63057
+| align="right" | 1203
+| align="right" | 6536
+| align="right" | 1203
+| align="right" | 69593
+| align="right" | 81032
+| align="right" | 85.9%
+|-
+| Riotorto
+| align="right" | 22484
+| align="right" | 388
+| align="right" | 0
+| align="right" | 388
+| align="right" | 22484
+| align="right" | 22484
+| align="right" | 100.0%
+|-
+| O Pino
+| align="right" | 18981
+| align="right" | 2609
+| align="right" | 204
+| align="right" | 2609
+| align="right" | 19185
+| align="right" | 24310
+| align="right" | 78.9%
+|-
+| Maside
+| align="right" | 34247
+| align="right" | 713
+| align="right" | 0
+| align="right" | 713
+| align="right" | 34247
+| align="right" | 34862
+| align="right" | 98.2%
+|-
+| Leiro
+| align="right" | 21741
+| align="right" | 353
+| align="right" | 1654
+| align="right" | 353
+| align="right" | 23395
+| align="right" | 23684
+| align="right" | 98.8%
+|-
+| Camariñas
+| align="right" | 23198
+| align="right" | 2040
+| align="right" | 4107
+| align="right" | 2040
+| align="right" | 27305
+| align="right" | 45075
+| align="right" | 60.6%
+|-
+| Ourense
+| align="right" | 153151
+| align="right" | 6783
+| align="right" | 1271
+| align="right" | 6783
+| align="right" | 154422
+| align="right" | 252919
+| align="right" | 61.1%
+|-
+| A Baña
+| align="right" | 15797
+| align="right" | 1070
+| align="right" | 1102
+| align="right" | 1070
+| align="right" | 16898
+| align="right" | 17384
+| align="right" | 97.2%
+|-
+| Becerreá
+| align="right" | 39850
+| align="right" | 971
+| align="right" | 0
+| align="right" | 971
+| align="right" | 39850
+| align="right" | 49036
+| align="right" | 81.3%
+|-
+| Rairiz de Veiga
+| align="right" | 22532
+| align="right" | 353
+| align="right" | 0
+| align="right" | 353
+| align="right" | 22532
+| align="right" | 22532
+| align="right" | 100.0%
+|-
+| Muíños
+| align="right" | 25635
+| align="right" | 559
+| align="right" | 349
+| align="right" | 559
+| align="right" | 25984
+| align="right" | 27482
+| align="right" | 94.5%
+|-
+| Ribeira de Piquín
+| align="right" | 18398
+| align="right" | 249
+| align="right" | 0
+| align="right" | 249
+| align="right" | 18398
+| align="right" | 18398
+| align="right" | 100.0%
+|-
+| Ribadavia
+| align="right" | 22510
+| align="right" | 612
+| align="right" | 0
+| align="right" | 612
+| align="right" | 22510
+| align="right" | 25402
+| align="right" | 88.6%
+|-
+| Quintela de Leirado
+| align="right" | 10906
+| align="right" | 145
+| align="right" | 0
+| align="right" | 145
+| align="right" | 10906
+| align="right" | 10906
+| align="right" | 100.0%
+|-
+| Cuntis
+| align="right" | 23356
+| align="right" | 1048
+| align="right" | 0
+| align="right" | 1048
+| align="right" | 23356
+| align="right" | 24366
+| align="right" | 95.9%
+|-
+| San Cristovo de Cea
+| align="right" | 41283
+| align="right" | 820
+| align="right" | 114
+| align="right" | 820
+| align="right" | 41397
+| align="right" | 41460
+| align="right" | 99.8%
+|-
+| O Carballiño
+| align="right" | 55220
+| align="right" | 1040
+| align="right" | 0
+| align="right" | 1040
+| align="right" | 55220
+| align="right" | 69266
+| align="right" | 79.7%
+|-
+| Cedeira
+| align="right" | 20913
+| align="right" | 2700
+| align="right" | 615
+| align="right" | 2700
+| align="right" | 21528
+| align="right" | 34091
+| align="right" | 63.2%
+|-
+| Burela
+| align="right" | 12688
+| align="right" | 527
+| align="right" | 137
+| align="right" | 527
+| align="right" | 12825
+| align="right" | 41007
+| align="right" | 31.3%
+|-
+| Mondariz-Balneario
+| align="right" | 2727
+| align="right" | 290
+| align="right" | 1149
+| align="right" | 290
+| align="right" | 3876
+| align="right" | 5186
+| align="right" | 74.7%
+|-
+| Rábade
+| align="right" | 2871
+| align="right" | 306
+| align="right" | 0
+| align="right" | 306
+| align="right" | 2871
+| align="right" | 12706
+| align="right" | 22.6%
+|-
+| Negreira
+| align="right" | 23339
+| align="right" | 2458
+| align="right" | 1762
+| align="right" | 2458
+| align="right" | 25101
+| align="right" | 29788
+| align="right" | 84.3%
+|-
+| Santiso
+| align="right" | 4601
+| align="right" | 1385
+| align="right" | 0
+| align="right" | 1385
+| align="right" | 4601
+| align="right" | 4601
+| align="right" | 100.0%
+|-
+| Barbadás
+| align="right" | 30245
+| align="right" | 1213
+| align="right" | 1750
+| align="right" | 1213
+| align="right" | 31995
+| align="right" | 49495
+| align="right" | 64.6%
+|-
+| Muxía
+| align="right" | 35814
+| align="right" | 1856
+| align="right" | 10446
+| align="right" | 1856
+| align="right" | 46260
+| align="right" | 51244
+| align="right" | 90.3%
+|-
+| Trabada
+| align="right" | 19207
+| align="right" | 713
+| align="right" | 0
+| align="right" | 713
+| align="right" | 19207
+| align="right" | 20266
+| align="right" | 94.8%
+|-
+| Coristanco
+| align="right" | 19704
+| align="right" | 1921
+| align="right" | 0
+| align="right" | 1921
+| align="right" | 19704
+| align="right" | 25897
+| align="right" | 76.1%
+|-
+| A Capela
+| align="right" | 5754
+| align="right" | 627
+| align="right" | 0
+| align="right" | 627
+| align="right" | 5754
+| align="right" | 5754
+| align="right" | 100.0%
+|-
+| Beariz
+| align="right" | 12133
+| align="right" | 223
+| align="right" | 109
+| align="right" | 223
+| align="right" | 12243
+| align="right" | 12243
+| align="right" | 100.0%
+|-
+| O Valadouro
+| align="right" | 5047
+| align="right" | 652
+| align="right" | 0
+| align="right" | 652
+| align="right" | 5047
+| align="right" | 7332
+| align="right" | 68.8%
+|-
+| Abegondo
+| align="right" | 30062
+| align="right" | 5029
+| align="right" | 3146
+| align="right" | 5029
+| align="right" | 33209
+| align="right" | 33396
+| align="right" | 99.4%
+|-
+| A Bola
+| align="right" | 16845
+| align="right" | 260
+| align="right" | 0
+| align="right" | 260
+| align="right" | 16845
+| align="right" | 16845
+| align="right" | 100.0%
+|-
+| Fene
+| align="right" | 5737
+| align="right" | 5514
+| align="right" | 1014
+| align="right" | 5514
+| align="right" | 6751
+| align="right" | 42602
+| align="right" | 15.8%
+|-
+| Salvaterra de Miño
+| align="right" | 62318
+| align="right" | 2750
+| align="right" | 4738
+| align="right" | 2750
+| align="right" | 67056
+| align="right" | 71307
+| align="right" | 94.0%
+|-
+| Castrelo do Val
+| align="right" | 21364
+| align="right" | 2341
+| align="right" | 188
+| align="right" | 2341
+| align="right" | 21552
+| align="right" | 23979
+| align="right" | 89.9%
+|-
+| Calvos de Randín
+| align="right" | 23016
+| align="right" | 589
+| align="right" | 0
+| align="right" | 589
+| align="right" | 23016
+| align="right" | 23016
+| align="right" | 100.0%
+|-
+| Boborás
+| align="right" | 38956
+| align="right" | 601
+| align="right" | 33
+| align="right" | 601
+| align="right" | 38989
+| align="right" | 39387
+| align="right" | 99.0%
+|-
+| Ponteceso
+| align="right" | 62903
+| align="right" | 2360
+| align="right" | 1443
+| align="right" | 2360
+| align="right" | 64346
+| align="right" | 73882
+| align="right" | 87.1%
+|-
+| Noia
+| align="right" | 14081
+| align="right" | 2944
+| align="right" | 604
+| align="right" | 2944
+| align="right" | 14685
+| align="right" | 30067
+| align="right" | 48.8%
+|-
+| Agolada
+| align="right" | 37932
+| align="right" | 1311
+| align="right" | 0
+| align="right" | 1311
+| align="right" | 37932
+| align="right" | 39325
+| align="right" | 96.5%
+|-
+| Cospeito
+| align="right" | 18888
+| align="right" | 858
+| align="right" | 0
+| align="right" | 858
+| align="right" | 18888
+| align="right" | 24336
+| align="right" | 77.6%
+|-
+| Cenlle
+| align="right" | 20540
+| align="right" | 299
+| align="right" | 0
+| align="right" | 299
+| align="right" | 20540
+| align="right" | 20780
+| align="right" | 98.8%
+|-
+| Sarreaus
+| align="right" | 20519
+| align="right" | 569
+| align="right" | 0
+| align="right" | 569
+| align="right" | 20519
+| align="right" | 20519
+| align="right" | 100.0%
+|-
+| A Arnoia
+| align="right" | 13944
+| align="right" | 256
+| align="right" | 437
+| align="right" | 256
+| align="right" | 14381
+| align="right" | 14381
+| align="right" | 100.0%
+|-
+| Mos
+| align="right" | 44192
+| align="right" | 1893
+| align="right" | 8240
+| align="right" | 1893
+| align="right" | 52432
+| align="right" | 60516
+| align="right" | 86.6%
+|-
+| Pedrafita do Cebreiro
+| align="right" | 21915
+| align="right" | 539
+| align="right" | 0
+| align="right" | 539
+| align="right" | 21915
+| align="right" | 23730
+| align="right" | 92.4%
+|-
+| Quiroga
+| align="right" | 44738
+| align="right" | 1357
+| align="right" | 864
+| align="right" | 1357
+| align="right" | 45602
+| align="right" | 50782
+| align="right" | 89.8%
+|-
+| Silleda
+| align="right" | 70033
+| align="right" | 1966
+| align="right" | 0
+| align="right" | 1966
+| align="right" | 70033
+| align="right" | 77044
+| align="right" | 90.9%
+|-
+| Bóveda
+| align="right" | 17142
+| align="right" | 671
+| align="right" | 50
+| align="right" | 671
+| align="right" | 17193
+| align="right" | 19870
+| align="right" | 86.5%
+|-
+| Chantada
+| align="right" | 77585
+| align="right" | 1996
+| align="right" | 469
+| align="right" | 1996
+| align="right" | 78053
+| align="right" | 86050
+| align="right" | 90.7%
+|-
+| Vilamartín de Valdeorras
+| align="right" | 15951
+| align="right" | 543
+| align="right" | 0
+| align="right" | 543
+| align="right" | 15951
+| align="right" | 18003
+| align="right" | 88.6%
+|-
+| Curtis
+| align="right" | 14613
+| align="right" | 3659
+| align="right" | 603
+| align="right" | 3659
+| align="right" | 15217
+| align="right" | 29001
+| align="right" | 52.5%
+|-
+| Pantón
+| align="right" | 38905
+| align="right" | 1003
+| align="right" | 0
+| align="right" | 1003
+| align="right" | 38905
+| align="right" | 41453
+| align="right" | 93.9%
+|-
+| Vilasantar
+| align="right" | 11681
+| align="right" | 1604
+| align="right" | 235
+| align="right" | 1604
+| align="right" | 11917
+| align="right" | 12723
+| align="right" | 93.7%
+|-
+| Ourol
+| align="right" | 2903
+| align="right" | 1029
+| align="right" | 297
+| align="right" | 1029
+| align="right" | 3200
+| align="right" | 3200
+| align="right" | 100.0%
+|-
+| As Nogais
+| align="right" | 23050
+| align="right" | 1016
+| align="right" | 0
+| align="right" | 1016
+| align="right" | 23050
+| align="right" | 24436
+| align="right" | 94.3%
+|-
+| Carballeda de Avia
+| align="right" | 20923
+| align="right" | 488
+| align="right" | 1004
+| align="right" | 488
+| align="right" | 21927
+| align="right" | 22258
+| align="right" | 98.5%
+|-
+| A Merca
+| align="right" | 34306
+| align="right" | 1009
+| align="right" | 64
+| align="right" | 1009
+| align="right" | 34370
+| align="right" | 35139
+| align="right" | 97.8%
+|-
+| Portomarín
+| align="right" | 22052
+| align="right" | 945
+| align="right" | 0
+| align="right" | 945
+| align="right" | 22052
+| align="right" | 24924
+| align="right" | 88.5%
+|-
+| Muros
+| align="right" | 38474
+| align="right" | 1583
+| align="right" | 5467
+| align="right" | 1583
+| align="right" | 43940
+| align="right" | 47014
+| align="right" | 93.5%
+|-
+| Arteixo
+| align="right" | 29705
+| align="right" | 8059
+| align="right" | 17318
+| align="right" | 8059
+| align="right" | 47024
+| align="right" | 110861
+| align="right" | 42.4%
+|-
+| Antas de Ulla
+| align="right" | 35116
+| align="right" | 609
+| align="right" | 0
+| align="right" | 609
+| align="right" | 35116
+| align="right" | 38888
+| align="right" | 90.3%
+|-
+| Ramirás
+| align="right" | 31741
+| align="right" | 415
+| align="right" | 146
+| align="right" | 415
+| align="right" | 31888
+| align="right" | 31888
+| align="right" | 100.0%
+|-
+| Meis
+| align="right" | 51750
+| align="right" | 1405
+| align="right" | 6209
+| align="right" | 1405
+| align="right" | 57958
+| align="right" | 57958
+| align="right" | 100.0%
+|-
+| Tordoia
+| align="right" | 7458
+| align="right" | 720
+| align="right" | 1018
+| align="right" | 720
+| align="right" | 8476
+| align="right" | 8476
+| align="right" | 100.0%
+|-
+| Neda
+| align="right" | 7480
+| align="right" | 2141
+| align="right" | 339
+| align="right" | 2141
+| align="right" | 7819
+| align="right" | 15690
+| align="right" | 49.8%
+|-
+| Folgoso do Courel
+| align="right" | 27513
+| align="right" | 1332
+| align="right" | 0
+| align="right" | 1332
+| align="right" | 27513
+| align="right" | 27513
+| align="right" | 100.0%
+|-
+| Oza-Cesuras
+| align="right" | 12999
+| align="right" | 5847
+| align="right" | 3637
+| align="right" | 5847
+| align="right" | 16636
+| align="right" | 16808
+| align="right" | 99.0%
+|-
+| Cualedro
+| align="right" | 26174
+| align="right" | 753
+| align="right" | 0
+| align="right" | 753
+| align="right" | 26174
+| align="right" | 27052
+| align="right" | 96.8%
+|-
+| Taboadela
+| align="right" | 7382
+| align="right" | 192
+| align="right" | 0
+| align="right" | 192
+| align="right" | 7382
+| align="right" | 7382
+| align="right" | 100.0%
+|-
+| A Rúa
+| align="right" | 8462
+| align="right" | 550
+| align="right" | 0
+| align="right" | 550
+| align="right" | 8462
+| align="right" | 29093
+| align="right" | 29.1%
+|-
+| Xermade
+| align="right" | 7747
+| align="right" | 1015
+| align="right" | 205
+| align="right" | 1015
+| align="right" | 7951
+| align="right" | 8027
+| align="right" | 99.1%
+|-
+| Abadín
+| align="right" | 6383
+| align="right" | 859
+| align="right" | 0
+| align="right" | 859
+| align="right" | 6383
+| align="right" | 6383
+| align="right" | 100.0%
+|-
+| Aranga
+| align="right" | 8754
+| align="right" | 2333
+| align="right" | 1377
+| align="right" | 2333
+| align="right" | 10131
+| align="right" | 10131
+| align="right" | 100.0%
+|-
+| As Neves
+| align="right" | 69028
+| align="right" | 1711
+| align="right" | 2674
+| align="right" | 1711
+| align="right" | 71702
+| align="right" | 72888
+| align="right" | 98.4%
+|-
+| Cambre
+| align="right" | 40601
+| align="right" | 6613
+| align="right" | 12923
+| align="right" | 6613
+| align="right" | 53524
+| align="right" | 70006
+| align="right" | 76.5%
+|-
+| Cervo
+| align="right" | 11585
+| align="right" | 1198
+| align="right" | 0
+| align="right" | 1198
+| align="right" | 11585
+| align="right" | 19707
+| align="right" | 58.8%
+|-
+| San Sadurniño
+| align="right" | 739
+| align="right" | 1820
+| align="right" | 136
+| align="right" | 1820
+| align="right" | 875
+| align="right" | 1744
+| align="right" | 50.1%
+|-
+| Rodeiro
+| align="right" | 39847
+| align="right" | 674
+| align="right" | 149
+| align="right" | 674
+| align="right" | 39995
+| align="right" | 41300
+| align="right" | 96.8%
+|-
+| Xunqueira de Espadanedo
+| align="right" | 14790
+| align="right" | 227
+| align="right" | 0
+| align="right" | 227
+| align="right" | 14790
+| align="right" | 14790
+| align="right" | 100.0%
+|-
+| Monterroso
+| align="right" | 39392
+| align="right" | 1126
+| align="right" | 0
+| align="right" | 1126
+| align="right" | 39392
+| align="right" | 51631
+| align="right" | 76.3%
+|-
+| Padrenda
+| align="right" | 22354
+| align="right" | 480
+| align="right" | 2354
+| align="right" | 480
+| align="right" | 24709
+| align="right" | 25598
+| align="right" | 96.5%
+|-
+| Larouco
+| align="right" | 5591
+| align="right" | 159
+| align="right" | 0
+| align="right" | 159
+| align="right" | 5591
+| align="right" | 9384
+| align="right" | 59.6%
+|-
+| Cariño
+| align="right" | 23367
+| align="right" | 2796
+| align="right" | 185
+| align="right" | 2796
+| align="right" | 23553
+| align="right" | 27659
+| align="right" | 85.2%
+|-
+| Campo Lameiro
+| align="right" | 27529
+| align="right" | 380
+| align="right" | 314
+| align="right" | 380
+| align="right" | 27843
+| align="right" | 27843
+| align="right" | 100.0%
+|-
+| Chandrexa de Queixa
+| align="right" | 3530
+| align="right" | 254
+| align="right" | 4170
+| align="right" | 254
+| align="right" | 7700
+| align="right" | 7700
+| align="right" | 100.0%
+|-
+| Ordes
+| align="right" | 18695
+| align="right" | 3019
+| align="right" | 219
+| align="right" | 3019
+| align="right" | 18915
+| align="right" | 28705
+| align="right" | 65.9%
+|-
+| A Cañiza
+| align="right" | 58662
+| align="right" | 1747
+| align="right" | 3599
+| align="right" | 1747
+| align="right" | 62260
+| align="right" | 66037
+| align="right" | 94.3%
+|-
+| A Fonsagrada
+| align="right" | 66206
+| align="right" | 1412
+| align="right" | 0
+| align="right" | 1412
+| align="right" | 66206
+| align="right" | 70310
+| align="right" | 94.2%
+|-
+| Salceda de Caselas
+| align="right" | 20520
+| align="right" | 966
+| align="right" | 2551
+| align="right" | 966
+| align="right" | 23072
+| align="right" | 26363
+| align="right" | 87.5%
+|-
+| Nogueira de Ramuín
+| align="right" | 34437
+| align="right" | 958
+| align="right" | 340
+| align="right" | 958
+| align="right" | 34777
+| align="right" | 34837
+| align="right" | 99.8%
+|-
+| Xinzo de Limia
+| align="right" | 64762
+| align="right" | 1404
+| align="right" | 336
+| align="right" | 1404
+| align="right" | 65099
+| align="right" | 70142
+| align="right" | 92.8%
+|-
+| Pazos de Borbén
+| align="right" | 12038
+| align="right" | 516
+| align="right" | 0
+| align="right" | 516
+| align="right" | 12038
+| align="right" | 12038
+| align="right" | 100.0%
+|-
+| Meaño
+| align="right" | 33785
+| align="right" | 598
+| align="right" | 1826
+| align="right" | 598
+| align="right" | 35611
+| align="right" | 35611
+| align="right" | 100.0%
+|-
+| Rois
+| align="right" | 23283
+| align="right" | 990
+| align="right" | 0
+| align="right" | 990
+| align="right" | 23283
+| align="right" | 23345
+| align="right" | 99.7%
+|-
+| A Veiga
+| align="right" | 34013
+| align="right" | 806
+| align="right" | 0
+| align="right" | 806
+| align="right" | 34013
+| align="right" | 34013
+| align="right" | 100.0%
+|-
+| Lalín
+| align="right" | 97559
+| align="right" | 3799
+| align="right" | 945
+| align="right" | 3799
+| align="right" | 98504
+| align="right" | 120069
+| align="right" | 82.0%
+|-
+| O Bolo
+| align="right" | 30867
+| align="right" | 585
+| align="right" | 106
+| align="right" | 585
+| align="right" | 30973
+| align="right" | 32283
+| align="right" | 95.9%
+|-
+| A Estrada
+| align="right" | 17984
+| align="right" | 4449
+| align="right" | 0
+| align="right" | 4449
+| align="right" | 17984
+| align="right" | 32267
+| align="right" | 55.7%
+|-
+| Zas
+| align="right" | 21348
+| align="right" | 1203
+| align="right" | 0
+| align="right" | 1203
+| align="right" | 21348
+| align="right" | 23019
+| align="right" | 92.7%
+|-
+| A Lama
+| align="right" | 31794
+| align="right" | 627
+| align="right" | 0
+| align="right" | 627
+| align="right" | 31794
+| align="right" | 31896
+| align="right" | 99.7%
+|-
+| Pontedeva
+| align="right" | 6702
+| align="right" | 104
+| align="right" | 50
+| align="right" | 104
+| align="right" | 6752
+| align="right" | 6752
+| align="right" | 100.0%
+|-
+| Barreiros
+| align="right" | 23663
+| align="right" | 1007
+| align="right" | 0
+| align="right" | 1007
+| align="right" | 23663
+| align="right" | 25452
+| align="right" | 93.0%
+|-
+| Ortigueira
+| align="right" | 56346
+| align="right" | 7873
+| align="right" | 591
+| align="right" | 7873
+| align="right" | 56937
+| align="right" | 58498
+| align="right" | 97.3%
+|-
+| Arbo
+| align="right" | 62060
+| align="right" | 1800
+| align="right" | 1133
+| align="right" | 1800
+| align="right" | 63193
+| align="right" | 63283
+| align="right" | 99.9%
+|-
+| Viana do Bolo
+| align="right" | 52281
+| align="right" | 747
+| align="right" | 123
+| align="right" | 747
+| align="right" | 52404
+| align="right" | 60976
+| align="right" | 85.9%
+|-
+| Carnota
+| align="right" | 37282
+| align="right" | 2211
+| align="right" | 1336
+| align="right" | 2211
+| align="right" | 38618
+| align="right" | 39054
+| align="right" | 98.9%
+|-
+|}
