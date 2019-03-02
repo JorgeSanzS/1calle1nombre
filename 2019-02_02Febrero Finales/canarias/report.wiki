@@ -1,0 +1,805 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| La Victoria de Acentejo
+| align="right" | 1865
+| align="right" | 686
+| align="right" | 0
+| align="right" | 686
+| align="right" | 1865
+| align="right" | 24821
+| align="right" | 7.5%
+|-
+| Gáldar
+| align="right" | 1557
+| align="right" | 2707
+| align="right" | 0
+| align="right" | 2707
+| align="right" | 1557
+| align="right" | 96835
+| align="right" | 1.6%
+|-
+| San Cristóbal de La Laguna
+| align="right" | 57250
+| align="right" | 16028
+| align="right" | 674
+| align="right" | 16028
+| align="right" | 57924
+| align="right" | 386113
+| align="right" | 15.0%
+|-
+| Tejeda
+| align="right" | 572
+| align="right" | 1780
+| align="right" | 0
+| align="right" | 1780
+| align="right" | 572
+| align="right" | 12101
+| align="right" | 4.7%
+|-
+| Los Silos
+| align="right" | 897
+| align="right" | 7073
+| align="right" | 0
+| align="right" | 7073
+| align="right" | 897
+| align="right" | 20628
+| align="right" | 4.4%
+|-
+| Los Llanos de Aridane
+| align="right" | 18597
+| align="right" | 4611
+| align="right" | 0
+| align="right" | 4611
+| align="right" | 18597
+| align="right" | 63851
+| align="right" | 29.1%
+|-
+| Garafía
+| align="right" | 13526
+| align="right" | 3350
+| align="right" | 0
+| align="right" | 3350
+| align="right" | 13526
+| align="right" | 15345
+| align="right" | 88.1%
+|-
+| Agüimes
+| align="right" | 3114
+| align="right" | 6921
+| align="right" | 541
+| align="right" | 6921
+| align="right" | 3654
+| align="right" | 129540
+| align="right" | 2.8%
+|-
+| Los Realejos
+| align="right" | 31613
+| align="right" | 3229
+| align="right" | 0
+| align="right" | 3229
+| align="right" | 31613
+| align="right" | 96952
+| align="right" | 32.6%
+|-
+| Antigua
+| align="right" | 4458
+| align="right" | 2958
+| align="right" | 0
+| align="right" | 2958
+| align="right" | 4458
+| align="right" | 101873
+| align="right" | 4.4%
+|-
+| Yaiza
+| align="right" | 3969
+| align="right" | 10746
+| align="right" | 25083
+| align="right" | 10746
+| align="right" | 29052
+| align="right" | 183321
+| align="right" | 15.8%
+|-
+| Puntallana
+| align="right" | 7141
+| align="right" | 1379
+| align="right" | 0
+| align="right" | 1379
+| align="right" | 7141
+| align="right" | 10941
+| align="right" | 65.3%
+|-
+| Tijarafe
+| align="right" | 14408
+| align="right" | 2575
+| align="right" | 0
+| align="right" | 2575
+| align="right" | 14408
+| align="right" | 26444
+| align="right" | 54.5%
+|-
+| La Guancha
+| align="right" | 6243
+| align="right" | 909
+| align="right" | 0
+| align="right" | 909
+| align="right" | 6243
+| align="right" | 24255
+| align="right" | 25.7%
+|-
+| Tegueste
+| align="right" | 4561
+| align="right" | 1032
+| align="right" | 0
+| align="right" | 1032
+| align="right" | 4561
+| align="right" | 42806
+| align="right" | 10.7%
+|-
+| Tinajo
+| align="right" | 733
+| align="right" | 1293
+| align="right" | 0
+| align="right" | 1293
+| align="right" | 733
+| align="right" | 50076
+| align="right" | 1.5%
+|-
+| Ingenio
+| align="right" | 553
+| align="right" | 2193
+| align="right" | 78
+| align="right" | 2193
+| align="right" | 631
+| align="right" | 100931
+| align="right" | 0.6%
+|-
+| Arucas
+| align="right" | 1472
+| align="right" | 2235
+| align="right" | 0
+| align="right" | 2235
+| align="right" | 1472
+| align="right" | 91247
+| align="right" | 1.6%
+|-
+| El Rosario
+| align="right" | 5445
+| align="right" | 13638
+| align="right" | 89
+| align="right" | 13638
+| align="right" | 5534
+| align="right" | 58458
+| align="right" | 9.5%
+|-
+| Tuineje
+| align="right" | 12363
+| align="right" | 4993
+| align="right" | 0
+| align="right" | 4993
+| align="right" | 12363
+| align="right" | 65756
+| align="right" | 18.8%
+|-
+| Santiago del Teide
+| align="right" | 3069
+| align="right" | 9220
+| align="right" | 0
+| align="right" | 9220
+| align="right" | 3069
+| align="right" | 30832
+| align="right" | 10.0%
+|-
+| Santa Cruz de Tenerife
+| align="right" | 25946
+| align="right" | 25790
+| align="right" | 25
+| align="right" | 25790
+| align="right" | 25971
+| align="right" | 359471
+| align="right" | 7.2%
+|-
+| Telde
+| align="right" | 2623
+| align="right" | 5651
+| align="right" | 158
+| align="right" | 5651
+| align="right" | 2782
+| align="right" | 263628
+| align="right" | 1.1%
+|-
+| Garachico
+| align="right" | 6790
+| align="right" | 5101
+| align="right" | 0
+| align="right" | 5101
+| align="right" | 6790
+| align="right" | 23779
+| align="right" | 28.6%
+|-
+| Valsequillo de Gran Canaria
+| align="right" | 640
+| align="right" | 1080
+| align="right" | 0
+| align="right" | 1080
+| align="right" | 640
+| align="right" | 50402
+| align="right" | 1.3%
+|-
+| Güímar
+| align="right" | 13851
+| align="right" | 4846
+| align="right" | 0
+| align="right" | 4846
+| align="right" | 13851
+| align="right" | 58724
+| align="right" | 23.6%
+|-
+| Frontera
+| align="right" | 1821
+| align="right" | 5769
+| align="right" | 74
+| align="right" | 5769
+| align="right" | 1895
+| align="right" | 20494
+| align="right" | 9.2%
+|-
+| Santa María de Guía de Gran Canaria
+| align="right" | 303
+| align="right" | 2173
+| align="right" | 0
+| align="right" | 2173
+| align="right" | 303
+| align="right" | 41002
+| align="right" | 0.7%
+|-
+| Arona
+| align="right" | 50349
+| align="right" | 10308
+| align="right" | 395
+| align="right" | 10308
+| align="right" | 50744
+| align="right" | 208022
+| align="right" | 24.4%
+|-
+| Valle Gran Rey
+| align="right" | 2377
+| align="right" | 2795
+| align="right" | 321
+| align="right" | 2795
+| align="right" | 2698
+| align="right" | 16622
+| align="right" | 16.2%
+|-
+| Puntagorda
+| align="right" | 7536
+| align="right" | 1768
+| align="right" | 0
+| align="right" | 1768
+| align="right" | 7536
+| align="right" | 27090
+| align="right" | 27.8%
+|-
+| Fuencaliente de la Palma
+| align="right" | 8112
+| align="right" | 1612
+| align="right" | 0
+| align="right" | 1612
+| align="right" | 8112
+| align="right" | 17458
+| align="right" | 46.5%
+|-
+| Teguise
+| align="right" | 1692
+| align="right" | 9487
+| align="right" | 2186
+| align="right" | 9487
+| align="right" | 3877
+| align="right" | 172021
+| align="right" | 2.3%
+|-
+| San Miguel de Abona
+| align="right" | 36801
+| align="right" | 3096
+| align="right" | 0
+| align="right" | 3096
+| align="right" | 36801
+| align="right" | 91877
+| align="right" | 40.1%
+|-
+| Tazacorte
+| align="right" | 2657
+| align="right" | 2036
+| align="right" | 0
+| align="right" | 2036
+| align="right" | 2657
+| align="right" | 10579
+| align="right" | 25.1%
+|-
+| Mogán
+| align="right" | 1965
+| align="right" | 5654
+| align="right" | 0
+| align="right" | 5654
+| align="right" | 1965
+| align="right" | 84888
+| align="right" | 2.3%
+|-
+| Moya
+| align="right" | 117
+| align="right" | 1116
+| align="right" | 0
+| align="right" | 1116
+| align="right" | 117
+| align="right" | 30665
+| align="right" | 0.4%
+|-
+| Vallehermoso
+| align="right" | 11324
+| align="right" | 2932
+| align="right" | 2745
+| align="right" | 2932
+| align="right" | 14070
+| align="right" | 18507
+| align="right" | 76.0%
+|-
+| Breña Baja
+| align="right" | 7767
+| align="right" | 3929
+| align="right" | 367
+| align="right" | 3929
+| align="right" | 8134
+| align="right" | 30719
+| align="right" | 26.5%
+|-
+| Haría
+| align="right" | 323
+| align="right" | 1976
+| align="right" | 0
+| align="right" | 1976
+| align="right" | 323
+| align="right" | 47135
+| align="right" | 0.7%
+|-
+| Santa Lucía de Tirajana
+| align="right" | 5492
+| align="right" | 2652
+| align="right" | 0
+| align="right" | 2652
+| align="right" | 5492
+| align="right" | 127224
+| align="right" | 4.3%
+|-
+| Artenara
+| align="right" | 348
+| align="right" | 1195
+| align="right" | 0
+| align="right" | 1195
+| align="right" | 348
+| align="right" | 6599
+| align="right" | 5.3%
+|-
+| San Andrés y Sauces
+| align="right" | 6636
+| align="right" | 1104
+| align="right" | 0
+| align="right" | 1104
+| align="right" | 6636
+| align="right" | 17698
+| align="right" | 37.5%
+|-
+| Hermigua
+| align="right" | 6361
+| align="right" | 1869
+| align="right" | 53
+| align="right" | 1869
+| align="right" | 6414
+| align="right" | 6986
+| align="right" | 91.8%
+|-
+| Villa de Mazo
+| align="right" | 25735
+| align="right" | 2533
+| align="right" | 0
+| align="right" | 2533
+| align="right" | 25735
+| align="right" | 32285
+| align="right" | 79.7%
+|-
+| Adeje
+| align="right" | 41932
+| align="right" | 11268
+| align="right" | 154
+| align="right" | 11268
+| align="right" | 42086
+| align="right" | 136512
+| align="right" | 30.8%
+|-
+| Firgas
+| align="right" | 289
+| align="right" | 785
+| align="right" | 0
+| align="right" | 785
+| align="right" | 289
+| align="right" | 32831
+| align="right" | 0.9%
+|-
+| Granadilla de Abona
+| align="right" | 32365
+| align="right" | 7752
+| align="right" | 6678
+| align="right" | 7752
+| align="right" | 39043
+| align="right" | 147168
+| align="right" | 26.5%
+|-
+| El Pinar de El Hierro
+| align="right" | 7489
+| align="right" | 3075
+| align="right" | 0
+| align="right" | 3075
+| align="right" | 7489
+| align="right" | 18123
+| align="right" | 41.3%
+|-
+| Pájara
+| align="right" | 3826
+| align="right" | 10238
+| align="right" | 702
+| align="right" | 10238
+| align="right" | 4528
+| align="right" | 66101
+| align="right" | 6.8%
+|-
+| Buenavista del Norte
+| align="right" | 6888
+| align="right" | 9521
+| align="right" | 0
+| align="right" | 9521
+| align="right" | 6888
+| align="right" | 23268
+| align="right" | 29.6%
+|-
+| Santa Úrsula
+| align="right" | 2165
+| align="right" | 5778
+| align="right" | 0
+| align="right" | 5778
+| align="right" | 2165
+| align="right" | 55527
+| align="right" | 3.9%
+|-
+| El Paso
+| align="right" | 13578
+| align="right" | 2740
+| align="right" | 0
+| align="right" | 2740
+| align="right" | 13578
+| align="right" | 49182
+| align="right" | 27.6%
+|-
+| Valverde
+| align="right" | 10044
+| align="right" | 9122
+| align="right" | 107
+| align="right" | 9122
+| align="right" | 10151
+| align="right" | 42768
+| align="right" | 23.7%
+|-
+| Guía de Isora
+| align="right" | 9735
+| align="right" | 18973
+| align="right" | 0
+| align="right" | 18973
+| align="right" | 9735
+| align="right" | 62335
+| align="right" | 15.6%
+|-
+| San Juan de la Rambla
+| align="right" | 7131
+| align="right" | 1317
+| align="right" | 0
+| align="right" | 1317
+| align="right" | 7131
+| align="right" | 21192
+| align="right" | 33.6%
+|-
+| Betancuria
+| align="right" | 2195
+| align="right" | 1709
+| align="right" | 0
+| align="right" | 1709
+| align="right" | 2195
+| align="right" | 8474
+| align="right" | 25.9%
+|-
+| Teror
+| align="right" | 234
+| align="right" | 1266
+| align="right" | 0
+| align="right" | 1266
+| align="right" | 234
+| align="right" | 35370
+| align="right" | 0.7%
+|-
+| Breña Alta
+| align="right" | 19844
+| align="right" | 2086
+| align="right" | 0
+| align="right" | 2086
+| align="right" | 19844
+| align="right" | 45996
+| align="right" | 43.1%
+|-
+| Icod de los Vinos
+| align="right" | 57364
+| align="right" | 3041
+| align="right" | 0
+| align="right" | 3041
+| align="right" | 57364
+| align="right" | 105401
+| align="right" | 54.4%
+|-
+| Alajeró
+| align="right" | 11711
+| align="right" | 1446
+| align="right" | 614
+| align="right" | 1446
+| align="right" | 12325
+| align="right" | 16647
+| align="right" | 74.0%
+|-
+| San Sebastián de la Gomera
+| align="right" | 16881
+| align="right" | 2808
+| align="right" | 1510
+| align="right" | 2808
+| align="right" | 18391
+| align="right" | 32744
+| align="right" | 56.2%
+|-
+| Tacoronte
+| align="right" | 16898
+| align="right" | 1487
+| align="right" | 0
+| align="right" | 1487
+| align="right" | 16898
+| align="right" | 90625
+| align="right" | 18.6%
+|-
+| Valleseco
+| align="right" | 191
+| align="right" | 779
+| align="right" | 0
+| align="right" | 779
+| align="right" | 191
+| align="right" | 18864
+| align="right" | 1.0%
+|-
+| La Oliva
+| align="right" | 39489
+| align="right" | 7023
+| align="right" | 529
+| align="right" | 7023
+| align="right" | 40018
+| align="right" | 223001
+| align="right" | 17.9%
+|-
+| Puerto de la Cruz
+| align="right" | 6680
+| align="right" | 4735
+| align="right" | 0
+| align="right" | 4735
+| align="right" | 6680
+| align="right" | 65942
+| align="right" | 10.1%
+|-
+| Arafo
+| align="right" | 5430
+| align="right" | 6873
+| align="right" | 0
+| align="right" | 6873
+| align="right" | 5430
+| align="right" | 28060
+| align="right" | 19.4%
+|-
+| Candelaria
+| align="right" | 19183
+| align="right" | 19040
+| align="right" | 0
+| align="right" | 19040
+| align="right" | 19183
+| align="right" | 71630
+| align="right" | 26.8%
+|-
+| El Tanque
+| align="right" | 4870
+| align="right" | 3946
+| align="right" | 0
+| align="right" | 3946
+| align="right" | 4870
+| align="right" | 17495
+| align="right" | 27.8%
+|-
+| Arico
+| align="right" | 14223
+| align="right" | 4247
+| align="right" | 0
+| align="right" | 4247
+| align="right" | 14223
+| align="right" | 58037
+| align="right" | 24.5%
+|-
+| El Sauzal
+| align="right" | 6937
+| align="right" | 1154
+| align="right" | 0
+| align="right" | 1154
+| align="right" | 6937
+| align="right" | 38280
+| align="right" | 18.1%
+|-
+| Vilaflor
+| align="right" | 3114
+| align="right" | 1634
+| align="right" | 0
+| align="right" | 1634
+| align="right" | 3114
+| align="right" | 8585
+| align="right" | 36.3%
+|-
+| Fasnia
+| align="right" | 3544
+| align="right" | 1105
+| align="right" | 0
+| align="right" | 1105
+| align="right" | 3544
+| align="right" | 13853
+| align="right" | 25.6%
+|-
+| Barlovento
+| align="right" | 9698
+| align="right" | 1040
+| align="right" | 0
+| align="right" | 1040
+| align="right" | 9698
+| align="right" | 13710
+| align="right" | 70.7%
+|-
+| Vega de San Mateo
+| align="right" | 1333
+| align="right" | 1598
+| align="right" | 0
+| align="right" | 1598
+| align="right" | 1333
+| align="right" | 26966
+| align="right" | 4.9%
+|-
+| San Bartolomé
+| align="right" | 1101
+| align="right" | 2352
+| align="right" | 4524
+| align="right" | 2352
+| align="right" | 5624
+| align="right" | 70128
+| align="right" | 8.0%
+|-
+| Las Palmas de Gran Canaria
+| align="right" | 19801
+| align="right" | 29185
+| align="right" | 559
+| align="right" | 29185
+| align="right" | 20360
+| align="right" | 532808
+| align="right" | 3.8%
+|-
+| Arrecife
+| align="right" | 4605
+| align="right" | 2959
+| align="right" | 0
+| align="right" | 2959
+| align="right" | 4605
+| align="right" | 125827
+| align="right" | 3.7%
+|-
+| Tías
+| align="right" | 3516
+| align="right" | 3807
+| align="right" | 2057
+| align="right" | 3807
+| align="right" | 5573
+| align="right" | 124295
+| align="right" | 4.5%
+|-
+| Santa Cruz de la Palma
+| align="right" | 5739
+| align="right" | 1453
+| align="right" | 0
+| align="right" | 1453
+| align="right" | 5739
+| align="right" | 25999
+| align="right" | 22.1%
+|-
+| San Bartolomé de Tirajana
+| align="right" | 7011
+| align="right" | 31442
+| align="right" | 472
+| align="right" | 31442
+| align="right" | 7483
+| align="right" | 191385
+| align="right" | 3.9%
+|-
+| La Matanza de Acentejo
+| align="right" | 6666
+| align="right" | 914
+| align="right" | 0
+| align="right" | 914
+| align="right" | 6666
+| align="right" | 26586
+| align="right" | 25.1%
+|-
+| Agulo
+| align="right" | 5674
+| align="right" | 855
+| align="right" | 397
+| align="right" | 855
+| align="right" | 6071
+| align="right" | 7293
+| align="right" | 83.2%
+|-
+| La Orotava
+| align="right" | 57577
+| align="right" | 4679
+| align="right" | 0
+| align="right" | 4679
+| align="right" | 57577
+| align="right" | 149510
+| align="right" | 38.5%
+|-
+| Santa Brígida
+| align="right" | 1031
+| align="right" | 1500
+| align="right" | 0
+| align="right" | 1500
+| align="right" | 1031
+| align="right" | 69432
+| align="right" | 1.5%
+|-
+| Puerto del Rosario
+| align="right" | 92811
+| align="right" | 4136
+| align="right" | 0
+| align="right" | 4136
+| align="right" | 92811
+| align="right" | 183475
+| align="right" | 50.6%
+|-
+| Agaete
+| align="right" | 1179
+| align="right" | 1781
+| align="right" | 1981
+| align="right" | 1781
+| align="right" | 3161
+| align="right" | 21133
+| align="right" | 15.0%
+|-
+| San Nicolás de Tolentino
+| align="right" | 198
+| align="right" | 2039
+| align="right" | 0
+| align="right" | 2039
+| align="right" | 198
+| align="right" | 40115
+| align="right" | 0.5%
+|-
+|}

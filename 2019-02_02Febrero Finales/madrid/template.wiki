@@ -1,0 +1,23 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-{% for poble,line in data.items() %}
+| {{poble}}
+| align="right" | {{'%.0f' | format(line.len_noname_residential)}}
+| align="right" | {{'%.0f' | format(line.count_noname_residential)}}
+| align="right" | {{'%.0f' | format(line.len_noname_livingstreet)}}
+| align="right" | {{'%.0f' | format(line.count_noname_livingstreet)}}
+| align="right" | {{'%.0f' | format(line.len_noname_residential + line.len_noname_livingstreet)}}
+| align="right" | {{'%.0f' | format(line.len_residential_total + line.len_livingstreet_total)}}
+| align="right" | {{'%.1f%%' | format(line.len_residential_total + line.len_livingstreet_total and ((line.len_noname_residential + line.len_noname_livingstreet)/(line.len_residential_total + line.len_livingstreet_total))*100)}}
+|-{% endfor %}
+|}
+

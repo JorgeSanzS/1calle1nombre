@@ -1,0 +1,2 @@
+{% for poble,line in data.items() %}{{poble}};{{'%.0f' | format(line.len_noname_residential)}};{{'%.0f' | format(line.count_noname_residential)}};{{'%.0f' | format(line.len_noname_livingstreet)}};{{'%.0f' | format(line.count_noname_livingstreet)}};{{'%.0f' | format(line.len_noname_residential + line.len_noname_livingstreet)}};{{'%.0f' | format(line.len_residential_total + line.len_livingstreet_total)}}
+{% endfor %}
