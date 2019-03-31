@@ -1,0 +1,607 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Sant Llorenç des Cardassar
+| align="right" | 10804
+| align="right" | 3216
+| align="right" | 87
+| align="right" | 3216
+| align="right" | 10890
+| align="right" | 74399
+| align="right" | 14.6%
+|-
+| Sencelles
+| align="right" | 525
+| align="right" | 436
+| align="right" | 0
+| align="right" | 436
+| align="right" | 525
+| align="right" | 6933
+| align="right" | 7.6%
+|-
+| Binissalem
+| align="right" | 1144
+| align="right" | 551
+| align="right" | 0
+| align="right" | 551
+| align="right" | 1144
+| align="right" | 22659
+| align="right" | 5.0%
+|-
+| Llubí
+| align="right" | 5503
+| align="right" | 403
+| align="right" | 0
+| align="right" | 403
+| align="right" | 5503
+| align="right" | 13984
+| align="right" | 39.4%
+|-
+| Es Mercadal
+| align="right" | 46309
+| align="right" | 4075
+| align="right" | 0
+| align="right" | 4075
+| align="right" | 46309
+| align="right" | 60467
+| align="right" | 76.6%
+|-
+| Escorca
+| align="right" | 4499
+| align="right" | 1338
+| align="right" | 0
+| align="right" | 1338
+| align="right" | 4499
+| align="right" | 5989
+| align="right" | 75.1%
+|-
+| Alaior
+| align="right" | 6226
+| align="right" | 3766
+| align="right" | 0
+| align="right" | 3766
+| align="right" | 6226
+| align="right" | 49913
+| align="right" | 12.5%
+|-
+| Esporles
+| align="right" | 18458
+| align="right" | 1461
+| align="right" | 0
+| align="right" | 1461
+| align="right" | 18458
+| align="right" | 33389
+| align="right" | 55.3%
+|-
+| Algaida
+| align="right" | 3311
+| align="right" | 1513
+| align="right" | 409
+| align="right" | 1513
+| align="right" | 3720
+| align="right" | 23363
+| align="right" | 15.9%
+|-
+| Sóller
+| align="right" | 3886
+| align="right" | 7627
+| align="right" | 0
+| align="right" | 7627
+| align="right" | 3886
+| align="right" | 42072
+| align="right" | 9.2%
+|-
+| Artà
+| align="right" | 6225
+| align="right" | 2026
+| align="right" | 0
+| align="right" | 2026
+| align="right" | 6225
+| align="right" | 52893
+| align="right" | 11.8%
+|-
+| Deià
+| align="right" | 1105
+| align="right" | 1258
+| align="right" | 0
+| align="right" | 1258
+| align="right" | 1105
+| align="right" | 5227
+| align="right" | 21.1%
+|-
+| Andratx
+| align="right" | 6840
+| align="right" | 5539
+| align="right" | 0
+| align="right" | 5539
+| align="right" | 6840
+| align="right" | 84664
+| align="right" | 8.1%
+|-
+| Ses Salines
+| align="right" | 8197
+| align="right" | 1894
+| align="right" | 14
+| align="right" | 1894
+| align="right" | 8211
+| align="right" | 40499
+| align="right" | 20.3%
+|-
+| Es Migjorn Gran
+| align="right" | 2795
+| align="right" | 1249
+| align="right" | 0
+| align="right" | 1249
+| align="right" | 2795
+| align="right" | 10264
+| align="right" | 27.2%
+|-
+| Llucmajor
+| align="right" | 11436
+| align="right" | 6413
+| align="right" | 0
+| align="right" | 6413
+| align="right" | 11436
+| align="right" | 165299
+| align="right" | 6.9%
+|-
+| Santa Eugènia
+| align="right" | 2858
+| align="right" | 358
+| align="right" | 0
+| align="right" | 358
+| align="right" | 2858
+| align="right" | 6886
+| align="right" | 41.5%
+|-
+| Lloret de Vistalegre
+| align="right" | 612
+| align="right" | 221
+| align="right" | 0
+| align="right" | 221
+| align="right" | 612
+| align="right" | 4093
+| align="right" | 15.0%
+|-
+| Valldemossa
+| align="right" | 11046
+| align="right" | 2331
+| align="right" | 117
+| align="right" | 2331
+| align="right" | 11163
+| align="right" | 19698
+| align="right" | 56.7%
+|-
+| Maó
+| align="right" | 13336
+| align="right" | 26837
+| align="right" | 466
+| align="right" | 26837
+| align="right" | 13802
+| align="right" | 92340
+| align="right" | 14.9%
+|-
+| Marratxí
+| align="right" | 30505
+| align="right" | 4686
+| align="right" | 83
+| align="right" | 4686
+| align="right" | 30588
+| align="right" | 187272
+| align="right" | 16.3%
+|-
+| Cabrera
+| align="right" | 0
+| align="right" | 200
+| align="right" | 0
+| align="right" | 200
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Sant Antoni de Portmany
+| align="right" | 127131
+| align="right" | 8732
+| align="right" | 66
+| align="right" | 8732
+| align="right" | 127197
+| align="right" | 170361
+| align="right" | 74.7%
+|-
+| Sant Joan de Labritja
+| align="right" | 83434
+| align="right" | 2893
+| align="right" | 0
+| align="right" | 2893
+| align="right" | 83434
+| align="right" | 99687
+| align="right" | 83.7%
+|-
+| Formentera
+| align="right" | 31339
+| align="right" | 2830
+| align="right" | 820
+| align="right" | 2830
+| align="right" | 32159
+| align="right" | 51314
+| align="right" | 62.7%
+|-
+| Petra
+| align="right" | 999
+| align="right" | 921
+| align="right" | 0
+| align="right" | 921
+| align="right" | 999
+| align="right" | 14399
+| align="right" | 6.9%
+|-
+| Ciutadella
+| align="right" | 30080
+| align="right" | 11685
+| align="right" | 19
+| align="right" | 11685
+| align="right" | 30099
+| align="right" | 135582
+| align="right" | 22.2%
+|-
+| Santanyí
+| align="right" | 27784
+| align="right" | 20415
+| align="right" | 465
+| align="right" | 20415
+| align="right" | 28249
+| align="right" | 130913
+| align="right" | 21.6%
+|-
+| Campos
+| align="right" | 6398
+| align="right" | 2961
+| align="right" | 0
+| align="right" | 2961
+| align="right" | 6398
+| align="right" | 69826
+| align="right" | 9.2%
+|-
+| Palma
+| align="right" | 117116
+| align="right" | 21097
+| align="right" | 730
+| align="right" | 21097
+| align="right" | 117847
+| align="right" | 698885
+| align="right" | 16.9%
+|-
+| Son Servera
+| align="right" | 8942
+| align="right" | 1958
+| align="right" | 185
+| align="right" | 1958
+| align="right" | 9128
+| align="right" | 48600
+| align="right" | 18.8%
+|-
+| Ariany
+| align="right" | 410
+| align="right" | 313
+| align="right" | 0
+| align="right" | 313
+| align="right" | 410
+| align="right" | 9383
+| align="right" | 4.4%
+|-
+| Alcúdia
+| align="right" | 13575
+| align="right" | 4438
+| align="right" | 113
+| align="right" | 4438
+| align="right" | 13688
+| align="right" | 95453
+| align="right" | 14.3%
+|-
+| Santa Margalida
+| align="right" | 7214
+| align="right" | 2570
+| align="right" | 0
+| align="right" | 2570
+| align="right" | 7214
+| align="right" | 75763
+| align="right" | 9.5%
+|-
+| Selva
+| align="right" | 4995
+| align="right" | 958
+| align="right" | 0
+| align="right" | 958
+| align="right" | 4995
+| align="right" | 16729
+| align="right" | 29.9%
+|-
+| Vilafranca de Bonany
+| align="right" | 948
+| align="right" | 327
+| align="right" | 0
+| align="right" | 327
+| align="right" | 948
+| align="right" | 16505
+| align="right" | 5.7%
+|-
+| Calvià
+| align="right" | 16039
+| align="right" | 15446
+| align="right" | 630
+| align="right" | 15446
+| align="right" | 16669
+| align="right" | 264770
+| align="right" | 6.3%
+|-
+| Manacor
+| align="right" | 34671
+| align="right" | 18147
+| align="right" | 0
+| align="right" | 18147
+| align="right" | 34671
+| align="right" | 202373
+| align="right" | 17.1%
+|-
+| Sant Lluís
+| align="right" | 2420
+| align="right" | 17185
+| align="right" | 0
+| align="right" | 17185
+| align="right" | 2420
+| align="right" | 70214
+| align="right" | 3.4%
+|-
+| Capdepera
+| align="right" | 6527
+| align="right" | 4049
+| align="right" | 0
+| align="right" | 4049
+| align="right" | 6527
+| align="right" | 94573
+| align="right" | 6.9%
+|-
+| Santa María del Camí
+| align="right" | 128
+| align="right" | 8643
+| align="right" | 0
+| align="right" | 8643
+| align="right" | 128
+| align="right" | 17671
+| align="right" | 0.7%
+|-
+| Campanet
+| align="right" | 1665
+| align="right" | 506
+| align="right" | 0
+| align="right" | 506
+| align="right" | 1665
+| align="right" | 9614
+| align="right" | 17.3%
+|-
+| Maria de la Salut
+| align="right" | 1445
+| align="right" | 393
+| align="right" | 0
+| align="right" | 393
+| align="right" | 1445
+| align="right" | 13230
+| align="right" | 10.9%
+|-
+| Costitx
+| align="right" | 2436
+| align="right" | 230
+| align="right" | 0
+| align="right" | 230
+| align="right" | 2436
+| align="right" | 5141
+| align="right" | 47.4%
+|-
+| Alaró
+| align="right" | 715
+| align="right" | 5172
+| align="right" | 0
+| align="right" | 5172
+| align="right" | 715
+| align="right" | 16239
+| align="right" | 4.4%
+|-
+| Pollença
+| align="right" | 16169
+| align="right" | 13563
+| align="right" | 1365
+| align="right" | 13563
+| align="right" | 17534
+| align="right" | 82408
+| align="right" | 21.3%
+|-
+| Sant Joan
+| align="right" | 2362
+| align="right" | 566
+| align="right" | 0
+| align="right" | 566
+| align="right" | 2362
+| align="right" | 11943
+| align="right" | 19.8%
+|-
+| Puigpunyent
+| align="right" | 3867
+| align="right" | 666
+| align="right" | 0
+| align="right" | 666
+| align="right" | 3867
+| align="right" | 14557
+| align="right" | 26.6%
+|-
+| Mancor de la Vall
+| align="right" | 980
+| align="right" | 218
+| align="right" | 0
+| align="right" | 218
+| align="right" | 980
+| align="right" | 6140
+| align="right" | 16.0%
+|-
+| Lloseta
+| align="right" | 3586
+| align="right" | 328
+| align="right" | 0
+| align="right" | 328
+| align="right" | 3586
+| align="right" | 14943
+| align="right" | 24.0%
+|-
+| Estellencs
+| align="right" | 2324
+| align="right" | 218
+| align="right" | 0
+| align="right" | 218
+| align="right" | 2324
+| align="right" | 4379
+| align="right" | 53.1%
+|-
+| Sa Pobla
+| align="right" | 9254
+| align="right" | 1278
+| align="right" | 0
+| align="right" | 1278
+| align="right" | 9254
+| align="right" | 51769
+| align="right" | 17.9%
+|-
+| Búger
+| align="right" | 236
+| align="right" | 175
+| align="right" | 0
+| align="right" | 175
+| align="right" | 236
+| align="right" | 4891
+| align="right" | 4.8%
+|-
+| Montuïri
+| align="right" | 4360
+| align="right" | 679
+| align="right" | 0
+| align="right" | 679
+| align="right" | 4360
+| align="right" | 12210
+| align="right" | 35.7%
+|-
+| Inca
+| align="right" | 7874
+| align="right" | 1748
+| align="right" | 0
+| align="right" | 1748
+| align="right" | 7874
+| align="right" | 64391
+| align="right" | 12.2%
+|-
+| Santa Eulalia del Río
+| align="right" | 243926
+| align="right" | 6758
+| align="right" | 0
+| align="right" | 6758
+| align="right" | 243926
+| align="right" | 321585
+| align="right" | 75.9%
+|-
+| Muro
+| align="right" | 4088
+| align="right" | 2261
+| align="right" | 0
+| align="right" | 2261
+| align="right" | 4088
+| align="right" | 41061
+| align="right" | 10.0%
+|-
+| Sineu
+| align="right" | 4363
+| align="right" | 710
+| align="right" | 80
+| align="right" | 710
+| align="right" | 4443
+| align="right" | 19453
+| align="right" | 22.8%
+|-
+| Banyalbufar
+| align="right" | 0
+| align="right" | 916
+| align="right" | 0
+| align="right" | 916
+| align="right" | 0
+| align="right" | 6287
+| align="right" | 0.0%
+|-
+| Bunyola
+| align="right" | 4237
+| align="right" | 1723
+| align="right" | 0
+| align="right" | 1723
+| align="right" | 4237
+| align="right" | 40506
+| align="right" | 10.5%
+|-
+| Ferreries
+| align="right" | 6541
+| align="right" | 2100
+| align="right" | 0
+| align="right" | 2100
+| align="right" | 6541
+| align="right" | 17148
+| align="right" | 38.1%
+|-
+| Eivissa
+| align="right" | 16218
+| align="right" | 4226
+| align="right" | 28
+| align="right" | 4226
+| align="right" | 16246
+| align="right" | 78098
+| align="right" | 20.8%
+|-
+| Porreres
+| align="right" | 1792
+| align="right" | 932
+| align="right" | 163
+| align="right" | 932
+| align="right" | 1956
+| align="right" | 15653
+| align="right" | 12.5%
+|-
+| Sant Josep de sa Talaia
+| align="right" | 132674
+| align="right" | 8922
+| align="right" | 632
+| align="right" | 8922
+| align="right" | 133306
+| align="right" | 230110
+| align="right" | 57.9%
+|-
+| Es Castell
+| align="right" | 61
+| align="right" | 7306
+| align="right" | 0
+| align="right" | 7306
+| align="right" | 61
+| align="right" | 28859
+| align="right" | 0.2%
+|-
+| Consell
+| align="right" | 1441
+| align="right" | 362
+| align="right" | 0
+| align="right" | 362
+| align="right" | 1441
+| align="right" | 10735
+| align="right" | 13.4%
+|-
+|}
