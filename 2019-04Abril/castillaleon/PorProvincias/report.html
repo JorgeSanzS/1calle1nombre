@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>Burgos</td>
+                <td>1018918</td>
+                <td>189816</td>
+                <td>11586</td>
+                <td>189816</td>
+                <td>1030504</td>
+                <td>2720785</td>
+                
+                    <td>37.9%</td>
+                
+
+                
+                <td><progress value="37.8752435178" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Salamanca</td>
+                <td>229485</td>
+                <td>149575</td>
+                <td>730</td>
+                <td>149575</td>
+                <td>230215</td>
+                <td>2335306</td>
+                
+                    <td>9.9%</td>
+                
+
+                
+                <td><progress value="9.85800321435" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Palencia</td>
+                <td>513782</td>
+                <td>47431</td>
+                <td>5359</td>
+                <td>47431</td>
+                <td>519141</td>
+                <td>1257110</td>
+                
+                    <td>41.3%</td>
+                
+
+                
+                <td><progress value="41.2963502106" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ávila</td>
+                <td>1021429</td>
+                <td>57926</td>
+                <td>10438</td>
+                <td>57926</td>
+                <td>1031866</td>
+                <td>1716159</td>
+                
+                    <td>60.1%</td>
+                
+
+                
+                <td><progress value="60.1264981552" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Soria</td>
+                <td>518522</td>
+                <td>38877</td>
+                <td>9939</td>
+                <td>38877</td>
+                <td>528460</td>
+                <td>871154</td>
+                
+                    <td>60.7%</td>
+                
+
+                
+                <td><progress value="60.6621044398" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Valladolid</td>
+                <td>917994</td>
+                <td>67469</td>
+                <td>11057</td>
+                <td>67469</td>
+                <td>929051</td>
+                <td>2233591</td>
+                
+                    <td>41.6%</td>
+                
+
+                
+                <td><progress value="41.5945025456" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Segovia</td>
+                <td>574653</td>
+                <td>46656</td>
+                <td>5916</td>
+                <td>46656</td>
+                <td>580568</td>
+                <td>1540755</td>
+                
+                    <td>37.7%</td>
+                
+
+                
+                <td><progress value="37.6807811686" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>León</td>
+                <td>2435482</td>
+                <td>97576</td>
+                <td>8260</td>
+                <td>97576</td>
+                <td>2443742</td>
+                <td>3865089</td>
+                
+                    <td>63.2%</td>
+                
+
+                
+                <td><progress value="63.2260127008" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Zamora</td>
+                <td>1229781</td>
+                <td>47044</td>
+                <td>7360</td>
+                <td>47044</td>
+                <td>1237142</td>
+                <td>1730261</td>
+                
+                    <td>71.5%</td>
+                
+
+                
+                <td><progress value="71.5002806336" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

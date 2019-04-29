@@ -1,0 +1,688 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Llanera
+| align="right" | 25928
+| align="right" | 3023
+| align="right" | 0
+| align="right" | 3023
+| align="right" | 25928
+| align="right" | 53464
+| align="right" | 48.5%
+|-
+| Valdés
+| align="right" | 114420
+| align="right" | 3491
+| align="right" | 173
+| align="right" | 3491
+| align="right" | 114593
+| align="right" | 129126
+| align="right" | 88.7%
+|-
+| Morcín
+| align="right" | 6726
+| align="right" | 715
+| align="right" | 0
+| align="right" | 715
+| align="right" | 6726
+| align="right" | 6849
+| align="right" | 98.2%
+|-
+| Cangas de Onís
+| align="right" | 17255
+| align="right" | 2810
+| align="right" | 315
+| align="right" | 2810
+| align="right" | 17571
+| align="right" | 21072
+| align="right" | 83.4%
+|-
+| Ribera de Arriba
+| align="right" | 5235
+| align="right" | 786
+| align="right" | 117
+| align="right" | 786
+| align="right" | 5352
+| align="right" | 5352
+| align="right" | 100.0%
+|-
+| Santo Adriano
+| align="right" | 2449
+| align="right" | 740
+| align="right" | 1014
+| align="right" | 740
+| align="right" | 3463
+| align="right" | 4513
+| align="right" | 76.7%
+|-
+| Siero
+| align="right" | 43882
+| align="right" | 12095
+| align="right" | 1343
+| align="right" | 12095
+| align="right" | 45225
+| align="right" | 91934
+| align="right" | 49.2%
+|-
+| Ribadesella
+| align="right" | 22269
+| align="right" | 2858
+| align="right" | 46
+| align="right" | 2858
+| align="right" | 22315
+| align="right" | 37949
+| align="right" | 58.8%
+|-
+| Yernes y Tameza
+| align="right" | 3022
+| align="right" | 720
+| align="right" | 0
+| align="right" | 720
+| align="right" | 3022
+| align="right" | 3022
+| align="right" | 100.0%
+|-
+| Gijón/Xixón
+| align="right" | 12371
+| align="right" | 27134
+| align="right" | 1427
+| align="right" | 27134
+| align="right" | 13798
+| align="right" | 354097
+| align="right" | 3.9%
+|-
+| Candamo
+| align="right" | 3710
+| align="right" | 386
+| align="right" | 0
+| align="right" | 386
+| align="right" | 3710
+| align="right" | 3710
+| align="right" | 100.0%
+|-
+| Illas
+| align="right" | 771
+| align="right" | 377
+| align="right" | 833
+| align="right" | 377
+| align="right" | 1604
+| align="right" | 2340
+| align="right" | 68.6%
+|-
+| Santa Eulalia de Oscos
+| align="right" | 11090
+| align="right" | 333
+| align="right" | 0
+| align="right" | 333
+| align="right" | 11090
+| align="right" | 11615
+| align="right" | 95.5%
+|-
+| Piloña
+| align="right" | 25184
+| align="right" | 2754
+| align="right" | 891
+| align="right" | 2754
+| align="right" | 26075
+| align="right" | 31767
+| align="right" | 82.1%
+|-
+| Cangas del Narcea
+| align="right" | 132334
+| align="right" | 3175
+| align="right" | 717
+| align="right" | 3175
+| align="right" | 133052
+| align="right" | 142585
+| align="right" | 93.3%
+|-
+| Mieres
+| align="right" | 43652
+| align="right" | 4859
+| align="right" | 160
+| align="right" | 4859
+| align="right" | 43812
+| align="right" | 69888
+| align="right" | 62.7%
+|-
+| Ponga
+| align="right" | 6646
+| align="right" | 643
+| align="right" | 68
+| align="right" | 643
+| align="right" | 6714
+| align="right" | 7978
+| align="right" | 84.2%
+|-
+| Navia
+| align="right" | 52763
+| align="right" | 2257
+| align="right" | 0
+| align="right" | 2257
+| align="right" | 52763
+| align="right" | 60390
+| align="right" | 87.4%
+|-
+| Sobrescobio
+| align="right" | 12085
+| align="right" | 987
+| align="right" | 0
+| align="right" | 987
+| align="right" | 12085
+| align="right" | 12085
+| align="right" | 100.0%
+|-
+| Lena
+| align="right" | 46447
+| align="right" | 4967
+| align="right" | 840
+| align="right" | 4967
+| align="right" | 47286
+| align="right" | 57977
+| align="right" | 81.6%
+|-
+| Quirós
+| align="right" | 28512
+| align="right" | 4741
+| align="right" | 200
+| align="right" | 4741
+| align="right" | 28712
+| align="right" | 28712
+| align="right" | 100.0%
+|-
+| Bimenes
+| align="right" | 5439
+| align="right" | 4330
+| align="right" | 0
+| align="right" | 4330
+| align="right" | 5439
+| align="right" | 5439
+| align="right" | 100.0%
+|-
+| Tineo
+| align="right" | 87792
+| align="right" | 2022
+| align="right" | 0
+| align="right" | 2022
+| align="right" | 87792
+| align="right" | 91506
+| align="right" | 95.9%
+|-
+| Peñamellera Alta
+| align="right" | 12375
+| align="right" | 637
+| align="right" | 0
+| align="right" | 637
+| align="right" | 12375
+| align="right" | 12375
+| align="right" | 100.0%
+|-
+| Pravia
+| align="right" | 13153
+| align="right" | 941
+| align="right" | 0
+| align="right" | 941
+| align="right" | 13153
+| align="right" | 20291
+| align="right" | 64.8%
+|-
+| Degaña
+| align="right" | 8807
+| align="right" | 213
+| align="right" | 0
+| align="right" | 213
+| align="right" | 8807
+| align="right" | 8807
+| align="right" | 100.0%
+|-
+| Cabrales
+| align="right" | 15931
+| align="right" | 3556
+| align="right" | 149
+| align="right" | 3556
+| align="right" | 16081
+| align="right" | 16662
+| align="right" | 96.5%
+|-
+| Villaviciosa
+| align="right" | 29029
+| align="right" | 3813
+| align="right" | 0
+| align="right" | 3813
+| align="right" | 29029
+| align="right" | 44386
+| align="right" | 65.4%
+|-
+| Pesoz
+| align="right" | 5476
+| align="right" | 191
+| align="right" | 164
+| align="right" | 191
+| align="right" | 5640
+| align="right" | 5640
+| align="right" | 100.0%
+|-
+| Tapia de Casariego
+| align="right" | 30140
+| align="right" | 1045
+| align="right" | 0
+| align="right" | 1045
+| align="right" | 30140
+| align="right" | 42904
+| align="right" | 70.3%
+|-
+| Llangréu/Langreo
+| align="right" | 23936
+| align="right" | 13986
+| align="right" | 294
+| align="right" | 13986
+| align="right" | 24230
+| align="right" | 91991
+| align="right" | 26.3%
+|-
+| Teverga
+| align="right" | 29235
+| align="right" | 790
+| align="right" | 391
+| align="right" | 790
+| align="right" | 29626
+| align="right" | 30307
+| align="right" | 97.8%
+|-
+| Cabranes
+| align="right" | 7160
+| align="right" | 494
+| align="right" | 628
+| align="right" | 494
+| align="right" | 7788
+| align="right" | 7788
+| align="right" | 100.0%
+|-
+| Vegadeo
+| align="right" | 18649
+| align="right" | 756
+| align="right" | 588
+| align="right" | 756
+| align="right" | 19237
+| align="right" | 24088
+| align="right" | 79.9%
+|-
+| Coaña
+| align="right" | 20831
+| align="right" | 905
+| align="right" | 0
+| align="right" | 905
+| align="right" | 20831
+| align="right" | 20831
+| align="right" | 100.0%
+|-
+| Taramundi
+| align="right" | 13859
+| align="right" | 1465
+| align="right" | 179
+| align="right" | 1465
+| align="right" | 14037
+| align="right" | 14953
+| align="right" | 93.9%
+|-
+| Corvera de Asturias
+| align="right" | 15905
+| align="right" | 1357
+| align="right" | 0
+| align="right" | 1357
+| align="right" | 15905
+| align="right" | 38463
+| align="right" | 41.4%
+|-
+| Castrillón
+| align="right" | 46454
+| align="right" | 3267
+| align="right" | 378
+| align="right" | 3267
+| align="right" | 46832
+| align="right" | 82009
+| align="right" | 57.1%
+|-
+| Nava
+| align="right" | 21693
+| align="right" | 768
+| align="right" | 408
+| align="right" | 768
+| align="right" | 22101
+| align="right" | 27580
+| align="right" | 80.1%
+|-
+| Ibias
+| align="right" | 38534
+| align="right" | 1293
+| align="right" | 162
+| align="right" | 1293
+| align="right" | 38696
+| align="right" | 38696
+| align="right" | 100.0%
+|-
+| Salas
+| align="right" | 19080
+| align="right" | 1798
+| align="right" | 148
+| align="right" | 1798
+| align="right" | 19229
+| align="right" | 28217
+| align="right" | 68.1%
+|-
+| Soto del Barco
+| align="right" | 15445
+| align="right" | 674
+| align="right" | 0
+| align="right" | 674
+| align="right" | 15445
+| align="right" | 25221
+| align="right" | 61.2%
+|-
+| San Tirso de Abres
+| align="right" | 8205
+| align="right" | 216
+| align="right" | 55
+| align="right" | 216
+| align="right" | 8261
+| align="right" | 8321
+| align="right" | 99.3%
+|-
+| Caso
+| align="right" | 19670
+| align="right" | 2247
+| align="right" | 115
+| align="right" | 2247
+| align="right" | 19785
+| align="right" | 23196
+| align="right" | 85.3%
+|-
+| Riosa
+| align="right" | 3525
+| align="right" | 424
+| align="right" | 0
+| align="right" | 424
+| align="right" | 3525
+| align="right" | 5510
+| align="right" | 64.0%
+|-
+| Colunga
+| align="right" | 28820
+| align="right" | 4701
+| align="right" | 540
+| align="right" | 4701
+| align="right" | 29360
+| align="right" | 42306
+| align="right" | 69.4%
+|-
+| Sariego
+| align="right" | 7113
+| align="right" | 514
+| align="right" | 0
+| align="right" | 514
+| align="right" | 7113
+| align="right" | 8720
+| align="right" | 81.6%
+|-
+| Villayón
+| align="right" | 18060
+| align="right" | 392
+| align="right" | 0
+| align="right" | 392
+| align="right" | 18060
+| align="right" | 18060
+| align="right" | 100.0%
+|-
+| Ribadedeva
+| align="right" | 9240
+| align="right" | 728
+| align="right" | 435
+| align="right" | 728
+| align="right" | 9674
+| align="right" | 10188
+| align="right" | 95.0%
+|-
+| Amieva
+| align="right" | 7083
+| align="right" | 631
+| align="right" | 1547
+| align="right" | 631
+| align="right" | 8630
+| align="right" | 8630
+| align="right" | 100.0%
+|-
+| Somiedo
+| align="right" | 33550
+| align="right" | 2147
+| align="right" | 28
+| align="right" | 2147
+| align="right" | 33578
+| align="right" | 34888
+| align="right" | 96.2%
+|-
+| Parres
+| align="right" | 10316
+| align="right" | 993
+| align="right" | 504
+| align="right" | 993
+| align="right" | 10820
+| align="right" | 16064
+| align="right" | 67.4%
+|-
+| Onís
+| align="right" | 8124
+| align="right" | 1932
+| align="right" | 0
+| align="right" | 1932
+| align="right" | 8124
+| align="right" | 8124
+| align="right" | 100.0%
+|-
+| Carreño
+| align="right" | 12549
+| align="right" | 1985
+| align="right" | 140
+| align="right" | 1985
+| align="right" | 12689
+| align="right" | 29200
+| align="right" | 43.5%
+|-
+| Grandas de Salime
+| align="right" | 20549
+| align="right" | 698
+| align="right" | 0
+| align="right" | 698
+| align="right" | 20549
+| align="right" | 23436
+| align="right" | 87.7%
+|-
+| Castropol
+| align="right" | 35870
+| align="right" | 1226
+| align="right" | 0
+| align="right" | 1226
+| align="right" | 35870
+| align="right" | 46659
+| align="right" | 76.9%
+|-
+| Proaza
+| align="right" | 16137
+| align="right" | 428
+| align="right" | 21
+| align="right" | 428
+| align="right" | 16158
+| align="right" | 16824
+| align="right" | 96.0%
+|-
+| Aller
+| align="right" | 20898
+| align="right" | 3789
+| align="right" | 0
+| align="right" | 3789
+| align="right" | 20898
+| align="right" | 31057
+| align="right" | 67.3%
+|-
+| Boal
+| align="right" | 9012
+| align="right" | 1253
+| align="right" | 0
+| align="right" | 1253
+| align="right" | 9012
+| align="right" | 10952
+| align="right" | 82.3%
+|-
+| Grau/Grado
+| align="right" | 27201
+| align="right" | 2149
+| align="right" | 0
+| align="right" | 2149
+| align="right" | 27201
+| align="right" | 41209
+| align="right" | 66.0%
+|-
+| San Martín de Oscos
+| align="right" | 12425
+| align="right" | 259
+| align="right" | 0
+| align="right" | 259
+| align="right" | 12425
+| align="right" | 12425
+| align="right" | 100.0%
+|-
+| Illano
+| align="right" | 16616
+| align="right" | 573
+| align="right" | 0
+| align="right" | 573
+| align="right" | 16616
+| align="right" | 16616
+| align="right" | 100.0%
+|-
+| El Franco
+| align="right" | 10082
+| align="right" | 587
+| align="right" | 0
+| align="right" | 587
+| align="right" | 10082
+| align="right" | 17375
+| align="right" | 58.0%
+|-
+| Villanueva de Oscos
+| align="right" | 6916
+| align="right" | 329
+| align="right" | 0
+| align="right" | 329
+| align="right" | 6916
+| align="right" | 6916
+| align="right" | 100.0%
+|-
+| Las Regueras
+| align="right" | 6013
+| align="right" | 657
+| align="right" | 0
+| align="right" | 657
+| align="right" | 6013
+| align="right" | 6013
+| align="right" | 100.0%
+|-
+| Peñamellera Baja
+| align="right" | 11260
+| align="right" | 627
+| align="right" | 0
+| align="right" | 627
+| align="right" | 11260
+| align="right" | 11260
+| align="right" | 100.0%
+|-
+| Samartín del Rei Aurelio
+| align="right" | 22711
+| align="right" | 2195
+| align="right" | 192
+| align="right" | 2195
+| align="right" | 22903
+| align="right" | 42453
+| align="right" | 53.9%
+|-
+| Noreña
+| align="right" | 1151
+| align="right" | 1313
+| align="right" | 172
+| align="right" | 1313
+| align="right" | 1323
+| align="right" | 17669
+| align="right" | 7.5%
+|-
+| Belmonte de Miranda
+| align="right" | 9424
+| align="right" | 725
+| align="right" | 335
+| align="right" | 725
+| align="right" | 9759
+| align="right" | 11733
+| align="right" | 83.2%
+|-
+| Allande
+| align="right" | 42413
+| align="right" | 1393
+| align="right" | 34
+| align="right" | 1393
+| align="right" | 42448
+| align="right" | 43897
+| align="right" | 96.7%
+|-
+| Laviana
+| align="right" | 24246
+| align="right" | 2580
+| align="right" | 0
+| align="right" | 2580
+| align="right" | 24246
+| align="right" | 33823
+| align="right" | 71.7%
+|-
+| Muros de Nalón
+| align="right" | 6615
+| align="right" | 1509
+| align="right" | 0
+| align="right" | 1509
+| align="right" | 6615
+| align="right" | 15644
+| align="right" | 42.3%
+|-
+| Avilés
+| align="right" | 29461
+| align="right" | 6101
+| align="right" | 2191
+| align="right" | 6101
+| align="right" | 31653
+| align="right" | 105867
+| align="right" | 29.9%
+|-
+| Oviedo
+| align="right" | 81445
+| align="right" | 24175
+| align="right" | 2847
+| align="right" | 24175
+| align="right" | 84292
+| align="right" | 241800
+| align="right" | 34.9%
+|-
+| Caravia
+| align="right" | 4917
+| align="right" | 813
+| align="right" | 0
+| align="right" | 813
+| align="right" | 4917
+| align="right" | 4917
+| align="right" | 100.0%
+|-
+|}
