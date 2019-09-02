@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Melilla
+| align="right" | 9257
+| align="right" | 7018
+| align="right" | 0
+| align="right" | 7018
+| align="right" | 9257
+| align="right" | 87263
+| align="right" | 10.6%
+|-
+|}

@@ -1,0 +1,94 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Burgos
+| align="right" | 962522
+| align="right" | 193167
+| align="right" | 11050
+| align="right" | 193167
+| align="right" | 973572
+| align="right" | 2717584
+| align="right" | 35.8%
+|-
+| Salamanca
+| align="right" | 2341
+| align="right" | 155136
+| align="right" | 0
+| align="right" | 155136
+| align="right" | 2341
+| align="right" | 2349630
+| align="right" | 0.1%
+|-
+| Palencia
+| align="right" | 437688
+| align="right" | 48753
+| align="right" | 5980
+| align="right" | 48753
+| align="right" | 443669
+| align="right" | 1232219
+| align="right" | 36.0%
+|-
+| Ávila
+| align="right" | 937395
+| align="right" | 60775
+| align="right" | 10247
+| align="right" | 60775
+| align="right" | 947641
+| align="right" | 1742428
+| align="right" | 54.4%
+|-
+| Soria
+| align="right" | 515247
+| align="right" | 41155
+| align="right" | 9874
+| align="right" | 41155
+| align="right" | 525121
+| align="right" | 881642
+| align="right" | 59.6%
+|-
+| Valladolid
+| align="right" | 646367
+| align="right" | 70633
+| align="right" | 9722
+| align="right" | 70633
+| align="right" | 656088
+| align="right" | 2252668
+| align="right" | 29.1%
+|-
+| Segovia
+| align="right" | 560181
+| align="right" | 47239
+| align="right" | 6019
+| align="right" | 47239
+| align="right" | 566200
+| align="right" | 1552294
+| align="right" | 36.5%
+|-
+| León
+| align="right" | 2127274
+| align="right" | 107431
+| align="right" | 8361
+| align="right" | 107431
+| align="right" | 2135635
+| align="right" | 3859394
+| align="right" | 55.3%
+|-
+| Zamora
+| align="right" | 931257
+| align="right" | 52534
+| align="right" | 6172
+| align="right" | 52534
+| align="right" | 937429
+| align="right" | 1848781
+| align="right" | 50.7%
+|-
+|}
