@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>La Unión</td>
+                <td>20142</td>
+                <td>1711</td>
+                <td>108</td>
+                <td>1711</td>
+                <td>20249</td>
+                <td>75667</td>
+                
+                    <td>26.8%</td>
+                
+
+                
+                <td><progress value="26.760896202" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ricote</td>
+                <td>535</td>
+                <td>305</td>
+                <td>0</td>
+                <td>305</td>
+                <td>535</td>
+                <td>7372</td>
+                
+                    <td>7.3%</td>
+                
+
+                
+                <td><progress value="7.25066989177" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Librilla</td>
+                <td>6324</td>
+                <td>1375</td>
+                <td>0</td>
+                <td>1375</td>
+                <td>6324</td>
+                <td>24915</td>
+                
+                    <td>25.4%</td>
+                
+
+                
+                <td><progress value="25.3829631117" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Cartagena</td>
+                <td>160703</td>
+                <td>38152</td>
+                <td>4119</td>
+                <td>38152</td>
+                <td>164822</td>
+                <td>760610</td>
+                
+                    <td>21.7%</td>
+                
+
+                
+                <td><progress value="21.6697365925" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Blanca</td>
+                <td>758</td>
+                <td>621</td>
+                <td>73</td>
+                <td>621</td>
+                <td>831</td>
+                <td>14827</td>
+                
+                    <td>5.6%</td>
+                
+
+                
+                <td><progress value="5.60483660398" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Cehegín</td>
+                <td>36084</td>
+                <td>1229</td>
+                <td>681</td>
+                <td>1229</td>
+                <td>36765</td>
+                <td>87524</td>
+                
+                    <td>42.0%</td>
+                
+
+                
+                <td><progress value="42.0054765203" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Las Torres de Cotillas</td>
+                <td>22127</td>
+                <td>1608</td>
+                <td>579</td>
+                <td>1608</td>
+                <td>22706</td>
+                <td>123498</td>
+                
+                    <td>18.4%</td>
+                
+
+                
+                <td><progress value="18.38553549" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Puerto Lumbreras</td>
+                <td>5911</td>
+                <td>1785</td>
+                <td>155</td>
+                <td>1785</td>
+                <td>6065</td>
+                <td>57340</td>
+                
+                    <td>10.6%</td>
+                
+
+                
+                <td><progress value="10.5778701729" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Totana</td>
+                <td>45101</td>
+                <td>1779</td>
+                <td>86</td>
+                <td>1779</td>
+                <td>45186</td>
+                <td>95586</td>
+                
+                    <td>47.3%</td>
+                
+
+                
+                <td><progress value="47.2727388816" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Beniel</td>
+                <td>4518</td>
+                <td>610</td>
+                <td>0</td>
+                <td>610</td>
+                <td>4518</td>
+                <td>27485</td>
+                
+                    <td>16.4%</td>
+                
+
+                
+                <td><progress value="16.4396218899" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Abarán</td>
+                <td>8455</td>
+                <td>779</td>
+                <td>0</td>
+                <td>779</td>
+                <td>8455</td>
+                <td>33039</td>
+                
+                    <td>25.6%</td>
+                
+
+                
+                <td><progress value="25.5908757993" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Molina de Segura</td>
+                <td>126945</td>
+                <td>4074</td>
+                <td>418</td>
+                <td>4074</td>
+                <td>127363</td>
+                <td>347937</td>
+                
+                    <td>36.6%</td>
+                
+
+                
+                <td><progress value="36.6051536184" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Alcantarilla</td>
+                <td>21847</td>
+                <td>1519</td>
+                <td>151</td>
+                <td>1519</td>
+                <td>21998</td>
+                <td>80825</td>
+                
+                    <td>27.2%</td>
+                
+
+                
+                <td><progress value="27.2166455767" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Mula</td>
+                <td>12071</td>
+                <td>1491</td>
+                <td>186</td>
+                <td>1491</td>
+                <td>12258</td>
+                <td>61178</td>
+                
+                    <td>20.0%</td>
+                
+
+                
+                <td><progress value="20.0357788474" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Yecla</td>
+                <td>60038</td>
+                <td>3413</td>
+                <td>790</td>
+                <td>3413</td>
+                <td>60827</td>
+                <td>106884</td>
+                
+                    <td>56.9%</td>
+                
+
+                
+                <td><progress value="56.909948188" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ceutí</td>
+                <td>2222</td>
+                <td>1100</td>
+                <td>24</td>
+                <td>1100</td>
+                <td>2246</td>
+                <td>62430</td>
+                
+                    <td>3.6%</td>
+                
+
+                
+                <td><progress value="3.59803577168" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Santomera</td>
+                <td>558</td>
+                <td>826</td>
+                <td>0</td>
+                <td>826</td>
+                <td>558</td>
+                <td>38181</td>
+                
+                    <td>1.5%</td>
+                
+
+                
+                <td><progress value="1.46103252805" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Albudeite</td>
+                <td>764</td>
+                <td>276</td>
+                <td>127</td>
+                <td>276</td>
+                <td>891</td>
+                <td>9645</td>
+                
+                    <td>9.2%</td>
+                
+
+                
+                <td><progress value="9.23693660217" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Los Alcázares</td>
+                <td>608</td>
+                <td>2262</td>
+                <td>64</td>
+                <td>2262</td>
+                <td>672</td>
+                <td>145083</td>
+                
+                    <td>0.5%</td>
+                
+
+                
+                <td><progress value="0.463163241821" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Abanilla</td>
+                <td>23529</td>
+                <td>1253</td>
+                <td>38</td>
+                <td>1253</td>
+                <td>23567</td>
+                <td>52564</td>
+                
+                    <td>44.8%</td>
+                
+
+                
+                <td><progress value="44.8355859776" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Fuente Álamo de Murcia</td>
+                <td>105451</td>
+                <td>2590</td>
+                <td>0</td>
+                <td>2590</td>
+                <td>105451</td>
+                <td>156457</td>
+                
+                    <td>67.4%</td>
+                
+
+                
+                <td><progress value="67.3992108824" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Fortuna</td>
+                <td>25783</td>
+                <td>1240</td>
+                <td>0</td>
+                <td>1240</td>
+                <td>25783</td>
+                <td>66292</td>
+                
+                    <td>38.9%</td>
+                
+
+                
+                <td><progress value="38.8933120056" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ojós</td>
+                <td>228</td>
+                <td>622</td>
+                <td>0</td>
+                <td>622</td>
+                <td>228</td>
+                <td>2878</td>
+                
+                    <td>7.9%</td>
+                
+
+                
+                <td><progress value="7.93004332478" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Caravaca de la Cruz</td>
+                <td>57314</td>
+                <td>1377</td>
+                <td>8</td>
+                <td>1377</td>
+                <td>57321</td>
+                <td>78897</td>
+                
+                    <td>72.7%</td>
+                
+
+                
+                <td><progress value="72.6535720146" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Águilas</td>
+                <td>60131</td>
+                <td>4278</td>
+                <td>0</td>
+                <td>4278</td>
+                <td>60131</td>
+                <td>142002</td>
+                
+                    <td>42.3%</td>
+                
+
+                
+                <td><progress value="42.3452342636" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Murcia</td>
+                <td>631984</td>
+                <td>33970</td>
+                <td>4976</td>
+                <td>33970</td>
+                <td>636960</td>
+                <td>1436997</td>
+                
+                    <td>44.3%</td>
+                
+
+                
+                <td><progress value="44.3257584929" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Torre Pacheco</td>
+                <td>43843</td>
+                <td>17743</td>
+                <td>1995</td>
+                <td>17743</td>
+                <td>45838</td>
+                <td>284531</td>
+                
+                    <td>16.1%</td>
+                
+
+                
+                <td><progress value="16.1101364332" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Alhama de Murcia</td>
+                <td>49778</td>
+                <td>2838</td>
+                <td>399</td>
+                <td>2838</td>
+                <td>50177</td>
+                <td>126119</td>
+                
+                    <td>39.8%</td>
+                
+
+                
+                <td><progress value="39.7854707254" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Mazarrón</td>
+                <td>75333</td>
+                <td>3744</td>
+                <td>0</td>
+                <td>3744</td>
+                <td>75333</td>
+                <td>162437</td>
+                
+                    <td>46.4%</td>
+                
+
+                
+                <td><progress value="46.3767733236" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Alguazas</td>
+                <td>9983</td>
+                <td>480</td>
+                <td>0</td>
+                <td>480</td>
+                <td>9983</td>
+                <td>30105</td>
+                
+                    <td>33.2%</td>
+                
+
+                
+                <td><progress value="33.1614359488" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Pliego</td>
+                <td>1374</td>
+                <td>515</td>
+                <td>0</td>
+                <td>515</td>
+                <td>1374</td>
+                <td>20565</td>
+                
+                    <td>6.7%</td>
+                
+
+                
+                <td><progress value="6.68345685968" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Bullas</td>
+                <td>18346</td>
+                <td>726</td>
+                <td>151</td>
+                <td>726</td>
+                <td>18497</td>
+                <td>64285</td>
+                
+                    <td>28.8%</td>
+                
+
+                
+                <td><progress value="28.7733967758" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>San Javier</td>
+                <td>41367</td>
+                <td>7355</td>
+                <td>851</td>
+                <td>7355</td>
+                <td>42218</td>
+                <td>193617</td>
+                
+                    <td>21.8%</td>
+                
+
+                
+                <td><progress value="21.8050172073" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Jumilla</td>
+                <td>22330</td>
+                <td>2814</td>
+                <td>2063</td>
+                <td>2814</td>
+                <td>24393</td>
+                <td>63336</td>
+                
+                    <td>38.5%</td>
+                
+
+                
+                <td><progress value="38.5140743767" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Campos del Río</td>
+                <td>539</td>
+                <td>234</td>
+                <td>0</td>
+                <td>234</td>
+                <td>539</td>
+                <td>9056</td>
+                
+                    <td>6.0%</td>
+                
+
+                
+                <td><progress value="5.95083072037" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Villanueva del Río Segura</td>
+                <td>2708</td>
+                <td>262</td>
+                <td>0</td>
+                <td>262</td>
+                <td>2708</td>
+                <td>14636</td>
+                
+                    <td>18.5%</td>
+                
+
+                
+                <td><progress value="18.5027969659" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Lorca</td>
+                <td>82675</td>
+                <td>18121</td>
+                <td>977</td>
+                <td>18121</td>
+                <td>83652</td>
+                <td>208480</td>
+                
+                    <td>40.1%</td>
+                
+
+                
+                <td><progress value="40.1246546212" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Lorquí</td>
+                <td>15886</td>
+                <td>820</td>
+                <td>108</td>
+                <td>820</td>
+                <td>15994</td>
+                <td>70410</td>
+                
+                    <td>22.7%</td>
+                
+
+                
+                <td><progress value="22.715188925" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>San Pedro del Pinatar</td>
+                <td>20045</td>
+                <td>2307</td>
+                <td>883</td>
+                <td>2307</td>
+                <td>20927</td>
+                <td>146150</td>
+                
+                    <td>14.3%</td>
+                
+
+                
+                <td><progress value="14.3190668138" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ulea</td>
+                <td>365</td>
+                <td>334</td>
+                <td>0</td>
+                <td>334</td>
+                <td>365</td>
+                <td>4668</td>
+                
+                    <td>7.8%</td>
+                
+
+                
+                <td><progress value="7.80917897441" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Calasparra</td>
+                <td>21273</td>
+                <td>1067</td>
+                <td>100</td>
+                <td>1067</td>
+                <td>21373</td>
+                <td>67998</td>
+                
+                    <td>31.4%</td>
+                
+
+                
+                <td><progress value="31.4310852171" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Moratalla</td>
+                <td>25510</td>
+                <td>6418</td>
+                <td>0</td>
+                <td>6418</td>
+                <td>25510</td>
+                <td>45232</td>
+                
+                    <td>56.4%</td>
+                
+
+                
+                <td><progress value="56.3969027472" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Cieza</td>
+                <td>6617</td>
+                <td>1528</td>
+                <td>428</td>
+                <td>1528</td>
+                <td>7045</td>
+                <td>42178</td>
+                
+                    <td>16.7%</td>
+                
+
+                
+                <td><progress value="16.7021446732" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Archena</td>
+                <td>6351</td>
+                <td>1115</td>
+                <td>2103</td>
+                <td>1115</td>
+                <td>8454</td>
+                <td>68630</td>
+                
+                    <td>12.3%</td>
+                
+
+                
+                <td><progress value="12.3184167938" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Aledo</td>
+                <td>2514</td>
+                <td>298</td>
+                <td>0</td>
+                <td>298</td>
+                <td>2514</td>
+                <td>11252</td>
+                
+                    <td>22.3%</td>
+                
+
+                
+                <td><progress value="22.3410147125" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>
