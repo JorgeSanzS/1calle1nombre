@@ -1,0 +1,6592 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Bordón
+| align="right" | 2545
+| align="right" | 77
+| align="right" | 0
+| align="right" | 77
+| align="right" | 2545
+| align="right" | 2727
+| align="right" | 93.3%
+|-
+| Albeta
+| align="right" | 1101
+| align="right" | 27
+| align="right" | 0
+| align="right" | 27
+| align="right" | 1101
+| align="right" | 1101
+| align="right" | 100.0%
+|-
+| Loscos
+| align="right" | 2825
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 2825
+| align="right" | 2825
+| align="right" | 100.0%
+|-
+| Talamantes
+| align="right" | 0
+| align="right" | 78
+| align="right" | 0
+| align="right" | 78
+| align="right" | 0
+| align="right" | 1468
+| align="right" | 0.0%
+|-
+| Ejea de los Caballeros
+| align="right" | 57822
+| align="right" | 1046
+| align="right" | 0
+| align="right" | 1046
+| align="right" | 57822
+| align="right" | 87414
+| align="right" | 66.1%
+|-
+| Valjunquera / Valljunquera
+| align="right" | 630
+| align="right" | 151
+| align="right" | 0
+| align="right" | 151
+| align="right" | 630
+| align="right" | 4303
+| align="right" | 14.6%
+|-
+| Las Parras de Castellote
+| align="right" | 2449
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 2449
+| align="right" | 2449
+| align="right" | 100.0%
+|-
+| Vistabella
+| align="right" | 1592
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 1592
+| align="right" | 1592
+| align="right" | 100.0%
+|-
+| Monreal de Ariza
+| align="right" | 2478
+| align="right" | 204
+| align="right" | 0
+| align="right" | 204
+| align="right" | 2478
+| align="right" | 3064
+| align="right" | 80.9%
+|-
+| Torre la Ribera
+| align="right" | 425
+| align="right" | 183
+| align="right" | 0
+| align="right" | 183
+| align="right" | 425
+| align="right" | 425
+| align="right" | 100.0%
+|-
+| Lalueza
+| align="right" | 10554
+| align="right" | 207
+| align="right" | 0
+| align="right" | 207
+| align="right" | 10554
+| align="right" | 14954
+| align="right" | 70.6%
+|-
+| Cañada Vellida
+| align="right" | 883
+| align="right" | 32
+| align="right" | 0
+| align="right" | 32
+| align="right" | 883
+| align="right" | 883
+| align="right" | 100.0%
+|-
+| Fabara
+| align="right" | 3826
+| align="right" | 82
+| align="right" | 3635
+| align="right" | 82
+| align="right" | 7460
+| align="right" | 7460
+| align="right" | 100.0%
+|-
+| San Martín del Río
+| align="right" | 382
+| align="right" | 130
+| align="right" | 0
+| align="right" | 130
+| align="right" | 382
+| align="right" | 3611
+| align="right" | 10.6%
+|-
+| Laspaúles
+| align="right" | 1597
+| align="right" | 136
+| align="right" | 294
+| align="right" | 136
+| align="right" | 1892
+| align="right" | 1934
+| align="right" | 97.8%
+|-
+| Ababuj
+| align="right" | 1412
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 1412
+| align="right" | 1412
+| align="right" | 100.0%
+|-
+| Frías de Albarracín
+| align="right" | 0
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 0
+| align="right" | 1706
+| align="right" | 0.0%
+|-
+| Cucalón
+| align="right" | 1932
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 1932
+| align="right" | 1932
+| align="right" | 100.0%
+|-
+| El Cuervo
+| align="right" | 1958
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 1958
+| align="right" | 2329
+| align="right" | 84.1%
+|-
+| Escucha
+| align="right" | 6882
+| align="right" | 165
+| align="right" | 469
+| align="right" | 165
+| align="right" | 7351
+| align="right" | 10088
+| align="right" | 72.9%
+|-
+| Lumpiaque
+| align="right" | 10144
+| align="right" | 107
+| align="right" | 0
+| align="right" | 107
+| align="right" | 10144
+| align="right" | 10144
+| align="right" | 100.0%
+|-
+| Castillazuelo
+| align="right" | 1019
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 1019
+| align="right" | 1948
+| align="right" | 52.3%
+|-
+| Puértolas
+| align="right" | 2106
+| align="right" | 322
+| align="right" | 0
+| align="right" | 322
+| align="right" | 2106
+| align="right" | 2320
+| align="right" | 90.8%
+|-
+| Colungo
+| align="right" | 1259
+| align="right" | 154
+| align="right" | 0
+| align="right" | 154
+| align="right" | 1259
+| align="right" | 1361
+| align="right" | 92.5%
+|-
+| Allepuz
+| align="right" | 647
+| align="right" | 359
+| align="right" | 0
+| align="right" | 359
+| align="right" | 647
+| align="right" | 2566
+| align="right" | 25.2%
+|-
+| Pina de Ebro
+| align="right" | 3434
+| align="right" | 755
+| align="right" | 0
+| align="right" | 755
+| align="right" | 3434
+| align="right" | 14797
+| align="right" | 23.2%
+|-
+| Linares de Mora
+| align="right" | 2713
+| align="right" | 128
+| align="right" | 0
+| align="right" | 128
+| align="right" | 2713
+| align="right" | 4367
+| align="right" | 62.1%
+|-
+| Jarque de Moncayo
+| align="right" | 3978
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 3978
+| align="right" | 3978
+| align="right" | 100.0%
+|-
+| Valtorres
+| align="right" | 639
+| align="right" | 47
+| align="right" | 0
+| align="right" | 47
+| align="right" | 639
+| align="right" | 2307
+| align="right" | 27.7%
+|-
+| Ateca
+| align="right" | 1295
+| align="right" | 341
+| align="right" | 0
+| align="right" | 341
+| align="right" | 1295
+| align="right" | 8733
+| align="right" | 14.8%
+|-
+| Orihuela del Tremedal
+| align="right" | 2016
+| align="right" | 210
+| align="right" | 0
+| align="right" | 210
+| align="right" | 2016
+| align="right" | 10752
+| align="right" | 18.7%
+|-
+| Nuez de Ebro
+| align="right" | 2657
+| align="right" | 69
+| align="right" | 161
+| align="right" | 69
+| align="right" | 2817
+| align="right" | 9828
+| align="right" | 28.7%
+|-
+| Peralta de Alcofea
+| align="right" | 7921
+| align="right" | 105
+| align="right" | 0
+| align="right" | 105
+| align="right" | 7921
+| align="right" | 8351
+| align="right" | 94.9%
+|-
+| Bárboles
+| align="right" | 1464
+| align="right" | 210
+| align="right" | 0
+| align="right" | 210
+| align="right" | 1464
+| align="right" | 3443
+| align="right" | 42.5%
+|-
+| Valdelinares
+| align="right" | 1283
+| align="right" | 211
+| align="right" | 0
+| align="right" | 211
+| align="right" | 1283
+| align="right" | 2241
+| align="right" | 57.2%
+|-
+| Martín del Río
+| align="right" | 2739
+| align="right" | 101
+| align="right" | 0
+| align="right" | 101
+| align="right" | 2739
+| align="right" | 3797
+| align="right" | 72.1%
+|-
+| Moyuela
+| align="right" | 3847
+| align="right" | 53
+| align="right" | 219
+| align="right" | 53
+| align="right" | 4066
+| align="right" | 4348
+| align="right" | 93.5%
+|-
+| Belver de Cinca
+| align="right" | 1791
+| align="right" | 143
+| align="right" | 91
+| align="right" | 143
+| align="right" | 1882
+| align="right" | 7090
+| align="right" | 26.5%
+|-
+| Estercuel
+| align="right" | 2745
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 2745
+| align="right" | 2745
+| align="right" | 100.0%
+|-
+| Villanova
+| align="right" | 291
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 291
+| align="right" | 926
+| align="right" | 31.4%
+|-
+| Cabolafuente
+| align="right" | 4597
+| align="right" | 85
+| align="right" | 0
+| align="right" | 85
+| align="right" | 4597
+| align="right" | 4597
+| align="right" | 100.0%
+|-
+| Santa María de Dulcis
+| align="right" | 1557
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 1557
+| align="right" | 1557
+| align="right" | 100.0%
+|-
+| Senés de Alcubierre
+| align="right" | 0
+| align="right" | 489
+| align="right" | 0
+| align="right" | 489
+| align="right" | 0
+| align="right" | 1093
+| align="right" | 0.0%
+|-
+| Cosuenda
+| align="right" | 40
+| align="right" | 1429
+| align="right" | 0
+| align="right" | 1429
+| align="right" | 40
+| align="right" | 4853
+| align="right" | 0.8%
+|-
+| Torrevelilla
+| align="right" | 2900
+| align="right" | 64
+| align="right" | 0
+| align="right" | 64
+| align="right" | 2900
+| align="right" | 2900
+| align="right" | 100.0%
+|-
+| La Almunia de Doña Godina
+| align="right" | 2991
+| align="right" | 1139
+| align="right" | 0
+| align="right" | 1139
+| align="right" | 2991
+| align="right" | 24216
+| align="right" | 12.4%
+|-
+| Bardallur
+| align="right" | 869
+| align="right" | 94
+| align="right" | 0
+| align="right" | 94
+| align="right" | 869
+| align="right" | 1993
+| align="right" | 43.6%
+|-
+| Torralbilla
+| align="right" | 1346
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 1346
+| align="right" | 1346
+| align="right" | 100.0%
+|-
+| Villarreal de Huerva
+| align="right" | 2856
+| align="right" | 104
+| align="right" | 0
+| align="right" | 104
+| align="right" | 2856
+| align="right" | 2856
+| align="right" | 100.0%
+|-
+| Munébrega
+| align="right" | 4072
+| align="right" | 89
+| align="right" | 0
+| align="right" | 89
+| align="right" | 4072
+| align="right" | 4072
+| align="right" | 100.0%
+|-
+| Valle de Bardají
+| align="right" | 1429
+| align="right" | 61
+| align="right" | 0
+| align="right" | 61
+| align="right" | 1429
+| align="right" | 1429
+| align="right" | 100.0%
+|-
+| La Muela
+| align="right" | 16478
+| align="right" | 1507
+| align="right" | 1561
+| align="right" | 1507
+| align="right" | 18039
+| align="right" | 51794
+| align="right" | 34.8%
+|-
+| Cadrete
+| align="right" | 4382
+| align="right" | 383
+| align="right" | 128
+| align="right" | 383
+| align="right" | 4511
+| align="right" | 39515
+| align="right" | 11.4%
+|-
+| Albarracín
+| align="right" | 637
+| align="right" | 2889
+| align="right" | 202
+| align="right" | 2889
+| align="right" | 839
+| align="right" | 9747
+| align="right" | 8.6%
+|-
+| Toril y Masegoso
+| align="right" | 0
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 0
+| align="right" | 808
+| align="right" | 0.0%
+|-
+| Maluenda
+| align="right" | 1336
+| align="right" | 132
+| align="right" | 46
+| align="right" | 132
+| align="right" | 1382
+| align="right" | 5674
+| align="right" | 24.3%
+|-
+| Cabra de Mora
+| align="right" | 486
+| align="right" | 453
+| align="right" | 0
+| align="right" | 453
+| align="right" | 486
+| align="right" | 1183
+| align="right" | 41.1%
+|-
+| Benabarre
+| align="right" | 2797
+| align="right" | 607
+| align="right" | 0
+| align="right" | 607
+| align="right" | 2797
+| align="right" | 9874
+| align="right" | 28.3%
+|-
+| Villafranca de Ebro
+| align="right" | 5455
+| align="right" | 169
+| align="right" | 0
+| align="right" | 169
+| align="right" | 5455
+| align="right" | 5455
+| align="right" | 100.0%
+|-
+| Rubielos de Mora
+| align="right" | 3594
+| align="right" | 675
+| align="right" | 0
+| align="right" | 675
+| align="right" | 3594
+| align="right" | 8637
+| align="right" | 41.6%
+|-
+| Puendeluna
+| align="right" | 247
+| align="right" | 12
+| align="right" | 0
+| align="right" | 12
+| align="right" | 247
+| align="right" | 247
+| align="right" | 100.0%
+|-
+| Longás
+| align="right" | 100
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 100
+| align="right" | 701
+| align="right" | 14.3%
+|-
+| Villafeliche
+| align="right" | 1983
+| align="right" | 61
+| align="right" | 0
+| align="right" | 61
+| align="right" | 1983
+| align="right" | 1983
+| align="right" | 100.0%
+|-
+| Almudévar
+| align="right" | 3348
+| align="right" | 1601
+| align="right" | 0
+| align="right" | 1601
+| align="right" | 3348
+| align="right" | 25566
+| align="right" | 13.1%
+|-
+| Calmarza
+| align="right" | 120
+| align="right" | 103
+| align="right" | 0
+| align="right" | 103
+| align="right" | 120
+| align="right" | 1313
+| align="right" | 9.1%
+|-
+| Sisamón
+| align="right" | 3639
+| align="right" | 106
+| align="right" | 0
+| align="right" | 106
+| align="right" | 3639
+| align="right" | 3639
+| align="right" | 100.0%
+|-
+| Farlete
+| align="right" | 166
+| align="right" | 216
+| align="right" | 0
+| align="right" | 216
+| align="right" | 166
+| align="right" | 5612
+| align="right" | 3.0%
+|-
+| Tramacastiel
+| align="right" | 1536
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 1536
+| align="right" | 1536
+| align="right" | 100.0%
+|-
+| Villadoz
+| align="right" | 0
+| align="right" | 111
+| align="right" | 0
+| align="right" | 111
+| align="right" | 0
+| align="right" | 1556
+| align="right" | 0.0%
+|-
+| Fuendejalón
+| align="right" | 5173
+| align="right" | 126
+| align="right" | 0
+| align="right" | 126
+| align="right" | 5173
+| align="right" | 6538
+| align="right" | 79.1%
+|-
+| Luesma
+| align="right" | 908
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 908
+| align="right" | 908
+| align="right" | 100.0%
+|-
+| Azara
+| align="right" | 1352
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 1352
+| align="right" | 1352
+| align="right" | 100.0%
+|-
+| Herrera de los Navarros
+| align="right" | 4234
+| align="right" | 116
+| align="right" | 106
+| align="right" | 116
+| align="right" | 4340
+| align="right" | 4340
+| align="right" | 100.0%
+|-
+| Mediana de Aragón
+| align="right" | 4842
+| align="right" | 188
+| align="right" | 0
+| align="right" | 188
+| align="right" | 4842
+| align="right" | 4842
+| align="right" | 100.0%
+|-
+| Graus
+| align="right" | 4465
+| align="right" | 1389
+| align="right" | 2028
+| align="right" | 1389
+| align="right" | 6493
+| align="right" | 14409
+| align="right" | 45.1%
+|-
+| Alquézar
+| align="right" | 2863
+| align="right" | 393
+| align="right" | 0
+| align="right" | 393
+| align="right" | 2863
+| align="right" | 4474
+| align="right" | 64.0%
+|-
+| Obón
+| align="right" | 1489
+| align="right" | 88
+| align="right" | 0
+| align="right" | 88
+| align="right" | 1489
+| align="right" | 2798
+| align="right" | 53.2%
+|-
+| Salillas
+| align="right" | 0
+| align="right" | 122
+| align="right" | 0
+| align="right" | 122
+| align="right" | 0
+| align="right" | 1510
+| align="right" | 0.0%
+|-
+| Segura de los Baños
+| align="right" | 2188
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 2188
+| align="right" | 2188
+| align="right" | 100.0%
+|-
+| Palo
+| align="right" | 602
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 602
+| align="right" | 602
+| align="right" | 100.0%
+|-
+| Esplús
+| align="right" | 1442
+| align="right" | 87
+| align="right" | 79
+| align="right" | 87
+| align="right" | 1521
+| align="right" | 4898
+| align="right" | 31.1%
+|-
+| Hinojosa de Jarque
+| align="right" | 3532
+| align="right" | 93
+| align="right" | 0
+| align="right" | 93
+| align="right" | 3532
+| align="right" | 3532
+| align="right" | 100.0%
+|-
+| Monroyo / Montroig
+| align="right" | 1212
+| align="right" | 174
+| align="right" | 0
+| align="right" | 174
+| align="right" | 1212
+| align="right" | 3765
+| align="right" | 32.2%
+|-
+| Mainar
+| align="right" | 1705
+| align="right" | 76
+| align="right" | 0
+| align="right" | 76
+| align="right" | 1705
+| align="right" | 2113
+| align="right" | 80.7%
+|-
+| Bailo
+| align="right" | 2093
+| align="right" | 465
+| align="right" | 37
+| align="right" | 465
+| align="right" | 2130
+| align="right" | 5169
+| align="right" | 41.2%
+|-
+| Alfamén
+| align="right" | 12327
+| align="right" | 152
+| align="right" | 0
+| align="right" | 152
+| align="right" | 12327
+| align="right" | 12327
+| align="right" | 100.0%
+|-
+| Pitarque
+| align="right" | 1280
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 1280
+| align="right" | 1280
+| align="right" | 100.0%
+|-
+| Tornos
+| align="right" | 5028
+| align="right" | 241
+| align="right" | 0
+| align="right" | 241
+| align="right" | 5028
+| align="right" | 5028
+| align="right" | 100.0%
+|-
+| El Pueyo de Araguás
+| align="right" | 90
+| align="right" | 340
+| align="right" | 0
+| align="right" | 340
+| align="right" | 90
+| align="right" | 366
+| align="right" | 24.6%
+|-
+| Aísa
+| align="right" | 3929
+| align="right" | 386
+| align="right" | 0
+| align="right" | 386
+| align="right" | 3929
+| align="right" | 4599
+| align="right" | 85.4%
+|-
+| Pastriz
+| align="right" | 2505
+| align="right" | 129
+| align="right" | 20
+| align="right" | 129
+| align="right" | 2525
+| align="right" | 7120
+| align="right" | 35.5%
+|-
+| Ibdes
+| align="right" | 8047
+| align="right" | 449
+| align="right" | 0
+| align="right" | 449
+| align="right" | 8047
+| align="right" | 8047
+| align="right" | 100.0%
+|-
+| Fuentes de Ebro
+| align="right" | 4920
+| align="right" | 502
+| align="right" | 53
+| align="right" | 502
+| align="right" | 4973
+| align="right" | 23295
+| align="right" | 21.3%
+|-
+| Villanúa
+| align="right" | 3430
+| align="right" | 504
+| align="right" | 496
+| align="right" | 504
+| align="right" | 3927
+| align="right" | 13018
+| align="right" | 30.2%
+|-
+| Banastás
+| align="right" | 0
+| align="right" | 446
+| align="right" | 0
+| align="right" | 446
+| align="right" | 0
+| align="right" | 3674
+| align="right" | 0.0%
+|-
+| Grisel
+| align="right" | 43
+| align="right" | 42
+| align="right" | 0
+| align="right" | 42
+| align="right" | 43
+| align="right" | 832
+| align="right" | 5.2%
+|-
+| Ontiñena
+| align="right" | 3100
+| align="right" | 102
+| align="right" | 0
+| align="right" | 102
+| align="right" | 3100
+| align="right" | 4809
+| align="right" | 64.5%
+|-
+| Caldearenas
+| align="right" | 360
+| align="right" | 484
+| align="right" | 0
+| align="right" | 484
+| align="right" | 360
+| align="right" | 3747
+| align="right" | 9.6%
+|-
+| Lascellas-Ponzano
+| align="right" | 1267
+| align="right" | 138
+| align="right" | 0
+| align="right" | 138
+| align="right" | 1267
+| align="right" | 2872
+| align="right" | 44.1%
+|-
+| Noguera de Albarracín
+| align="right" | 2910
+| align="right" | 34
+| align="right" | 0
+| align="right" | 34
+| align="right" | 2910
+| align="right" | 2910
+| align="right" | 100.0%
+|-
+| Castejón de Alarba
+| align="right" | 1658
+| align="right" | 57
+| align="right" | 0
+| align="right" | 57
+| align="right" | 1658
+| align="right" | 1658
+| align="right" | 100.0%
+|-
+| Loscorrales
+| align="right" | 46
+| align="right" | 251
+| align="right" | 0
+| align="right" | 251
+| align="right" | 46
+| align="right" | 1240
+| align="right" | 3.7%
+|-
+| Albalate de Cinca
+| align="right" | 4736
+| align="right" | 374
+| align="right" | 270
+| align="right" | 374
+| align="right" | 5006
+| align="right" | 8376
+| align="right" | 59.8%
+|-
+| Bureta
+| align="right" | 3488
+| align="right" | 57
+| align="right" | 0
+| align="right" | 57
+| align="right" | 3488
+| align="right" | 3488
+| align="right" | 100.0%
+|-
+| Fonfría
+| align="right" | 1034
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 1034
+| align="right" | 1034
+| align="right" | 100.0%
+|-
+| Valmadrid
+| align="right" | 939
+| align="right" | 83
+| align="right" | 0
+| align="right" | 83
+| align="right" | 939
+| align="right" | 1799
+| align="right" | 52.2%
+|-
+| Hoz de Jaca
+| align="right" | 211
+| align="right" | 377
+| align="right" | 0
+| align="right" | 377
+| align="right" | 211
+| align="right" | 3117
+| align="right" | 6.8%
+|-
+| Berrueco
+| align="right" | 1357
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 1357
+| align="right" | 1357
+| align="right" | 100.0%
+|-
+| Alacón
+| align="right" | 1095
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 1095
+| align="right" | 1472
+| align="right" | 74.4%
+|-
+| Orrios
+| align="right" | 1004
+| align="right" | 34
+| align="right" | 0
+| align="right" | 34
+| align="right" | 1004
+| align="right" | 2198
+| align="right" | 45.7%
+|-
+| Blesa
+| align="right" | 450
+| align="right" | 94
+| align="right" | 0
+| align="right" | 94
+| align="right" | 450
+| align="right" | 3739
+| align="right" | 12.0%
+|-
+| Yebra de Basa
+| align="right" | 128
+| align="right" | 553
+| align="right" | 0
+| align="right" | 553
+| align="right" | 128
+| align="right" | 1681
+| align="right" | 7.6%
+|-
+| Castiliscar
+| align="right" | 1036
+| align="right" | 94
+| align="right" | 0
+| align="right" | 94
+| align="right" | 1036
+| align="right" | 4319
+| align="right" | 24.0%
+|-
+| Sestrica
+| align="right" | 2314
+| align="right" | 117
+| align="right" | 0
+| align="right" | 117
+| align="right" | 2314
+| align="right" | 3149
+| align="right" | 73.5%
+|-
+| Torremocha de Jiloca
+| align="right" | 2516
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 2516
+| align="right" | 2819
+| align="right" | 89.3%
+|-
+| Novallas
+| align="right" | 6431
+| align="right" | 39
+| align="right" | 0
+| align="right" | 39
+| align="right" | 6431
+| align="right" | 6431
+| align="right" | 100.0%
+|-
+| Cerveruela
+| align="right" | 28
+| align="right" | 23
+| align="right" | 0
+| align="right" | 23
+| align="right" | 28
+| align="right" | 661
+| align="right" | 4.2%
+|-
+| Uncastillo
+| align="right" | 4003
+| align="right" | 139
+| align="right" | 0
+| align="right" | 139
+| align="right" | 4003
+| align="right" | 6138
+| align="right" | 65.2%
+|-
+| Torres de Berrellén
+| align="right" | 2429
+| align="right" | 218
+| align="right" | 0
+| align="right" | 218
+| align="right" | 2429
+| align="right" | 7911
+| align="right" | 30.7%
+|-
+| Torla-Ordesa
+| align="right" | 2123
+| align="right" | 1439
+| align="right" | 0
+| align="right" | 1439
+| align="right" | 2123
+| align="right" | 3930
+| align="right" | 54.0%
+|-
+| Visiedo
+| align="right" | 3151
+| align="right" | 34
+| align="right" | 0
+| align="right" | 34
+| align="right" | 3151
+| align="right" | 3151
+| align="right" | 100.0%
+|-
+| Pozondón
+| align="right" | 919
+| align="right" | 70
+| align="right" | 0
+| align="right" | 70
+| align="right" | 919
+| align="right" | 1324
+| align="right" | 69.4%
+|-
+| Albero Alto
+| align="right" | 258
+| align="right" | 150
+| align="right" | 0
+| align="right" | 150
+| align="right" | 258
+| align="right" | 2166
+| align="right" | 11.9%
+|-
+| Benasque
+| align="right" | 7023
+| align="right" | 1782
+| align="right" | 0
+| align="right" | 1782
+| align="right" | 7023
+| align="right" | 11487
+| align="right" | 61.1%
+|-
+| Langa del Castillo
+| align="right" | 2303
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 2303
+| align="right" | 2303
+| align="right" | 100.0%
+|-
+| Luna
+| align="right" | 1420
+| align="right" | 246
+| align="right" | 0
+| align="right" | 246
+| align="right" | 1420
+| align="right" | 7811
+| align="right" | 18.2%
+|-
+| Jatiel
+| align="right" | 1079
+| align="right" | 14
+| align="right" | 0
+| align="right" | 14
+| align="right" | 1079
+| align="right" | 1079
+| align="right" | 100.0%
+|-
+| Santa Cruz de Grío
+| align="right" | 992
+| align="right" | 13
+| align="right" | 0
+| align="right" | 13
+| align="right" | 992
+| align="right" | 992
+| align="right" | 100.0%
+|-
+| Bordalba
+| align="right" | 2628
+| align="right" | 77
+| align="right" | 0
+| align="right" | 77
+| align="right" | 2628
+| align="right" | 2628
+| align="right" | 100.0%
+|-
+| Alloza
+| align="right" | 4204
+| align="right" | 112
+| align="right" | 380
+| align="right" | 112
+| align="right" | 4584
+| align="right" | 10277
+| align="right" | 44.6%
+|-
+| Adahuesca
+| align="right" | 285
+| align="right" | 90
+| align="right" | 0
+| align="right" | 90
+| align="right" | 285
+| align="right" | 1311
+| align="right" | 21.7%
+|-
+| Sopeira
+| align="right" | 2763
+| align="right" | 166
+| align="right" | 0
+| align="right" | 166
+| align="right" | 2763
+| align="right" | 2763
+| align="right" | 100.0%
+|-
+| Grañén
+| align="right" | 6513
+| align="right" | 855
+| align="right" | 0
+| align="right" | 855
+| align="right" | 6513
+| align="right" | 16954
+| align="right" | 38.4%
+|-
+| Seira
+| align="right" | 545
+| align="right" | 358
+| align="right" | 0
+| align="right" | 358
+| align="right" | 545
+| align="right" | 990
+| align="right" | 55.0%
+|-
+| Marracos
+| align="right" | 1059
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 1059
+| align="right" | 1059
+| align="right" | 100.0%
+|-
+| Romanos
+| align="right" | 1969
+| align="right" | 97
+| align="right" | 0
+| align="right" | 97
+| align="right" | 1969
+| align="right" | 1969
+| align="right" | 100.0%
+|-
+| Torralba de Aragón
+| align="right" | 939
+| align="right" | 309
+| align="right" | 0
+| align="right" | 309
+| align="right" | 939
+| align="right" | 1693
+| align="right" | 55.4%
+|-
+| Sesa
+| align="right" | 0
+| align="right" | 217
+| align="right" | 0
+| align="right" | 217
+| align="right" | 0
+| align="right" | 2239
+| align="right" | 0.0%
+|-
+| Quinto
+| align="right" | 876
+| align="right" | 264
+| align="right" | 0
+| align="right" | 264
+| align="right" | 876
+| align="right" | 8354
+| align="right" | 10.5%
+|-
+| Santa Cruz de la Serós
+| align="right" | 1803
+| align="right" | 199
+| align="right" | 0
+| align="right" | 199
+| align="right" | 1803
+| align="right" | 2644
+| align="right" | 68.2%
+|-
+| Las Cuerlas
+| align="right" | 1417
+| align="right" | 59
+| align="right" | 0
+| align="right" | 59
+| align="right" | 1417
+| align="right" | 1417
+| align="right" | 100.0%
+|-
+| Torralba de Ribota
+| align="right" | 201
+| align="right" | 61
+| align="right" | 0
+| align="right" | 61
+| align="right" | 201
+| align="right" | 2516
+| align="right" | 8.0%
+|-
+| Singra
+| align="right" | 2194
+| align="right" | 185
+| align="right" | 0
+| align="right" | 185
+| align="right" | 2194
+| align="right" | 2494
+| align="right" | 88.0%
+|-
+| Estopiñán del Castillo
+| align="right" | 932
+| align="right" | 125
+| align="right" | 0
+| align="right" | 125
+| align="right" | 932
+| align="right" | 932
+| align="right" | 100.0%
+|-
+| Cinco Olivas
+| align="right" | 132
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 132
+| align="right" | 2183
+| align="right" | 6.1%
+|-
+| Jaca
+| align="right" | 11122
+| align="right" | 8840
+| align="right" | 780
+| align="right" | 8840
+| align="right" | 11903
+| align="right" | 82354
+| align="right" | 14.5%
+|-
+| Híjar
+| align="right" | 1861
+| align="right" | 409
+| align="right" | 0
+| align="right" | 409
+| align="right" | 1861
+| align="right" | 10775
+| align="right" | 17.3%
+|-
+| Odón
+| align="right" | 2710
+| align="right" | 66
+| align="right" | 0
+| align="right" | 66
+| align="right" | 2710
+| align="right" | 2710
+| align="right" | 100.0%
+|-
+| Gotor
+| align="right" | 2134
+| align="right" | 31
+| align="right" | 281
+| align="right" | 31
+| align="right" | 2415
+| align="right" | 2415
+| align="right" | 100.0%
+|-
+| Rillo
+| align="right" | 1958
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 1958
+| align="right" | 1958
+| align="right" | 100.0%
+|-
+| Pozuel de Ariza
+| align="right" | 1412
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 1412
+| align="right" | 1412
+| align="right" | 100.0%
+|-
+| La Cuba
+| align="right" | 579
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 579
+| align="right" | 1923
+| align="right" | 30.1%
+|-
+| Almonacid de la Sierra
+| align="right" | 7011
+| align="right" | 170
+| align="right" | 0
+| align="right" | 170
+| align="right" | 7011
+| align="right" | 8642
+| align="right" | 81.1%
+|-
+| Utebo
+| align="right" | 6425
+| align="right" | 973
+| align="right" | 0
+| align="right" | 973
+| align="right" | 6425
+| align="right" | 34842
+| align="right" | 18.4%
+|-
+| Tella-Sin
+| align="right" | 1780
+| align="right" | 327
+| align="right" | 0
+| align="right" | 327
+| align="right" | 1780
+| align="right" | 1780
+| align="right" | 100.0%
+|-
+| Sediles
+| align="right" | 203
+| align="right" | 77
+| align="right" | 703
+| align="right" | 77
+| align="right" | 906
+| align="right" | 906
+| align="right" | 100.0%
+|-
+| Paniza
+| align="right" | 3899
+| align="right" | 129
+| align="right" | 0
+| align="right" | 129
+| align="right" | 3899
+| align="right" | 3899
+| align="right" | 100.0%
+|-
+| Mallén
+| align="right" | 10698
+| align="right" | 322
+| align="right" | 6959
+| align="right" | 322
+| align="right" | 17656
+| align="right" | 17743
+| align="right" | 99.5%
+|-
+| Mirambel
+| align="right" | 1477
+| align="right" | 86
+| align="right" | 0
+| align="right" | 86
+| align="right" | 1477
+| align="right" | 1477
+| align="right" | 100.0%
+|-
+| Alborge
+| align="right" | 1187
+| align="right" | 37
+| align="right" | 102
+| align="right" | 37
+| align="right" | 1289
+| align="right" | 2071
+| align="right" | 62.2%
+|-
+| Ambel
+| align="right" | 4623
+| align="right" | 76
+| align="right" | 0
+| align="right" | 76
+| align="right" | 4623
+| align="right" | 4623
+| align="right" | 100.0%
+|-
+| Igriés
+| align="right" | 813
+| align="right" | 1170
+| align="right" | 0
+| align="right" | 1170
+| align="right" | 813
+| align="right" | 4150
+| align="right" | 19.6%
+|-
+| Guadalaviar
+| align="right" | 2268
+| align="right" | 469
+| align="right" | 0
+| align="right" | 469
+| align="right" | 2268
+| align="right" | 4577
+| align="right" | 49.5%
+|-
+| Gurrea de Gállego
+| align="right" | 1611
+| align="right" | 445
+| align="right" | 150
+| align="right" | 445
+| align="right" | 1761
+| align="right" | 15807
+| align="right" | 11.1%
+|-
+| Artieda
+| align="right" | 652
+| align="right" | 93
+| align="right" | 0
+| align="right" | 93
+| align="right" | 652
+| align="right" | 1126
+| align="right" | 57.8%
+|-
+| Los Fayos
+| align="right" | 2321
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 2321
+| align="right" | 2321
+| align="right" | 100.0%
+|-
+| Olba
+| align="right" | 4319
+| align="right" | 1415
+| align="right" | 0
+| align="right" | 1415
+| align="right" | 4319
+| align="right" | 6663
+| align="right" | 64.8%
+|-
+| Fraga
+| align="right" | 5644
+| align="right" | 3215
+| align="right" | 7
+| align="right" | 3215
+| align="right" | 5652
+| align="right" | 51815
+| align="right" | 10.9%
+|-
+| Villar de los Navarros
+| align="right" | 1985
+| align="right" | 50
+| align="right" | 0
+| align="right" | 50
+| align="right" | 1985
+| align="right" | 1985
+| align="right" | 100.0%
+|-
+| Muel
+| align="right" | 14414
+| align="right" | 469
+| align="right" | 0
+| align="right" | 469
+| align="right" | 14414
+| align="right" | 19889
+| align="right" | 72.5%
+|-
+| Castejón de Valdejasa
+| align="right" | 3452
+| align="right" | 81
+| align="right" | 0
+| align="right" | 81
+| align="right" | 3452
+| align="right" | 3695
+| align="right" | 93.4%
+|-
+| Tardienta
+| align="right" | 7040
+| align="right" | 903
+| align="right" | 0
+| align="right" | 903
+| align="right" | 7040
+| align="right" | 7360
+| align="right" | 95.6%
+|-
+| Bisaurri
+| align="right" | 2238
+| align="right" | 198
+| align="right" | 0
+| align="right" | 198
+| align="right" | 2238
+| align="right" | 2517
+| align="right" | 88.9%
+|-
+| Osso de Cinca
+| align="right" | 809
+| align="right" | 64
+| align="right" | 0
+| align="right" | 64
+| align="right" | 809
+| align="right" | 4398
+| align="right" | 18.4%
+|-
+| Maicas
+| align="right" | 671
+| align="right" | 16
+| align="right" | 0
+| align="right" | 16
+| align="right" | 671
+| align="right" | 671
+| align="right" | 100.0%
+|-
+| Encinacorba
+| align="right" | 3017
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 3017
+| align="right" | 3017
+| align="right" | 100.0%
+|-
+| Urrea de Jalón
+| align="right" | 1067
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 1067
+| align="right" | 1067
+| align="right" | 100.0%
+|-
+| Trasmoz
+| align="right" | 2351
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 2351
+| align="right" | 2553
+| align="right" | 92.1%
+|-
+| Villalba de Perejil
+| align="right" | 1402
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 1402
+| align="right" | 1402
+| align="right" | 100.0%
+|-
+| Sigüés
+| align="right" | 2186
+| align="right" | 420
+| align="right" | 108
+| align="right" | 420
+| align="right" | 2295
+| align="right" | 2295
+| align="right" | 100.0%
+|-
+| Plenas
+| align="right" | 2812
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 2812
+| align="right" | 2812
+| align="right" | 100.0%
+|-
+| Caminreal
+| align="right" | 9077
+| align="right" | 207
+| align="right" | 0
+| align="right" | 207
+| align="right" | 9077
+| align="right" | 9259
+| align="right" | 98.0%
+|-
+| Isábena
+| align="right" | 1370
+| align="right" | 705
+| align="right" | 0
+| align="right" | 705
+| align="right" | 1370
+| align="right" | 4154
+| align="right" | 33.0%
+|-
+| Jaulín
+| align="right" | 1391
+| align="right" | 104
+| align="right" | 153
+| align="right" | 104
+| align="right" | 1544
+| align="right" | 3669
+| align="right" | 42.1%
+|-
+| Nigüella
+| align="right" | 1548
+| align="right" | 50
+| align="right" | 0
+| align="right" | 50
+| align="right" | 1548
+| align="right" | 1548
+| align="right" | 100.0%
+|-
+| Tolva
+| align="right" | 1598
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 1598
+| align="right" | 2206
+| align="right" | 72.4%
+|-
+| Alpeñés
+| align="right" | 601
+| align="right" | 15
+| align="right" | 0
+| align="right" | 15
+| align="right" | 601
+| align="right" | 601
+| align="right" | 100.0%
+|-
+| Monterde de Albarracín
+| align="right" | 860
+| align="right" | 21
+| align="right" | 0
+| align="right" | 21
+| align="right" | 860
+| align="right" | 2068
+| align="right" | 41.6%
+|-
+| Valdeltormo / La Vall del Tormo
+| align="right" | 157
+| align="right" | 83
+| align="right" | 0
+| align="right" | 83
+| align="right" | 157
+| align="right" | 4556
+| align="right" | 3.4%
+|-
+| Cariñena
+| align="right" | 15804
+| align="right" | 389
+| align="right" | 271
+| align="right" | 389
+| align="right" | 16075
+| align="right" | 23641
+| align="right" | 68.0%
+|-
+| Candasnos
+| align="right" | 656
+| align="right" | 337
+| align="right" | 0
+| align="right" | 337
+| align="right" | 656
+| align="right" | 6604
+| align="right" | 9.9%
+|-
+| Torrecilla de Alcañiz
+| align="right" | 4515
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 4515
+| align="right" | 4515
+| align="right" | 100.0%
+|-
+| Peralta de Calasanz
+| align="right" | 2658
+| align="right" | 218
+| align="right" | 391
+| align="right" | 218
+| align="right" | 3049
+| align="right" | 4675
+| align="right" | 65.2%
+|-
+| Calomarde
+| align="right" | 1045
+| align="right" | 363
+| align="right" | 0
+| align="right" | 363
+| align="right" | 1045
+| align="right" | 1943
+| align="right" | 53.8%
+|-
+| Biota
+| align="right" | 7522
+| align="right" | 124
+| align="right" | 0
+| align="right" | 124
+| align="right" | 7522
+| align="right" | 7522
+| align="right" | 100.0%
+|-
+| Alcalá de Gurrea
+| align="right" | 0
+| align="right" | 590
+| align="right" | 0
+| align="right" | 590
+| align="right" | 0
+| align="right" | 4567
+| align="right" | 0.0%
+|-
+| Bujaraloz
+| align="right" | 2332
+| align="right" | 257
+| align="right" | 0
+| align="right" | 257
+| align="right" | 2332
+| align="right" | 8430
+| align="right" | 27.7%
+|-
+| Camarena de la Sierra
+| align="right" | 2444
+| align="right" | 239
+| align="right" | 264
+| align="right" | 239
+| align="right" | 2708
+| align="right" | 3909
+| align="right" | 69.3%
+|-
+| Canal de Berdún
+| align="right" | 2303
+| align="right" | 352
+| align="right" | 0
+| align="right" | 352
+| align="right" | 2303
+| align="right" | 4927
+| align="right" | 46.7%
+|-
+| Baells
+| align="right" | 1044
+| align="right" | 66
+| align="right" | 0
+| align="right" | 66
+| align="right" | 1044
+| align="right" | 1412
+| align="right" | 73.9%
+|-
+| Sahún
+| align="right" | 1688
+| align="right" | 505
+| align="right" | 0
+| align="right" | 505
+| align="right" | 1688
+| align="right" | 3031
+| align="right" | 55.7%
+|-
+| Torrelacárcel
+| align="right" | 5816
+| align="right" | 128
+| align="right" | 0
+| align="right" | 128
+| align="right" | 5816
+| align="right" | 6608
+| align="right" | 88.0%
+|-
+| Santa Cruz de Moncayo
+| align="right" | 1687
+| align="right" | 18
+| align="right" | 0
+| align="right" | 18
+| align="right" | 1687
+| align="right" | 1687
+| align="right" | 100.0%
+|-
+| Cetina
+| align="right" | 6509
+| align="right" | 306
+| align="right" | 0
+| align="right" | 306
+| align="right" | 6509
+| align="right" | 13732
+| align="right" | 47.4%
+|-
+| Peñalba
+| align="right" | 2575
+| align="right" | 317
+| align="right" | 298
+| align="right" | 317
+| align="right" | 2873
+| align="right" | 5159
+| align="right" | 55.7%
+|-
+| Monflorite-Lascasas
+| align="right" | 0
+| align="right" | 1664
+| align="right" | 0
+| align="right" | 1664
+| align="right" | 0
+| align="right" | 3890
+| align="right" | 0.0%
+|-
+| Belmonte de San José
+| align="right" | 311
+| align="right" | 11
+| align="right" | 0
+| align="right" | 11
+| align="right" | 311
+| align="right" | 311
+| align="right" | 100.0%
+|-
+| Azuara
+| align="right" | 5953
+| align="right" | 143
+| align="right" | 0
+| align="right" | 143
+| align="right" | 5953
+| align="right" | 6483
+| align="right" | 91.8%
+|-
+| Paracuellos de la Ribera
+| align="right" | 429
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 429
+| align="right" | 429
+| align="right" | 100.0%
+|-
+| Morés
+| align="right" | 2377
+| align="right" | 92
+| align="right" | 0
+| align="right" | 92
+| align="right" | 2377
+| align="right" | 2377
+| align="right" | 100.0%
+|-
+| Belchite
+| align="right" | 1810
+| align="right" | 440
+| align="right" | 98
+| align="right" | 440
+| align="right" | 1907
+| align="right" | 12214
+| align="right" | 15.6%
+|-
+| Anadón
+| align="right" | 689
+| align="right" | 29
+| align="right" | 0
+| align="right" | 29
+| align="right" | 689
+| align="right" | 689
+| align="right" | 100.0%
+|-
+| Monegrillo
+| align="right" | 780
+| align="right" | 192
+| align="right" | 31
+| align="right" | 192
+| align="right" | 811
+| align="right" | 5361
+| align="right" | 15.1%
+|-
+| Plou
+| align="right" | 779
+| align="right" | 21
+| align="right" | 0
+| align="right" | 21
+| align="right" | 779
+| align="right" | 779
+| align="right" | 100.0%
+|-
+| Alhama de Aragón
+| align="right" | 72
+| align="right" | 278
+| align="right" | 0
+| align="right" | 278
+| align="right" | 72
+| align="right" | 4445
+| align="right" | 1.6%
+|-
+| Castelserás
+| align="right" | 7533
+| align="right" | 121
+| align="right" | 0
+| align="right" | 121
+| align="right" | 7533
+| align="right" | 7533
+| align="right" | 100.0%
+|-
+| Lagueruela
+| align="right" | 1938
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 1938
+| align="right" | 1938
+| align="right" | 100.0%
+|-
+| Panticosa
+| align="right" | 3769
+| align="right" | 1915
+| align="right" | 249
+| align="right" | 1915
+| align="right" | 4018
+| align="right" | 11761
+| align="right" | 34.2%
+|-
+| Agüero
+| align="right" | 1803
+| align="right" | 147
+| align="right" | 0
+| align="right" | 147
+| align="right" | 1803
+| align="right" | 3715
+| align="right" | 48.5%
+|-
+| Tramaced
+| align="right" | 0
+| align="right" | 124
+| align="right" | 0
+| align="right" | 124
+| align="right" | 0
+| align="right" | 1535
+| align="right" | 0.0%
+|-
+| Argente
+| align="right" | 5114
+| align="right" | 137
+| align="right" | 0
+| align="right" | 137
+| align="right" | 5114
+| align="right" | 6162
+| align="right" | 83.0%
+|-
+| Bañón
+| align="right" | 224
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 224
+| align="right" | 3010
+| align="right" | 7.4%
+|-
+| Blancas
+| align="right" | 1507
+| align="right" | 77
+| align="right" | 0
+| align="right" | 77
+| align="right" | 1507
+| align="right" | 3343
+| align="right" | 45.1%
+|-
+| Asín
+| align="right" | 1618
+| align="right" | 19
+| align="right" | 0
+| align="right" | 19
+| align="right" | 1618
+| align="right" | 1618
+| align="right" | 100.0%
+|-
+| Lascuarre
+| align="right" | 2789
+| align="right" | 83
+| align="right" | 0
+| align="right" | 83
+| align="right" | 2789
+| align="right" | 4127
+| align="right" | 67.6%
+|-
+| La Hoz de la Vieja
+| align="right" | 2801
+| align="right" | 40
+| align="right" | 0
+| align="right" | 40
+| align="right" | 2801
+| align="right" | 2801
+| align="right" | 100.0%
+|-
+| Peralejos
+| align="right" | 1238
+| align="right" | 52
+| align="right" | 0
+| align="right" | 52
+| align="right" | 1238
+| align="right" | 2034
+| align="right" | 60.9%
+|-
+| Sabiñánigo
+| align="right" | 13039
+| align="right" | 9548
+| align="right" | 2970
+| align="right" | 9548
+| align="right" | 16009
+| align="right" | 52454
+| align="right" | 30.5%
+|-
+| Gistaín
+| align="right" | 2385
+| align="right" | 341
+| align="right" | 0
+| align="right" | 341
+| align="right" | 2385
+| align="right" | 3105
+| align="right" | 76.8%
+|-
+| Mozota
+| align="right" | 1692
+| align="right" | 51
+| align="right" | 0
+| align="right" | 51
+| align="right" | 1692
+| align="right" | 2913
+| align="right" | 58.1%
+|-
+| Vencillón
+| align="right" | 3879
+| align="right" | 57
+| align="right" | 0
+| align="right" | 57
+| align="right" | 3879
+| align="right" | 3879
+| align="right" | 100.0%
+|-
+| Villar del Salz
+| align="right" | 217
+| align="right" | 32
+| align="right" | 0
+| align="right" | 32
+| align="right" | 217
+| align="right" | 217
+| align="right" | 100.0%
+|-
+| Celadas
+| align="right" | 4246
+| align="right" | 51
+| align="right" | 0
+| align="right" | 51
+| align="right" | 4246
+| align="right" | 4246
+| align="right" | 100.0%
+|-
+| Cimballa
+| align="right" | 2510
+| align="right" | 83
+| align="right" | 0
+| align="right" | 83
+| align="right" | 2510
+| align="right" | 2510
+| align="right" | 100.0%
+|-
+| Jaraba
+| align="right" | 1082
+| align="right" | 122
+| align="right" | 0
+| align="right" | 122
+| align="right" | 1082
+| align="right" | 2569
+| align="right" | 42.1%
+|-
+| Velilla de Jiloca
+| align="right" | 988
+| align="right" | 29
+| align="right" | 0
+| align="right" | 29
+| align="right" | 988
+| align="right" | 1039
+| align="right" | 95.1%
+|-
+| Morata de Jalón
+| align="right" | 5569
+| align="right" | 195
+| align="right" | 0
+| align="right" | 195
+| align="right" | 5569
+| align="right" | 5569
+| align="right" | 100.0%
+|-
+| Remolinos
+| align="right" | 3427
+| align="right" | 160
+| align="right" | 0
+| align="right" | 160
+| align="right" | 3427
+| align="right" | 6750
+| align="right" | 50.8%
+|-
+| Alcolea de Cinca
+| align="right" | 1311
+| align="right" | 141
+| align="right" | 602
+| align="right" | 141
+| align="right" | 1913
+| align="right" | 7076
+| align="right" | 27.0%
+|-
+| Calaceite / Calaceit
+| align="right" | 547
+| align="right" | 186
+| align="right" | 0
+| align="right" | 186
+| align="right" | 547
+| align="right" | 2838
+| align="right" | 19.3%
+|-
+| Bronchales
+| align="right" | 610
+| align="right" | 225
+| align="right" | 0
+| align="right" | 225
+| align="right" | 610
+| align="right" | 11246
+| align="right" | 5.4%
+|-
+| Letux
+| align="right" | 7023
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 7023
+| align="right" | 7173
+| align="right" | 97.9%
+|-
+| Leciñena
+| align="right" | 10923
+| align="right" | 450
+| align="right" | 0
+| align="right" | 450
+| align="right" | 10923
+| align="right" | 10923
+| align="right" | 100.0%
+|-
+| Manzanera
+| align="right" | 8936
+| align="right" | 461
+| align="right" | 188
+| align="right" | 461
+| align="right" | 9124
+| align="right" | 11078
+| align="right" | 82.4%
+|-
+| Monzón
+| align="right" | 10859
+| align="right" | 1216
+| align="right" | 861
+| align="right" | 1216
+| align="right" | 11721
+| align="right" | 54040
+| align="right" | 21.7%
+|-
+| Manchones
+| align="right" | 0
+| align="right" | 60
+| align="right" | 0
+| align="right" | 60
+| align="right" | 0
+| align="right" | 1041
+| align="right" | 0.0%
+|-
+| Alcalá de Ebro
+| align="right" | 1185
+| align="right" | 130
+| align="right" | 0
+| align="right" | 130
+| align="right" | 1185
+| align="right" | 3717
+| align="right" | 31.9%
+|-
+| Ráfales / Ràfels
+| align="right" | 937
+| align="right" | 95
+| align="right" | 45
+| align="right" | 95
+| align="right" | 982
+| align="right" | 2856
+| align="right" | 34.4%
+|-
+| La Puebla de Valverde
+| align="right" | 1357
+| align="right" | 622
+| align="right" | 0
+| align="right" | 622
+| align="right" | 1357
+| align="right" | 5562
+| align="right" | 24.4%
+|-
+| Villanueva de Huerva
+| align="right" | 5106
+| align="right" | 88
+| align="right" | 0
+| align="right" | 88
+| align="right" | 5106
+| align="right" | 5106
+| align="right" | 100.0%
+|-
+| Camarillas
+| align="right" | 1734
+| align="right" | 134
+| align="right" | 0
+| align="right" | 134
+| align="right" | 1734
+| align="right" | 3671
+| align="right" | 47.2%
+|-
+| Cretas / Queretes
+| align="right" | 1565
+| align="right" | 165
+| align="right" | 3315
+| align="right" | 165
+| align="right" | 4880
+| align="right" | 4880
+| align="right" | 100.0%
+|-
+| Bezas
+| align="right" | 1231
+| align="right" | 135
+| align="right" | 0
+| align="right" | 135
+| align="right" | 1231
+| align="right" | 1231
+| align="right" | 100.0%
+|-
+| Salas Bajas
+| align="right" | 1342
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 1342
+| align="right" | 4207
+| align="right" | 31.9%
+|-
+| Torres de Barbués
+| align="right" | 2924
+| align="right" | 99
+| align="right" | 0
+| align="right" | 99
+| align="right" | 2924
+| align="right" | 3883
+| align="right" | 75.3%
+|-
+| Castejón de Monegros
+| align="right" | 2164
+| align="right" | 177
+| align="right" | 0
+| align="right" | 177
+| align="right" | 2164
+| align="right" | 5731
+| align="right" | 37.8%
+|-
+| Ródenas
+| align="right" | 1726
+| align="right" | 47
+| align="right" | 0
+| align="right" | 47
+| align="right" | 1726
+| align="right" | 2005
+| align="right" | 86.1%
+|-
+| Villanueva de Jiloca
+| align="right" | 276
+| align="right" | 52
+| align="right" | 0
+| align="right" | 52
+| align="right" | 276
+| align="right" | 1396
+| align="right" | 19.8%
+|-
+| Campillo de Aragón
+| align="right" | 1666
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 1666
+| align="right" | 1666
+| align="right" | 100.0%
+|-
+| Altorricón
+| align="right" | 1160
+| align="right" | 194
+| align="right" | 0
+| align="right" | 194
+| align="right" | 1160
+| align="right" | 9051
+| align="right" | 12.8%
+|-
+| Los Pintanos
+| align="right" | 2596
+| align="right" | 96
+| align="right" | 0
+| align="right" | 96
+| align="right" | 2596
+| align="right" | 2596
+| align="right" | 100.0%
+|-
+| Embid de Ariza
+| align="right" | 211
+| align="right" | 39
+| align="right" | 0
+| align="right" | 39
+| align="right" | 211
+| align="right" | 211
+| align="right" | 100.0%
+|-
+| Samper del Salz
+| align="right" | 1012
+| align="right" | 13
+| align="right" | 0
+| align="right" | 13
+| align="right" | 1012
+| align="right" | 1012
+| align="right" | 100.0%
+|-
+| Santa Eulalia
+| align="right" | 3430
+| align="right" | 586
+| align="right" | 0
+| align="right" | 586
+| align="right" | 3430
+| align="right" | 13721
+| align="right" | 25.0%
+|-
+| Aguilar del Alfambra
+| align="right" | 3178
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 3178
+| align="right" | 3178
+| align="right" | 100.0%
+|-
+| Torralba de los Frailes
+| align="right" | 2607
+| align="right" | 76
+| align="right" | 0
+| align="right" | 76
+| align="right" | 2607
+| align="right" | 2607
+| align="right" | 100.0%
+|-
+| Vera de Moncayo
+| align="right" | 2122
+| align="right" | 172
+| align="right" | 0
+| align="right" | 172
+| align="right" | 2122
+| align="right" | 2585
+| align="right" | 82.1%
+|-
+| Torrijo del Campo
+| align="right" | 5669
+| align="right" | 95
+| align="right" | 0
+| align="right" | 95
+| align="right" | 5669
+| align="right" | 5669
+| align="right" | 100.0%
+|-
+| Fuentes de Jiloca
+| align="right" | 3821
+| align="right" | 104
+| align="right" | 694
+| align="right" | 104
+| align="right" | 4515
+| align="right" | 4515
+| align="right" | 100.0%
+|-
+| Monreal del Campo
+| align="right" | 5530
+| align="right" | 410
+| align="right" | 151
+| align="right" | 410
+| align="right" | 5681
+| align="right" | 22831
+| align="right" | 24.9%
+|-
+| Quicena
+| align="right" | 0
+| align="right" | 1114
+| align="right" | 0
+| align="right" | 1114
+| align="right" | 0
+| align="right" | 1552
+| align="right" | 0.0%
+|-
+| Litago
+| align="right" | 3375
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 3375
+| align="right" | 3375
+| align="right" | 100.0%
+|-
+| Atea
+| align="right" | 3482
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 3482
+| align="right" | 3482
+| align="right" | 100.0%
+|-
+| Ricla
+| align="right" | 9624
+| align="right" | 687
+| align="right" | 932
+| align="right" | 687
+| align="right" | 10556
+| align="right" | 18113
+| align="right" | 58.3%
+|-
+| Alarba
+| align="right" | 1575
+| align="right" | 75
+| align="right" | 0
+| align="right" | 75
+| align="right" | 1575
+| align="right" | 1998
+| align="right" | 78.8%
+|-
+| Bonansa
+| align="right" | 277
+| align="right" | 145
+| align="right" | 0
+| align="right" | 145
+| align="right" | 277
+| align="right" | 963
+| align="right" | 28.8%
+|-
+| Valdealgorfa
+| align="right" | 4613
+| align="right" | 170
+| align="right" | 0
+| align="right" | 170
+| align="right" | 4613
+| align="right" | 4613
+| align="right" | 100.0%
+|-
+| Calatayud
+| align="right" | 17958
+| align="right" | 2109
+| align="right" | 3893
+| align="right" | 2109
+| align="right" | 21851
+| align="right" | 50852
+| align="right" | 43.0%
+|-
+| Valpalmas
+| align="right" | 42
+| align="right" | 88
+| align="right" | 0
+| align="right" | 88
+| align="right" | 42
+| align="right" | 1472
+| align="right" | 2.8%
+|-
+| Estada
+| align="right" | 340
+| align="right" | 187
+| align="right" | 0
+| align="right" | 187
+| align="right" | 340
+| align="right" | 1736
+| align="right" | 19.6%
+|-
+| La Cerollera
+| align="right" | 0
+| align="right" | 42
+| align="right" | 0
+| align="right" | 42
+| align="right" | 0
+| align="right" | 238
+| align="right" | 0.0%
+|-
+| Las Pedrosas
+| align="right" | 245
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 245
+| align="right" | 2406
+| align="right" | 10.2%
+|-
+| Monterde
+| align="right" | 3082
+| align="right" | 123
+| align="right" | 90
+| align="right" | 123
+| align="right" | 3173
+| align="right" | 3465
+| align="right" | 91.6%
+|-
+| La Codoñera
+| align="right" | 4119
+| align="right" | 66
+| align="right" | 0
+| align="right" | 66
+| align="right" | 4119
+| align="right" | 4119
+| align="right" | 100.0%
+|-
+| Tauste
+| align="right" | 19480
+| align="right" | 801
+| align="right" | 204
+| align="right" | 801
+| align="right" | 19684
+| align="right" | 40910
+| align="right" | 48.1%
+|-
+| Pradilla de Ebro
+| align="right" | 4913
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 4913
+| align="right" | 5339
+| align="right" | 92.0%
+|-
+| La Cañada de Verich
+| align="right" | 512
+| align="right" | 17
+| align="right" | 0
+| align="right" | 17
+| align="right" | 512
+| align="right" | 512
+| align="right" | 100.0%
+|-
+| Tronchón
+| align="right" | 303
+| align="right" | 86
+| align="right" | 1596
+| align="right" | 86
+| align="right" | 1900
+| align="right" | 1900
+| align="right" | 100.0%
+|-
+| Bierge
+| align="right" | 1135
+| align="right" | 1655
+| align="right" | 0
+| align="right" | 1655
+| align="right" | 1135
+| align="right" | 3677
+| align="right" | 30.9%
+|-
+| Calanda
+| align="right" | 3018
+| align="right" | 480
+| align="right" | 0
+| align="right" | 480
+| align="right" | 3018
+| align="right" | 26262
+| align="right" | 11.5%
+|-
+| Bulbuente
+| align="right" | 2178
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 2178
+| align="right" | 3587
+| align="right" | 60.7%
+|-
+| Mequinenza
+| align="right" | 7361
+| align="right" | 723
+| align="right" | 345
+| align="right" | 723
+| align="right" | 7706
+| align="right" | 16108
+| align="right" | 47.8%
+|-
+| Crivillén
+| align="right" | 274
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 274
+| align="right" | 274
+| align="right" | 100.0%
+|-
+| Fuentes Claras
+| align="right" | 683
+| align="right" | 107
+| align="right" | 0
+| align="right" | 107
+| align="right" | 683
+| align="right" | 5692
+| align="right" | 12.0%
+|-
+| Viacamp y Litera
+| align="right" | 156
+| align="right" | 244
+| align="right" | 143
+| align="right" | 244
+| align="right" | 299
+| align="right" | 299
+| align="right" | 100.0%
+|-
+| Val de San Martín
+| align="right" | 570
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 570
+| align="right" | 1301
+| align="right" | 43.8%
+|-
+| Nuévalos
+| align="right" | 673
+| align="right" | 433
+| align="right" | 544
+| align="right" | 433
+| align="right" | 1217
+| align="right" | 1217
+| align="right" | 100.0%
+|-
+| El Buste
+| align="right" | 1255
+| align="right" | 30
+| align="right" | 0
+| align="right" | 30
+| align="right" | 1255
+| align="right" | 1255
+| align="right" | 100.0%
+|-
+| Villanueva del Rebollar de la Sierra
+| align="right" | 1504
+| align="right" | 17
+| align="right" | 0
+| align="right" | 17
+| align="right" | 1504
+| align="right" | 1504
+| align="right" | 100.0%
+|-
+| Codo
+| align="right" | 1752
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 1752
+| align="right" | 2258
+| align="right" | 77.6%
+|-
+| Mora de Rubielos
+| align="right" | 4189
+| align="right" | 1470
+| align="right" | 0
+| align="right" | 1470
+| align="right" | 4189
+| align="right" | 9146
+| align="right" | 45.8%
+|-
+| Malón
+| align="right" | 3845
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 3845
+| align="right" | 3845
+| align="right" | 100.0%
+|-
+| Santa Cilia
+| align="right" | 291
+| align="right" | 210
+| align="right" | 0
+| align="right" | 210
+| align="right" | 291
+| align="right" | 3281
+| align="right" | 8.9%
+|-
+| Grisén
+| align="right" | 1702
+| align="right" | 134
+| align="right" | 0
+| align="right" | 134
+| align="right" | 1702
+| align="right" | 4210
+| align="right" | 40.4%
+|-
+| Mas de las Matas
+| align="right" | 4368
+| align="right" | 182
+| align="right" | 0
+| align="right" | 182
+| align="right" | 4368
+| align="right" | 10823
+| align="right" | 40.4%
+|-
+| Sádaba
+| align="right" | 5429
+| align="right" | 259
+| align="right" | 0
+| align="right" | 259
+| align="right" | 5429
+| align="right" | 11992
+| align="right" | 45.3%
+|-
+| Orés
+| align="right" | 819
+| align="right" | 24
+| align="right" | 0
+| align="right" | 24
+| align="right" | 819
+| align="right" | 1381
+| align="right" | 59.3%
+|-
+| Torres de Albarracín
+| align="right" | 2342
+| align="right" | 47
+| align="right" | 0
+| align="right" | 47
+| align="right" | 2342
+| align="right" | 2342
+| align="right" | 100.0%
+|-
+| Torre de Arcas / Torredarques
+| align="right" | 0
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 0
+| align="right" | 1299
+| align="right" | 0.0%
+|-
+| La Fresneda / La Freixneda
+| align="right" | 3484
+| align="right" | 121
+| align="right" | 0
+| align="right" | 121
+| align="right" | 3484
+| align="right" | 3984
+| align="right" | 87.5%
+|-
+| Montanuy
+| align="right" | 1624
+| align="right" | 782
+| align="right" | 0
+| align="right" | 782
+| align="right" | 1624
+| align="right" | 1866
+| align="right" | 87.1%
+|-
+| Layana
+| align="right" | 2626
+| align="right" | 27
+| align="right" | 0
+| align="right" | 27
+| align="right" | 2626
+| align="right" | 2626
+| align="right" | 100.0%
+|-
+| Peñarroya de Tastavíns / Pena-roja de Tastavins
+| align="right" | 313
+| align="right" | 124
+| align="right" | 74
+| align="right" | 124
+| align="right" | 387
+| align="right" | 2970
+| align="right" | 13.0%
+|-
+| Torres de Alcanadre
+| align="right" | 2514
+| align="right" | 36
+| align="right" | 0
+| align="right" | 36
+| align="right" | 2514
+| align="right" | 2775
+| align="right" | 90.6%
+|-
+| Castigaleu
+| align="right" | 296
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 296
+| align="right" | 645
+| align="right" | 46.0%
+|-
+| Salcedillo
+| align="right" | 1062
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 1062
+| align="right" | 1062
+| align="right" | 100.0%
+|-
+| Ariño
+| align="right" | 2839
+| align="right" | 259
+| align="right" | 105
+| align="right" | 259
+| align="right" | 2944
+| align="right" | 7071
+| align="right" | 41.6%
+|-
+| Berdejo
+| align="right" | 0
+| align="right" | 32
+| align="right" | 1392
+| align="right" | 32
+| align="right" | 1392
+| align="right" | 1392
+| align="right" | 100.0%
+|-
+| Isuerre
+| align="right" | 583
+| align="right" | 75
+| align="right" | 0
+| align="right" | 75
+| align="right" | 583
+| align="right" | 1308
+| align="right" | 44.6%
+|-
+| Peracense
+| align="right" | 840
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 840
+| align="right" | 1619
+| align="right" | 51.9%
+|-
+| Santa Eulalia de Gállego
+| align="right" | 89
+| align="right" | 63
+| align="right" | 81
+| align="right" | 63
+| align="right" | 170
+| align="right" | 1319
+| align="right" | 12.9%
+|-
+| Tormón
+| align="right" | 57
+| align="right" | 244
+| align="right" | 0
+| align="right" | 244
+| align="right" | 57
+| align="right" | 1188
+| align="right" | 4.8%
+|-
+| Velilla de Ebro
+| align="right" | 1433
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 1433
+| align="right" | 1850
+| align="right" | 77.5%
+|-
+| Erla
+| align="right" | 4008
+| align="right" | 66
+| align="right" | 0
+| align="right" | 66
+| align="right" | 4008
+| align="right" | 4008
+| align="right" | 100.0%
+|-
+| Jabaloyas
+| align="right" | 3234
+| align="right" | 61
+| align="right" | 0
+| align="right" | 61
+| align="right" | 3234
+| align="right" | 3760
+| align="right" | 86.0%
+|-
+| Alberite de San Juan
+| align="right" | 1039
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 1039
+| align="right" | 1039
+| align="right" | 100.0%
+|-
+| Santaliestra y San Quílez
+| align="right" | 1607
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 1607
+| align="right" | 2059
+| align="right" | 78.0%
+|-
+| Berge
+| align="right" | 3646
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 3646
+| align="right" | 3646
+| align="right" | 100.0%
+|-
+| Borja
+| align="right" | 10071
+| align="right" | 399
+| align="right" | 0
+| align="right" | 399
+| align="right" | 10071
+| align="right" | 22511
+| align="right" | 44.7%
+|-
+| Estadilla
+| align="right" | 694
+| align="right" | 674
+| align="right" | 15
+| align="right" | 674
+| align="right" | 709
+| align="right" | 8815
+| align="right" | 8.0%
+|-
+| Fuentes de Rubielos
+| align="right" | 2820
+| align="right" | 195
+| align="right" | 0
+| align="right" | 195
+| align="right" | 2820
+| align="right" | 4102
+| align="right" | 68.7%
+|-
+| Villarroya del Campo
+| align="right" | 1836
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 1836
+| align="right" | 1836
+| align="right" | 100.0%
+|-
+| Fuendetodos
+| align="right" | 101
+| align="right" | 116
+| align="right" | 1187
+| align="right" | 116
+| align="right" | 1288
+| align="right" | 3067
+| align="right" | 42.0%
+|-
+| Zuera
+| align="right" | 10777
+| align="right" | 1073
+| align="right" | 0
+| align="right" | 1073
+| align="right" | 10777
+| align="right" | 51350
+| align="right" | 21.0%
+|-
+| La Sotonera
+| align="right" | 5081
+| align="right" | 2402
+| align="right" | 0
+| align="right" | 2402
+| align="right" | 5081
+| align="right" | 11890
+| align="right" | 42.7%
+|-
+| Alcañiz
+| align="right" | 28025
+| align="right" | 1101
+| align="right" | 0
+| align="right" | 1101
+| align="right" | 28025
+| align="right" | 50512
+| align="right" | 55.5%
+|-
+| Nombrevilla
+| align="right" | 1225
+| align="right" | 162
+| align="right" | 0
+| align="right" | 162
+| align="right" | 1225
+| align="right" | 1225
+| align="right" | 100.0%
+|-
+| Cubel
+| align="right" | 3659
+| align="right" | 90
+| align="right" | 0
+| align="right" | 90
+| align="right" | 3659
+| align="right" | 3659
+| align="right" | 100.0%
+|-
+| Mezquita de Jarque
+| align="right" | 1539
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 1539
+| align="right" | 1539
+| align="right" | 100.0%
+|-
+| Undués de Lerda
+| align="right" | 1002
+| align="right" | 163
+| align="right" | 0
+| align="right" | 163
+| align="right" | 1002
+| align="right" | 1319
+| align="right" | 76.0%
+|-
+| Binaced
+| align="right" | 1360
+| align="right" | 168
+| align="right" | 434
+| align="right" | 168
+| align="right" | 1794
+| align="right" | 9760
+| align="right" | 18.4%
+|-
+| Utrillas
+| align="right" | 2968
+| align="right" | 281
+| align="right" | 724
+| align="right" | 281
+| align="right" | 3692
+| align="right" | 15792
+| align="right" | 23.4%
+|-
+| Torrijas
+| align="right" | 702
+| align="right" | 60
+| align="right" | 378
+| align="right" | 60
+| align="right" | 1080
+| align="right" | 2759
+| align="right" | 39.1%
+|-
+| Lanaja
+| align="right" | 7202
+| align="right" | 325
+| align="right" | 0
+| align="right" | 325
+| align="right" | 7202
+| align="right" | 14201
+| align="right" | 50.7%
+|-
+| Cosa
+| align="right" | 2157
+| align="right" | 39
+| align="right" | 0
+| align="right" | 39
+| align="right" | 2157
+| align="right" | 2157
+| align="right" | 100.0%
+|-
+| Orera
+| align="right" | 1250
+| align="right" | 77
+| align="right" | 0
+| align="right" | 77
+| align="right" | 1250
+| align="right" | 1250
+| align="right" | 100.0%
+|-
+| Albalate del Arzobispo
+| align="right" | 2798
+| align="right" | 3671
+| align="right" | 0
+| align="right" | 3671
+| align="right" | 2798
+| align="right" | 8137
+| align="right" | 34.4%
+|-
+| Anento
+| align="right" | 498
+| align="right" | 344
+| align="right" | 0
+| align="right" | 344
+| align="right" | 498
+| align="right" | 998
+| align="right" | 49.9%
+|-
+| Cubla
+| align="right" | 746
+| align="right" | 154
+| align="right" | 0
+| align="right" | 154
+| align="right" | 746
+| align="right" | 2827
+| align="right" | 26.4%
+|-
+| Terriente
+| align="right" | 3008
+| align="right" | 42
+| align="right" | 0
+| align="right" | 42
+| align="right" | 3008
+| align="right" | 3008
+| align="right" | 100.0%
+|-
+| Urriés
+| align="right" | 557
+| align="right" | 89
+| align="right" | 1186
+| align="right" | 89
+| align="right" | 1743
+| align="right" | 1821
+| align="right" | 95.7%
+|-
+| Arens de Lledó / Arenys de Lledó
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 1649
+| align="right" | 0.0%
+|-
+| Torrehermosa
+| align="right" | 2153
+| align="right" | 72
+| align="right" | 0
+| align="right" | 72
+| align="right" | 2153
+| align="right" | 2153
+| align="right" | 100.0%
+|-
+| Laperdiguera
+| align="right" | 438
+| align="right" | 33
+| align="right" | 0
+| align="right" | 33
+| align="right" | 438
+| align="right" | 2168
+| align="right" | 20.2%
+|-
+| Fuenferrada
+| align="right" | 349
+| align="right" | 74
+| align="right" | 0
+| align="right" | 74
+| align="right" | 349
+| align="right" | 1351
+| align="right" | 25.9%
+|-
+| Retascón
+| align="right" | 996
+| align="right" | 67
+| align="right" | 351
+| align="right" | 67
+| align="right" | 1348
+| align="right" | 1348
+| align="right" | 100.0%
+|-
+| Gargallo
+| align="right" | 3457
+| align="right" | 74
+| align="right" | 0
+| align="right" | 74
+| align="right" | 3457
+| align="right" | 3457
+| align="right" | 100.0%
+|-
+| Villanueva de Gállego
+| align="right" | 17625
+| align="right" | 1381
+| align="right" | 96
+| align="right" | 1381
+| align="right" | 17721
+| align="right" | 46356
+| align="right" | 38.2%
+|-
+| El Frasno
+| align="right" | 4667
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 4667
+| align="right" | 4667
+| align="right" | 100.0%
+|-
+| Teruel
+| align="right" | 57010
+| align="right" | 7396
+| align="right" | 3844
+| align="right" | 7396
+| align="right" | 60854
+| align="right" | 145687
+| align="right" | 41.8%
+|-
+| Magallón
+| align="right" | 11106
+| align="right" | 304
+| align="right" | 0
+| align="right" | 304
+| align="right" | 11106
+| align="right" | 11808
+| align="right" | 94.1%
+|-
+| Báguena
+| align="right" | 765
+| align="right" | 196
+| align="right" | 0
+| align="right" | 196
+| align="right" | 765
+| align="right" | 6392
+| align="right" | 12.0%
+|-
+| Sástago
+| align="right" | 2739
+| align="right" | 194
+| align="right" | 3846
+| align="right" | 194
+| align="right" | 6586
+| align="right" | 7601
+| align="right" | 86.6%
+|-
+| Pedrola
+| align="right" | 296
+| align="right" | 5602
+| align="right" | 79
+| align="right" | 5602
+| align="right" | 374
+| align="right" | 11726
+| align="right" | 3.2%
+|-
+| Beceite / Beseit
+| align="right" | 0
+| align="right" | 2041
+| align="right" | 53
+| align="right" | 2041
+| align="right" | 53
+| align="right" | 6394
+| align="right" | 0.8%
+|-
+| Oseja
+| align="right" | 1452
+| align="right" | 12
+| align="right" | 0
+| align="right" | 12
+| align="right" | 1452
+| align="right" | 1452
+| align="right" | 100.0%
+|-
+| Peraltilla
+| align="right" | 1961
+| align="right" | 74
+| align="right" | 0
+| align="right" | 74
+| align="right" | 1961
+| align="right" | 1961
+| align="right" | 100.0%
+|-
+| La Mata de los Olmos
+| align="right" | 761
+| align="right" | 93
+| align="right" | 0
+| align="right" | 93
+| align="right" | 761
+| align="right" | 2134
+| align="right" | 35.6%
+|-
+| Bárcabo
+| align="right" | 1177
+| align="right" | 207
+| align="right" | 0
+| align="right" | 207
+| align="right" | 1177
+| align="right" | 1177
+| align="right" | 100.0%
+|-
+| Pancrudo
+| align="right" | 4573
+| align="right" | 101
+| align="right" | 0
+| align="right" | 101
+| align="right" | 4573
+| align="right" | 4573
+| align="right" | 100.0%
+|-
+| Albelda
+| align="right" | 701
+| align="right" | 234
+| align="right" | 0
+| align="right" | 234
+| align="right" | 701
+| align="right" | 3309
+| align="right" | 21.2%
+|-
+| Alconchel de Ariza
+| align="right" | 2532
+| align="right" | 81
+| align="right" | 0
+| align="right" | 81
+| align="right" | 2532
+| align="right" | 2532
+| align="right" | 100.0%
+|-
+| Arcos de las Salinas
+| align="right" | 3433
+| align="right" | 125
+| align="right" | 0
+| align="right" | 125
+| align="right" | 3433
+| align="right" | 3433
+| align="right" | 100.0%
+|-
+| Zaidín
+| align="right" | 2999
+| align="right" | 231
+| align="right" | 0
+| align="right" | 231
+| align="right" | 2999
+| align="right" | 5951
+| align="right" | 50.4%
+|-
+| Ojos Negros
+| align="right" | 4439
+| align="right" | 199
+| align="right" | 0
+| align="right" | 199
+| align="right" | 4439
+| align="right" | 5679
+| align="right" | 78.2%
+|-
+| Lécera
+| align="right" | 1178
+| align="right" | 204
+| align="right" | 0
+| align="right" | 204
+| align="right" | 1178
+| align="right" | 8458
+| align="right" | 13.9%
+|-
+| Fiscal
+| align="right" | 4084
+| align="right" | 914
+| align="right" | 339
+| align="right" | 914
+| align="right" | 4423
+| align="right" | 7105
+| align="right" | 62.2%
+|-
+| Alcalá del Obispo
+| align="right" | 1409
+| align="right" | 725
+| align="right" | 0
+| align="right" | 725
+| align="right" | 1409
+| align="right" | 4719
+| align="right" | 29.8%
+|-
+| Abejuela
+| align="right" | 431
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 431
+| align="right" | 1324
+| align="right" | 32.5%
+|-
+| Mazaleón / Massalió
+| align="right" | 740
+| align="right" | 523
+| align="right" | 522
+| align="right" | 523
+| align="right" | 1262
+| align="right" | 6416
+| align="right" | 19.7%
+|-
+| Morata de Jiloca
+| align="right" | 498
+| align="right" | 75
+| align="right" | 0
+| align="right" | 75
+| align="right" | 498
+| align="right" | 2187
+| align="right" | 22.8%
+|-
+| La Joyosa
+| align="right" | 5602
+| align="right" | 111
+| align="right" | 0
+| align="right" | 111
+| align="right" | 5602
+| align="right" | 5840
+| align="right" | 95.9%
+|-
+| Sallent de Gállego
+| align="right" | 4044
+| align="right" | 3655
+| align="right" | 2876
+| align="right" | 3655
+| align="right" | 6919
+| align="right" | 23061
+| align="right" | 30.0%
+|-
+| Torrente de Cinca
+| align="right" | 1685
+| align="right" | 120
+| align="right" | 0
+| align="right" | 120
+| align="right" | 1685
+| align="right" | 4567
+| align="right" | 36.9%
+|-
+| Pozuelo de Aragón
+| align="right" | 3882
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 3882
+| align="right" | 3882
+| align="right" | 100.0%
+|-
+| Tosos
+| align="right" | 36
+| align="right" | 109
+| align="right" | 0
+| align="right" | 109
+| align="right" | 36
+| align="right" | 2034
+| align="right" | 1.8%
+|-
+| Alerre
+| align="right" | 0
+| align="right" | 587
+| align="right" | 0
+| align="right" | 587
+| align="right" | 0
+| align="right" | 2440
+| align="right" | 0.0%
+|-
+| Valfarta
+| align="right" | 1281
+| align="right" | 42
+| align="right" | 0
+| align="right" | 42
+| align="right" | 1281
+| align="right" | 1281
+| align="right" | 100.0%
+|-
+| Sesué
+| align="right" | 1111
+| align="right" | 107
+| align="right" | 667
+| align="right" | 107
+| align="right" | 1779
+| align="right" | 2481
+| align="right" | 71.7%
+|-
+| Fayón
+| align="right" | 6908
+| align="right" | 188
+| align="right" | 0
+| align="right" | 188
+| align="right" | 6908
+| align="right" | 6908
+| align="right" | 100.0%
+|-
+| Aniñón
+| align="right" | 2610
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 2610
+| align="right" | 2610
+| align="right" | 100.0%
+|-
+| Gelsa
+| align="right" | 5984
+| align="right" | 156
+| align="right" | 175
+| align="right" | 156
+| align="right" | 6159
+| align="right" | 7437
+| align="right" | 82.8%
+|-
+| Chiprana
+| align="right" | 3984
+| align="right" | 135
+| align="right" | 0
+| align="right" | 135
+| align="right" | 3984
+| align="right" | 6609
+| align="right" | 60.3%
+|-
+| Arándiga
+| align="right" | 2205
+| align="right" | 125
+| align="right" | 0
+| align="right" | 125
+| align="right" | 2205
+| align="right" | 2205
+| align="right" | 100.0%
+|-
+| Cortes de Aragón
+| align="right" | 2950
+| align="right" | 83
+| align="right" | 0
+| align="right" | 83
+| align="right" | 2950
+| align="right" | 2950
+| align="right" | 100.0%
+|-
+| Puente la Reina de Jaca
+| align="right" | 3183
+| align="right" | 176
+| align="right" | 0
+| align="right" | 176
+| align="right" | 3183
+| align="right" | 3183
+| align="right" | 100.0%
+|-
+| Barbués
+| align="right" | 0
+| align="right" | 254
+| align="right" | 0
+| align="right" | 254
+| align="right" | 0
+| align="right" | 1046
+| align="right" | 0.0%
+|-
+| El Frago
+| align="right" | 1615
+| align="right" | 17
+| align="right" | 0
+| align="right" | 17
+| align="right" | 1615
+| align="right" | 1615
+| align="right" | 100.0%
+|-
+| Biescas
+| align="right" | 5649
+| align="right" | 7341
+| align="right" | 3786
+| align="right" | 7341
+| align="right" | 9435
+| align="right" | 25608
+| align="right" | 36.8%
+|-
+| Sangarrén
+| align="right" | 27
+| align="right" | 539
+| align="right" | 0
+| align="right" | 539
+| align="right" | 27
+| align="right" | 2185
+| align="right" | 1.2%
+|-
+| Bello
+| align="right" | 4016
+| align="right" | 123
+| align="right" | 0
+| align="right" | 123
+| align="right" | 4016
+| align="right" | 5271
+| align="right" | 76.2%
+|-
+| Seno
+| align="right" | 1002
+| align="right" | 21
+| align="right" | 0
+| align="right" | 21
+| align="right" | 1002
+| align="right" | 1002
+| align="right" | 100.0%
+|-
+| Almunia de San Juan
+| align="right" | 988
+| align="right" | 106
+| align="right" | 638
+| align="right" | 106
+| align="right" | 1626
+| align="right" | 7244
+| align="right" | 22.4%
+|-
+| Veguillas de la Sierra
+| align="right" | 830
+| align="right" | 87
+| align="right" | 0
+| align="right" | 87
+| align="right" | 830
+| align="right" | 830
+| align="right" | 100.0%
+|-
+| Sena
+| align="right" | 1741
+| align="right" | 192
+| align="right" | 0
+| align="right" | 192
+| align="right" | 1741
+| align="right" | 7873
+| align="right" | 22.1%
+|-
+| Loarre
+| align="right" | 832
+| align="right" | 919
+| align="right" | 0
+| align="right" | 919
+| align="right" | 832
+| align="right" | 5489
+| align="right" | 15.2%
+|-
+| Lituénigo
+| align="right" | 1323
+| align="right" | 34
+| align="right" | 0
+| align="right" | 34
+| align="right" | 1323
+| align="right" | 1323
+| align="right" | 100.0%
+|-
+| Boltaña
+| align="right" | 2030
+| align="right" | 917
+| align="right" | 0
+| align="right" | 917
+| align="right" | 2030
+| align="right" | 7876
+| align="right" | 25.8%
+|-
+| Gallocanta
+| align="right" | 408
+| align="right" | 184
+| align="right" | 0
+| align="right" | 184
+| align="right" | 408
+| align="right" | 3086
+| align="right" | 13.2%
+|-
+| Bisimbre
+| align="right" | 976
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 976
+| align="right" | 976
+| align="right" | 100.0%
+|-
+| Castelnou
+| align="right" | 1926
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 1926
+| align="right" | 1926
+| align="right" | 100.0%
+|-
+| Épila
+| align="right" | 23003
+| align="right" | 533
+| align="right" | 0
+| align="right" | 533
+| align="right" | 23003
+| align="right" | 34698
+| align="right" | 66.3%
+|-
+| Pertusa
+| align="right" | 1441
+| align="right" | 291
+| align="right" | 0
+| align="right" | 291
+| align="right" | 1441
+| align="right" | 2104
+| align="right" | 68.5%
+|-
+| Rueda de Jalón
+| align="right" | 1495
+| align="right" | 130
+| align="right" | 0
+| align="right" | 130
+| align="right" | 1495
+| align="right" | 1495
+| align="right" | 100.0%
+|-
+| Puebla de Albortón
+| align="right" | 1019
+| align="right" | 80
+| align="right" | 0
+| align="right" | 80
+| align="right" | 1019
+| align="right" | 3700
+| align="right" | 27.5%
+|-
+| Vicién
+| align="right" | 382
+| align="right" | 205
+| align="right" | 0
+| align="right" | 205
+| align="right" | 382
+| align="right" | 1416
+| align="right" | 27.0%
+|-
+| Aragüés del Puerto
+| align="right" | 1039
+| align="right" | 123
+| align="right" | 0
+| align="right" | 123
+| align="right" | 1039
+| align="right" | 1878
+| align="right" | 55.3%
+|-
+| Almonacid de la Cuba
+| align="right" | 480
+| align="right" | 134
+| align="right" | 0
+| align="right" | 134
+| align="right" | 480
+| align="right" | 4813
+| align="right" | 10.0%
+|-
+| Las Peñas de Riglos
+| align="right" | 1168
+| align="right" | 954
+| align="right" | 119
+| align="right" | 954
+| align="right" | 1286
+| align="right" | 5828
+| align="right" | 22.1%
+|-
+| Gallur
+| align="right" | 3394
+| align="right" | 578
+| align="right" | 3979
+| align="right" | 578
+| align="right" | 7373
+| align="right" | 20657
+| align="right" | 35.7%
+|-
+| Godojos
+| align="right" | 1670
+| align="right" | 335
+| align="right" | 0
+| align="right" | 335
+| align="right" | 1670
+| align="right" | 2648
+| align="right" | 63.1%
+|-
+| Torrelapaja
+| align="right" | 558
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 558
+| align="right" | 558
+| align="right" | 100.0%
+|-
+| Miravete de la Sierra
+| align="right" | 369
+| align="right" | 61
+| align="right" | 0
+| align="right" | 61
+| align="right" | 369
+| align="right" | 1480
+| align="right" | 25.0%
+|-
+| Tierz
+| align="right" | 0
+| align="right" | 1624
+| align="right" | 0
+| align="right" | 1624
+| align="right" | 0
+| align="right" | 2438
+| align="right" | 0.0%
+|-
+| Miedes de Aragón
+| align="right" | 5468
+| align="right" | 80
+| align="right" | 0
+| align="right" | 80
+| align="right" | 5468
+| align="right" | 5468
+| align="right" | 100.0%
+|-
+| Campo
+| align="right" | 1161
+| align="right" | 146
+| align="right" | 0
+| align="right" | 146
+| align="right" | 1161
+| align="right" | 3987
+| align="right" | 29.1%
+|-
+| Sierra de Luna
+| align="right" | 338
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 338
+| align="right" | 780
+| align="right" | 43.4%
+|-
+| Fórnoles / Fórnols
+| align="right" | 1128
+| align="right" | 194
+| align="right" | 19
+| align="right" | 194
+| align="right" | 1147
+| align="right" | 1752
+| align="right" | 65.5%
+|-
+| Fombuena
+| align="right" | 2200
+| align="right" | 32
+| align="right" | 0
+| align="right" | 32
+| align="right" | 2200
+| align="right" | 2200
+| align="right" | 100.0%
+|-
+| Capella
+| align="right" | 2238
+| align="right" | 230
+| align="right" | 0
+| align="right" | 230
+| align="right" | 2238
+| align="right" | 3856
+| align="right" | 58.1%
+|-
+| Santa Cruz de Nogueras
+| align="right" | 775
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 775
+| align="right" | 2137
+| align="right" | 36.3%
+|-
+| Valle de Hecho
+| align="right" | 3665
+| align="right" | 643
+| align="right" | 0
+| align="right" | 643
+| align="right" | 3665
+| align="right" | 5759
+| align="right" | 63.6%
+|-
+| Valbona
+| align="right" | 5242
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 5242
+| align="right" | 5442
+| align="right" | 96.3%
+|-
+| Robres
+| align="right" | 2331
+| align="right" | 407
+| align="right" | 0
+| align="right" | 407
+| align="right" | 2331
+| align="right" | 7325
+| align="right" | 31.8%
+|-
+| Fréscano
+| align="right" | 1034
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 1034
+| align="right" | 2738
+| align="right" | 37.8%
+|-
+| Castel de Cabra
+| align="right" | 2754
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 2754
+| align="right" | 2754
+| align="right" | 100.0%
+|-
+| San Juan de Plan
+| align="right" | 400
+| align="right" | 262
+| align="right" | 0
+| align="right" | 262
+| align="right" | 400
+| align="right" | 953
+| align="right" | 42.0%
+|-
+| Plasencia de Jalón
+| align="right" | 1256
+| align="right" | 153
+| align="right" | 0
+| align="right" | 153
+| align="right" | 1256
+| align="right" | 2276
+| align="right" | 55.2%
+|-
+| Cuarte de Huerva
+| align="right" | 5841
+| align="right" | 547
+| align="right" | 0
+| align="right" | 547
+| align="right" | 5841
+| align="right" | 54657
+| align="right" | 10.7%
+|-
+| Maleján
+| align="right" | 548
+| align="right" | 6
+| align="right" | 0
+| align="right" | 6
+| align="right" | 548
+| align="right" | 548
+| align="right" | 100.0%
+|-
+| Vinaceite
+| align="right" | 1381
+| align="right" | 332
+| align="right" | 0
+| align="right" | 332
+| align="right" | 1381
+| align="right" | 2321
+| align="right" | 59.5%
+|-
+| Riodeva
+| align="right" | 998
+| align="right" | 38
+| align="right" | 977
+| align="right" | 38
+| align="right" | 1975
+| align="right" | 2735
+| align="right" | 72.2%
+|-
+| Griegos
+| align="right" | 692
+| align="right" | 81
+| align="right" | 0
+| align="right" | 81
+| align="right" | 692
+| align="right" | 3133
+| align="right" | 22.1%
+|-
+| Aguilón
+| align="right" | 2768
+| align="right" | 86
+| align="right" | 0
+| align="right" | 86
+| align="right" | 2768
+| align="right" | 2768
+| align="right" | 100.0%
+|-
+| Pomer
+| align="right" | 292
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 292
+| align="right" | 2213
+| align="right" | 13.2%
+|-
+| Corbalán
+| align="right" | 1085
+| align="right" | 188
+| align="right" | 0
+| align="right" | 188
+| align="right" | 1085
+| align="right" | 3732
+| align="right" | 29.1%
+|-
+| Formiche Alto
+| align="right" | 443
+| align="right" | 434
+| align="right" | 0
+| align="right" | 434
+| align="right" | 443
+| align="right" | 443
+| align="right" | 100.0%
+|-
+| Castejón de las Armas
+| align="right" | 1928
+| align="right" | 88
+| align="right" | 0
+| align="right" | 88
+| align="right" | 1928
+| align="right" | 1928
+| align="right" | 100.0%
+|-
+| Perales del Alfambra
+| align="right" | 1770
+| align="right" | 198
+| align="right" | 0
+| align="right" | 198
+| align="right" | 1770
+| align="right" | 4334
+| align="right" | 40.8%
+|-
+| Novillas
+| align="right" | 3888
+| align="right" | 103
+| align="right" | 0
+| align="right" | 103
+| align="right" | 3888
+| align="right" | 3888
+| align="right" | 100.0%
+|-
+| Purujosa
+| align="right" | 58
+| align="right" | 59
+| align="right" | 0
+| align="right" | 59
+| align="right" | 58
+| align="right" | 958
+| align="right" | 6.1%
+|-
+| Molinos
+| align="right" | 4114
+| align="right" | 124
+| align="right" | 0
+| align="right" | 124
+| align="right" | 4114
+| align="right" | 4114
+| align="right" | 100.0%
+|-
+| Labuerda
+| align="right" | 1262
+| align="right" | 157
+| align="right" | 0
+| align="right" | 157
+| align="right" | 1262
+| align="right" | 1262
+| align="right" | 100.0%
+|-
+| Nogueras
+| align="right" | 1293
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 1293
+| align="right" | 1293
+| align="right" | 100.0%
+|-
+| Andorra
+| align="right" | 2457
+| align="right" | 845
+| align="right" | 0
+| align="right" | 845
+| align="right" | 2457
+| align="right" | 45517
+| align="right" | 5.4%
+|-
+| Beranuy
+| align="right" | 526
+| align="right" | 184
+| align="right" | 0
+| align="right" | 184
+| align="right" | 526
+| align="right" | 526
+| align="right" | 100.0%
+|-
+| Azlor
+| align="right" | 1516
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 1516
+| align="right" | 1516
+| align="right" | 100.0%
+|-
+| Pleitas
+| align="right" | 2469
+| align="right" | 15
+| align="right" | 0
+| align="right" | 15
+| align="right" | 2469
+| align="right" | 2469
+| align="right" | 100.0%
+|-
+| Biscarrués
+| align="right" | 0
+| align="right" | 426
+| align="right" | 0
+| align="right" | 426
+| align="right" | 0
+| align="right" | 2527
+| align="right" | 0.0%
+|-
+| Borau
+| align="right" | 272
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 272
+| align="right" | 944
+| align="right" | 28.8%
+|-
+| Balconchán
+| align="right" | 283
+| align="right" | 6
+| align="right" | 0
+| align="right" | 6
+| align="right" | 283
+| align="right" | 283
+| align="right" | 100.0%
+|-
+| Gea de Albarracín
+| align="right" | 1754
+| align="right" | 252
+| align="right" | 311
+| align="right" | 252
+| align="right" | 2065
+| align="right" | 2065
+| align="right" | 100.0%
+|-
+| El Vallecillo
+| align="right" | 0
+| align="right" | 30
+| align="right" | 0
+| align="right" | 30
+| align="right" | 0
+| align="right" | 1413
+| align="right" | 0.0%
+|-
+| Alobras
+| align="right" | 1312
+| align="right" | 56
+| align="right" | 0
+| align="right" | 56
+| align="right" | 1312
+| align="right" | 1312
+| align="right" | 100.0%
+|-
+| San Mateo de Gállego
+| align="right" | 9296
+| align="right" | 329
+| align="right" | 10466
+| align="right" | 329
+| align="right" | 19761
+| align="right" | 43457
+| align="right" | 45.5%
+|-
+| Aliaga
+| align="right" | 1414
+| align="right" | 740
+| align="right" | 0
+| align="right" | 740
+| align="right" | 1414
+| align="right" | 7055
+| align="right" | 20.0%
+|-
+| Laspuña
+| align="right" | 902
+| align="right" | 431
+| align="right" | 0
+| align="right" | 431
+| align="right" | 902
+| align="right" | 1143
+| align="right" | 78.9%
+|-
+| Aguarón
+| align="right" | 4643
+| align="right" | 108
+| align="right" | 350
+| align="right" | 108
+| align="right" | 4992
+| align="right" | 4992
+| align="right" | 100.0%
+|-
+| Brea de Aragón
+| align="right" | 4434
+| align="right" | 38
+| align="right" | 0
+| align="right" | 38
+| align="right" | 4434
+| align="right" | 4434
+| align="right" | 100.0%
+|-
+| Yésero
+| align="right" | 70
+| align="right" | 421
+| align="right" | 0
+| align="right" | 421
+| align="right" | 70
+| align="right" | 1046
+| align="right" | 6.7%
+|-
+| Huerto
+| align="right" | 554
+| align="right" | 110
+| align="right" | 0
+| align="right" | 110
+| align="right" | 554
+| align="right" | 554
+| align="right" | 100.0%
+|-
+| Tabuenca
+| align="right" | 207
+| align="right" | 126
+| align="right" | 0
+| align="right" | 126
+| align="right" | 207
+| align="right" | 3796
+| align="right" | 5.4%
+|-
+| Plan
+| align="right" | 924
+| align="right" | 338
+| align="right" | 0
+| align="right" | 338
+| align="right" | 924
+| align="right" | 3596
+| align="right" | 25.7%
+|-
+| La Puebla de Híjar
+| align="right" | 2906
+| align="right" | 138
+| align="right" | 2966
+| align="right" | 138
+| align="right" | 5872
+| align="right" | 6194
+| align="right" | 94.8%
+|-
+| Osera de Ebro
+| align="right" | 3891
+| align="right" | 72
+| align="right" | 0
+| align="right" | 72
+| align="right" | 3891
+| align="right" | 4006
+| align="right" | 97.1%
+|-
+| Salvatierra de Esca
+| align="right" | 231
+| align="right" | 126
+| align="right" | 3262
+| align="right" | 126
+| align="right" | 3494
+| align="right" | 3494
+| align="right" | 100.0%
+|-
+| Siétamo
+| align="right" | 1848
+| align="right" | 544
+| align="right" | 0
+| align="right" | 544
+| align="right" | 1848
+| align="right" | 6806
+| align="right" | 27.2%
+|-
+| Torrijo de la Cañada
+| align="right" | 1508
+| align="right" | 72
+| align="right" | 336
+| align="right" | 72
+| align="right" | 1844
+| align="right" | 1844
+| align="right" | 100.0%
+|-
+| Fuentespalda / Fontdespatla
+| align="right" | 559
+| align="right" | 151
+| align="right" | 0
+| align="right" | 151
+| align="right" | 559
+| align="right" | 4663
+| align="right" | 12.0%
+|-
+| Villarroya de la Sierra
+| align="right" | 2047
+| align="right" | 95
+| align="right" | 1015
+| align="right" | 95
+| align="right" | 3062
+| align="right" | 3062
+| align="right" | 100.0%
+|-
+| Abizanda
+| align="right" | 1184
+| align="right" | 242
+| align="right" | 0
+| align="right" | 242
+| align="right" | 1184
+| align="right" | 1966
+| align="right" | 60.2%
+|-
+| Pozuel del Campo
+| align="right" | 2376
+| align="right" | 119
+| align="right" | 0
+| align="right" | 119
+| align="right" | 2376
+| align="right" | 2601
+| align="right" | 91.4%
+|-
+| Gúdar
+| align="right" | 690
+| align="right" | 333
+| align="right" | 0
+| align="right" | 333
+| align="right" | 690
+| align="right" | 2787
+| align="right" | 24.8%
+|-
+| La Iglesuela del Cid
+| align="right" | 1288
+| align="right" | 99
+| align="right" | 0
+| align="right" | 99
+| align="right" | 1288
+| align="right" | 6265
+| align="right" | 20.6%
+|-
+| Lagata
+| align="right" | 264
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 264
+| align="right" | 1714
+| align="right" | 15.4%
+|-
+| Lanzuela
+| align="right" | 924
+| align="right" | 9
+| align="right" | 0
+| align="right" | 9
+| align="right" | 924
+| align="right" | 924
+| align="right" | 100.0%
+|-
+| Tierga
+| align="right" | 504
+| align="right" | 103
+| align="right" | 0
+| align="right" | 103
+| align="right" | 504
+| align="right" | 2145
+| align="right" | 23.5%
+|-
+| La Ginebrosa
+| align="right" | 1204
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 1204
+| align="right" | 2952
+| align="right" | 40.8%
+|-
+| Castiello de Jaca
+| align="right" | 1449
+| align="right" | 242
+| align="right" | 34
+| align="right" | 242
+| align="right" | 1483
+| align="right" | 5271
+| align="right" | 28.1%
+|-
+| Loporzano
+| align="right" | 1871
+| align="right" | 4040
+| align="right" | 0
+| align="right" | 4040
+| align="right" | 1871
+| align="right" | 7849
+| align="right" | 23.8%
+|-
+| Valacloche
+| align="right" | 585
+| align="right" | 7
+| align="right" | 0
+| align="right" | 7
+| align="right" | 585
+| align="right" | 585
+| align="right" | 100.0%
+|-
+| Tobed
+| align="right" | 1147
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 1147
+| align="right" | 1147
+| align="right" | 100.0%
+|-
+| Tarazona
+| align="right" | 23149
+| align="right" | 721
+| align="right" | 22
+| align="right" | 721
+| align="right" | 23172
+| align="right" | 36467
+| align="right" | 63.5%
+|-
+| Escatrón
+| align="right" | 12854
+| align="right" | 166
+| align="right" | 113
+| align="right" | 166
+| align="right" | 12966
+| align="right" | 13726
+| align="right" | 94.5%
+|-
+| Vivel del Río Martín
+| align="right" | 2574
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 2574
+| align="right" | 2574
+| align="right" | 100.0%
+|-
+| Fortanete
+| align="right" | 3175
+| align="right" | 111
+| align="right" | 0
+| align="right" | 111
+| align="right" | 3175
+| align="right" | 3175
+| align="right" | 100.0%
+|-
+| Rubielos de la Cérida
+| align="right" | 2903
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 2903
+| align="right" | 2903
+| align="right" | 100.0%
+|-
+| Daroca
+| align="right" | 4043
+| align="right" | 551
+| align="right" | 556
+| align="right" | 551
+| align="right" | 4600
+| align="right" | 14834
+| align="right" | 31.0%
+|-
+| Castelflorite
+| align="right" | 426
+| align="right" | 56
+| align="right" | 0
+| align="right" | 56
+| align="right" | 426
+| align="right" | 1564
+| align="right" | 27.2%
+|-
+| Moros
+| align="right" | 4786
+| align="right" | 91
+| align="right" | 0
+| align="right" | 91
+| align="right" | 4786
+| align="right" | 4786
+| align="right" | 100.0%
+|-
+| Abanto
+| align="right" | 2209
+| align="right" | 72
+| align="right" | 0
+| align="right" | 72
+| align="right" | 2209
+| align="right" | 2209
+| align="right" | 100.0%
+|-
+| Barrachina
+| align="right" | 511
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 511
+| align="right" | 1535
+| align="right" | 33.3%
+|-
+| Pinseque
+| align="right" | 7168
+| align="right" | 462
+| align="right" | 0
+| align="right" | 462
+| align="right" | 7168
+| align="right" | 22225
+| align="right" | 32.3%
+|-
+| Burbáguena
+| align="right" | 3056
+| align="right" | 148
+| align="right" | 0
+| align="right" | 148
+| align="right" | 3056
+| align="right" | 4025
+| align="right" | 75.9%
+|-
+| Aínsa-Sobrarbe
+| align="right" | 5396
+| align="right" | 2271
+| align="right" | 207
+| align="right" | 2271
+| align="right" | 5603
+| align="right" | 12988
+| align="right" | 43.1%
+|-
+| Lobera de Onsella
+| align="right" | 689
+| align="right" | 19
+| align="right" | 0
+| align="right" | 19
+| align="right" | 689
+| align="right" | 689
+| align="right" | 100.0%
+|-
+| Ansó
+| align="right" | 507
+| align="right" | 559
+| align="right" | 0
+| align="right" | 559
+| align="right" | 507
+| align="right" | 2685
+| align="right" | 18.9%
+|-
+| La Puebla de Castro
+| align="right" | 1136
+| align="right" | 157
+| align="right" | 216
+| align="right" | 157
+| align="right" | 1352
+| align="right" | 3768
+| align="right" | 35.9%
+|-
+| Alcampell
+| align="right" | 315
+| align="right" | 135
+| align="right" | 0
+| align="right" | 135
+| align="right" | 315
+| align="right" | 5982
+| align="right" | 5.3%
+|-
+| Secastilla
+| align="right" | 1745
+| align="right" | 109
+| align="right" | 749
+| align="right" | 109
+| align="right" | 2494
+| align="right" | 2494
+| align="right" | 100.0%
+|-
+| Alpartir
+| align="right" | 2930
+| align="right" | 130
+| align="right" | 0
+| align="right" | 130
+| align="right" | 2930
+| align="right" | 3724
+| align="right" | 78.7%
+|-
+| Tramacastilla
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 279
+| align="right" | 0.0%
+|-
+| Cascante del Río
+| align="right" | 1268
+| align="right" | 14
+| align="right" | 0
+| align="right" | 14
+| align="right" | 1268
+| align="right" | 1268
+| align="right" | 100.0%
+|-
+| Cuevas de Almudén
+| align="right" | 1829
+| align="right" | 34
+| align="right" | 0
+| align="right" | 34
+| align="right" | 1829
+| align="right" | 1829
+| align="right" | 100.0%
+|-
+| Angüés
+| align="right" | 1797
+| align="right" | 727
+| align="right" | 0
+| align="right" | 727
+| align="right" | 1797
+| align="right" | 5179
+| align="right" | 34.7%
+|-
+| Lidón
+| align="right" | 2286
+| align="right" | 33
+| align="right" | 0
+| align="right" | 33
+| align="right" | 2286
+| align="right" | 2286
+| align="right" | 100.0%
+|-
+| Azanuy-Alins
+| align="right" | 1910
+| align="right" | 118
+| align="right" | 0
+| align="right" | 118
+| align="right" | 1910
+| align="right" | 3164
+| align="right" | 60.4%
+|-
+| Cañizar del Olivar
+| align="right" | 1673
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 1673
+| align="right" | 2026
+| align="right" | 82.6%
+|-
+| Jasa
+| align="right" | 225
+| align="right" | 78
+| align="right" | 0
+| align="right" | 78
+| align="right" | 225
+| align="right" | 2259
+| align="right" | 10.0%
+|-
+| Bagüés
+| align="right" | 730
+| align="right" | 18
+| align="right" | 0
+| align="right" | 18
+| align="right" | 730
+| align="right" | 730
+| align="right" | 100.0%
+|-
+| Caspe
+| align="right" | 11601
+| align="right" | 815
+| align="right" | 0
+| align="right" | 815
+| align="right" | 11601
+| align="right" | 39951
+| align="right" | 29.0%
+|-
+| Alforque
+| align="right" | 685
+| align="right" | 7
+| align="right" | 0
+| align="right" | 7
+| align="right" | 685
+| align="right" | 685
+| align="right" | 100.0%
+|-
+| Ariza
+| align="right" | 8496
+| align="right" | 405
+| align="right" | 0
+| align="right" | 405
+| align="right" | 8496
+| align="right" | 14192
+| align="right" | 59.9%
+|-
+| Villarroya de los Pinares
+| align="right" | 1045
+| align="right" | 81
+| align="right" | 526
+| align="right" | 81
+| align="right" | 1571
+| align="right" | 2154
+| align="right" | 73.0%
+|-
+| Bubierca
+| align="right" | 1408
+| align="right" | 128
+| align="right" | 235
+| align="right" | 128
+| align="right" | 1642
+| align="right" | 1642
+| align="right" | 100.0%
+|-
+| Baldellou
+| align="right" | 179
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 179
+| align="right" | 603
+| align="right" | 29.7%
+|-
+| Ardisa
+| align="right" | 0
+| align="right" | 149
+| align="right" | 0
+| align="right" | 149
+| align="right" | 0
+| align="right" | 414
+| align="right" | 0.0%
+|-
+| Alfajarín
+| align="right" | 10115
+| align="right" | 430
+| align="right" | 1639
+| align="right" | 430
+| align="right" | 11753
+| align="right" | 21038
+| align="right" | 55.9%
+|-
+| Villahermosa del Campo
+| align="right" | 2772
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 2772
+| align="right" | 2772
+| align="right" | 100.0%
+|-
+| Añón de Moncayo
+| align="right" | 3341
+| align="right" | 85
+| align="right" | 0
+| align="right" | 85
+| align="right" | 3341
+| align="right" | 3341
+| align="right" | 100.0%
+|-
+| Galve
+| align="right" | 834
+| align="right" | 128
+| align="right" | 0
+| align="right" | 128
+| align="right" | 834
+| align="right" | 2859
+| align="right" | 29.2%
+|-
+| Torre del Compte / La Torre del Comte
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 3068
+| align="right" | 0.0%
+|-
+| El Pobo
+| align="right" | 3213
+| align="right" | 78
+| align="right" | 0
+| align="right" | 78
+| align="right" | 3213
+| align="right" | 3213
+| align="right" | 100.0%
+|-
+| Puertomingalvo
+| align="right" | 1592
+| align="right" | 155
+| align="right" | 0
+| align="right" | 155
+| align="right" | 1592
+| align="right" | 2989
+| align="right" | 53.3%
+|-
+| Figueruelas
+| align="right" | 158
+| align="right" | 528
+| align="right" | 0
+| align="right" | 528
+| align="right" | 158
+| align="right" | 7722
+| align="right" | 2.0%
+|-
+| Nueno
+| align="right" | 1237
+| align="right" | 5158
+| align="right" | 0
+| align="right" | 5158
+| align="right" | 1237
+| align="right" | 7908
+| align="right" | 15.6%
+|-
+| Cervera de la Cañada
+| align="right" | 2331
+| align="right" | 51
+| align="right" | 0
+| align="right" | 51
+| align="right" | 2331
+| align="right" | 2331
+| align="right" | 100.0%
+|-
+| Contamina
+| align="right" | 0
+| align="right" | 52
+| align="right" | 0
+| align="right" | 52
+| align="right" | 0
+| align="right" | 979
+| align="right" | 0.0%
+|-
+| Terrer
+| align="right" | 853
+| align="right" | 186
+| align="right" | 146
+| align="right" | 186
+| align="right" | 999
+| align="right" | 4332
+| align="right" | 23.1%
+|-
+| Casbas de Huesca
+| align="right" | 2719
+| align="right" | 1889
+| align="right" | 0
+| align="right" | 1889
+| align="right" | 2719
+| align="right" | 5898
+| align="right" | 46.1%
+|-
+| Carenas
+| align="right" | 2961
+| align="right" | 89
+| align="right" | 0
+| align="right" | 89
+| align="right" | 2961
+| align="right" | 3130
+| align="right" | 94.6%
+|-
+| Chimillas
+| align="right" | 0
+| align="right" | 630
+| align="right" | 0
+| align="right" | 630
+| align="right" | 0
+| align="right" | 2621
+| align="right" | 0.0%
+|-
+| La Puebla de Alfindén
+| align="right" | 1933
+| align="right" | 414
+| align="right" | 837
+| align="right" | 414
+| align="right" | 2770
+| align="right" | 40476
+| align="right" | 6.8%
+|-
+| Ferreruela de Huerva
+| align="right" | 1565
+| align="right" | 79
+| align="right" | 0
+| align="right" | 79
+| align="right" | 1565
+| align="right" | 1863
+| align="right" | 84.0%
+|-
+| Cuevas Labradas
+| align="right" | 96
+| align="right" | 129
+| align="right" | 0
+| align="right" | 129
+| align="right" | 96
+| align="right" | 1727
+| align="right" | 5.5%
+|-
+| Villamayor de Gállego
+| align="right" | 3358
+| align="right" | 465
+| align="right" | 121
+| align="right" | 465
+| align="right" | 3479
+| align="right" | 17205
+| align="right" | 20.2%
+|-
+| Binéfar
+| align="right" | 6270
+| align="right" | 644
+| align="right" | 780
+| align="right" | 644
+| align="right" | 7049
+| align="right" | 28791
+| align="right" | 24.5%
+|-
+| Villafranca del Campo
+| align="right" | 1730
+| align="right" | 396
+| align="right" | 71
+| align="right" | 396
+| align="right" | 1801
+| align="right" | 4328
+| align="right" | 41.6%
+|-
+| Biel
+| align="right" | 2132
+| align="right" | 179
+| align="right" | 0
+| align="right" | 179
+| align="right" | 2132
+| align="right" | 4880
+| align="right" | 43.7%
+|-
+| Castellote
+| align="right" | 8530
+| align="right" | 377
+| align="right" | 0
+| align="right" | 377
+| align="right" | 8530
+| align="right" | 12333
+| align="right" | 69.2%
+|-
+| Hoz y Costeán
+| align="right" | 272
+| align="right" | 50
+| align="right" | 438
+| align="right" | 50
+| align="right" | 710
+| align="right" | 1768
+| align="right" | 40.2%
+|-
+| Blecua y Torres
+| align="right" | 1533
+| align="right" | 330
+| align="right" | 0
+| align="right" | 330
+| align="right" | 1533
+| align="right" | 3228
+| align="right" | 47.5%
+|-
+| Torre los Negros
+| align="right" | 1176
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 1176
+| align="right" | 1176
+| align="right" | 100.0%
+|-
+| Zaragoza
+| align="right" | 144784
+| align="right" | 39216
+| align="right" | 22664
+| align="right" | 39216
+| align="right" | 167448
+| align="right" | 937525
+| align="right" | 17.9%
+|-
+| Castejón de Sos
+| align="right" | 3199
+| align="right" | 440
+| align="right" | 0
+| align="right" | 440
+| align="right" | 3199
+| align="right" | 5245
+| align="right" | 61.0%
+|-
+| La Zaida
+| align="right" | 5524
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 5524
+| align="right" | 5524
+| align="right" | 100.0%
+|-
+| Salas Altas
+| align="right" | 715
+| align="right" | 49
+| align="right" | 0
+| align="right" | 49
+| align="right" | 715
+| align="right" | 4616
+| align="right" | 15.5%
+|-
+| Fanlo
+| align="right" | 978
+| align="right" | 551
+| align="right" | 0
+| align="right" | 551
+| align="right" | 978
+| align="right" | 1682
+| align="right" | 58.1%
+|-
+| Malanquilla
+| align="right" | 1896
+| align="right" | 40
+| align="right" | 0
+| align="right" | 40
+| align="right" | 1896
+| align="right" | 1896
+| align="right" | 100.0%
+|-
+| Ruesca
+| align="right" | 394
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 394
+| align="right" | 1268
+| align="right" | 31.1%
+|-
+| Sariñena
+| align="right" | 13886
+| align="right" | 876
+| align="right" | 0
+| align="right" | 876
+| align="right" | 13886
+| align="right" | 31610
+| align="right" | 43.9%
+|-
+| Monesma y Cajigar
+| align="right" | 166
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 166
+| align="right" | 561
+| align="right" | 29.6%
+|-
+| Foradada del Toscar
+| align="right" | 1018
+| align="right" | 280
+| align="right" | 0
+| align="right" | 280
+| align="right" | 1018
+| align="right" | 1018
+| align="right" | 100.0%
+|-
+| Murillo de Gállego
+| align="right" | 2036
+| align="right" | 278
+| align="right" | 0
+| align="right" | 278
+| align="right" | 2036
+| align="right" | 4536
+| align="right" | 44.9%
+|-
+| Libros
+| align="right" | 330
+| align="right" | 39
+| align="right" | 0
+| align="right" | 39
+| align="right" | 330
+| align="right" | 1238
+| align="right" | 26.6%
+|-
+| La Portellada
+| align="right" | 391
+| align="right" | 329
+| align="right" | 102
+| align="right" | 329
+| align="right" | 493
+| align="right" | 2434
+| align="right" | 20.2%
+|-
+| Valderrobres / Vall de Roures
+| align="right" | 3839
+| align="right" | 459
+| align="right" | 240
+| align="right" | 459
+| align="right" | 4079
+| align="right" | 11791
+| align="right" | 34.6%
+|-
+| Villel
+| align="right" | 1273
+| align="right" | 68
+| align="right" | 0
+| align="right" | 68
+| align="right" | 1273
+| align="right" | 1981
+| align="right" | 64.3%
+|-
+| Trasobares
+| align="right" | 2482
+| align="right" | 101
+| align="right" | 0
+| align="right" | 101
+| align="right" | 2482
+| align="right" | 3432
+| align="right" | 72.3%
+|-
+| Bijuesca
+| align="right" | 637
+| align="right" | 47
+| align="right" | 0
+| align="right" | 47
+| align="right" | 637
+| align="right" | 637
+| align="right" | 100.0%
+|-
+| Fago
+| align="right" | 73
+| align="right" | 106
+| align="right" | 0
+| align="right" | 106
+| align="right" | 73
+| align="right" | 1028
+| align="right" | 7.1%
+|-
+| Tamarite de Litera
+| align="right" | 2685
+| align="right" | 546
+| align="right" | 0
+| align="right" | 546
+| align="right" | 2685
+| align="right" | 9213
+| align="right" | 29.1%
+|-
+| Sobradiel
+| align="right" | 2786
+| align="right" | 226
+| align="right" | 0
+| align="right" | 226
+| align="right" | 2786
+| align="right" | 4654
+| align="right" | 59.9%
+|-
+| Ballobar
+| align="right" | 1576
+| align="right" | 256
+| align="right" | 0
+| align="right" | 256
+| align="right" | 1576
+| align="right" | 5979
+| align="right" | 26.4%
+|-
+| Jorcas
+| align="right" | 1461
+| align="right" | 18
+| align="right" | 0
+| align="right" | 18
+| align="right" | 1461
+| align="right" | 1461
+| align="right" | 100.0%
+|-
+| Cella
+| align="right" | 5610
+| align="right" | 441
+| align="right" | 0
+| align="right" | 441
+| align="right" | 5610
+| align="right" | 19642
+| align="right" | 28.6%
+|-
+| Chodes
+| align="right" | 1943
+| align="right" | 73
+| align="right" | 0
+| align="right" | 73
+| align="right" | 1943
+| align="right" | 2055
+| align="right" | 94.6%
+|-
+| Los Olmos
+| align="right" | 2377
+| align="right" | 78
+| align="right" | 0
+| align="right" | 78
+| align="right" | 2377
+| align="right" | 2377
+| align="right" | 100.0%
+|-
+| Alfambra
+| align="right" | 4535
+| align="right" | 151
+| align="right" | 0
+| align="right" | 151
+| align="right" | 4535
+| align="right" | 5753
+| align="right" | 78.8%
+|-
+| Calatorao
+| align="right" | 9174
+| align="right" | 420
+| align="right" | 402
+| align="right" | 420
+| align="right" | 9576
+| align="right" | 16247
+| align="right" | 58.9%
+|-
+| Olvena
+| align="right" | 985
+| align="right" | 86
+| align="right" | 0
+| align="right" | 86
+| align="right" | 985
+| align="right" | 1038
+| align="right" | 94.9%
+|-
+| Lechón
+| align="right" | 717
+| align="right" | 70
+| align="right" | 0
+| align="right" | 70
+| align="right" | 717
+| align="right" | 717
+| align="right" | 100.0%
+|-
+| Monteagudo del Castillo
+| align="right" | 3448
+| align="right" | 142
+| align="right" | 0
+| align="right" | 142
+| align="right" | 3448
+| align="right" | 3448
+| align="right" | 100.0%
+|-
+| Bueña
+| align="right" | 1650
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 1650
+| align="right" | 1756
+| align="right" | 93.9%
+|-
+| Broto
+| align="right" | 4519
+| align="right" | 1615
+| align="right" | 302
+| align="right" | 1615
+| align="right" | 4821
+| align="right" | 9754
+| align="right" | 49.4%
+|-
+| Ainzón
+| align="right" | 8471
+| align="right" | 92
+| align="right" | 0
+| align="right" | 92
+| align="right" | 8471
+| align="right" | 8471
+| align="right" | 100.0%
+|-
+| Foz-Calanda
+| align="right" | 2123
+| align="right" | 41
+| align="right" | 0
+| align="right" | 41
+| align="right" | 2123
+| align="right" | 2123
+| align="right" | 100.0%
+|-
+| Mianos
+| align="right" | 489
+| align="right" | 55
+| align="right" | 0
+| align="right" | 55
+| align="right" | 489
+| align="right" | 489
+| align="right" | 100.0%
+|-
+| Fonz
+| align="right" | 4604
+| align="right" | 338
+| align="right" | 873
+| align="right" | 338
+| align="right" | 5477
+| align="right" | 12695
+| align="right" | 43.1%
+|-
+| Villalengua
+| align="right" | 3966
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 3966
+| align="right" | 3966
+| align="right" | 100.0%
+|-
+| Mosqueruela
+| align="right" | 1572
+| align="right" | 517
+| align="right" | 0
+| align="right" | 517
+| align="right" | 1572
+| align="right" | 6977
+| align="right" | 22.5%
+|-
+| Aranda de Moncayo
+| align="right" | 2278
+| align="right" | 50
+| align="right" | 0
+| align="right" | 50
+| align="right" | 2278
+| align="right" | 2278
+| align="right" | 100.0%
+|-
+| Maella
+| align="right" | 701
+| align="right" | 233
+| align="right" | 884
+| align="right" | 233
+| align="right" | 1585
+| align="right" | 9194
+| align="right" | 17.2%
+|-
+| Arguis
+| align="right" | 297
+| align="right" | 2362
+| align="right" | 0
+| align="right" | 2362
+| align="right" | 297
+| align="right" | 3343
+| align="right" | 8.9%
+|-
+| Mara
+| align="right" | 2837
+| align="right" | 70
+| align="right" | 0
+| align="right" | 70
+| align="right" | 2837
+| align="right" | 2837
+| align="right" | 100.0%
+|-
+| Aguaviva
+| align="right" | 6401
+| align="right" | 103
+| align="right" | 0
+| align="right" | 103
+| align="right" | 6401
+| align="right" | 6401
+| align="right" | 100.0%
+|-
+| Santed
+| align="right" | 711
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 711
+| align="right" | 711
+| align="right" | 100.0%
+|-
+| Almohaja
+| align="right" | 1052
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 1052
+| align="right" | 1052
+| align="right" | 100.0%
+|-
+| Belmonte de Gracián
+| align="right" | 1598
+| align="right" | 101
+| align="right" | 194
+| align="right" | 101
+| align="right" | 1791
+| align="right" | 1791
+| align="right" | 100.0%
+|-
+| Montalbán
+| align="right" | 4718
+| align="right" | 172
+| align="right" | 0
+| align="right" | 172
+| align="right" | 4718
+| align="right" | 10152
+| align="right" | 46.5%
+|-
+| Capdesaso
+| align="right" | 3348
+| align="right" | 28
+| align="right" | 0
+| align="right" | 28
+| align="right" | 3348
+| align="right" | 3348
+| align="right" | 100.0%
+|-
+| Laluenga
+| align="right" | 1619
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 1619
+| align="right" | 3370
+| align="right" | 48.0%
+|-
+| Almuniente
+| align="right" | 4682
+| align="right" | 262
+| align="right" | 0
+| align="right" | 262
+| align="right" | 4682
+| align="right" | 6853
+| align="right" | 68.3%
+|-
+| Villar del Cobo
+| align="right" | 856
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 856
+| align="right" | 2554
+| align="right" | 33.5%
+|-
+| Boquiñeni
+| align="right" | 4801
+| align="right" | 204
+| align="right" | 0
+| align="right" | 204
+| align="right" | 4801
+| align="right" | 5445
+| align="right" | 88.2%
+|-
+| Huesa del Común
+| align="right" | 778
+| align="right" | 76
+| align="right" | 598
+| align="right" | 76
+| align="right" | 1376
+| align="right" | 1376
+| align="right" | 100.0%
+|-
+| Naval
+| align="right" | 39
+| align="right" | 110
+| align="right" | 0
+| align="right" | 110
+| align="right" | 39
+| align="right" | 1589
+| align="right" | 2.4%
+|-
+| Villastar
+| align="right" | 2980
+| align="right" | 57
+| align="right" | 0
+| align="right" | 57
+| align="right" | 2980
+| align="right" | 3172
+| align="right" | 93.9%
+|-
+| Escorihuela
+| align="right" | 1902
+| align="right" | 10
+| align="right" | 0
+| align="right" | 10
+| align="right" | 1902
+| align="right" | 1902
+| align="right" | 100.0%
+|-
+| Cedrillas
+| align="right" | 5522
+| align="right" | 597
+| align="right" | 0
+| align="right" | 597
+| align="right" | 5522
+| align="right" | 6052
+| align="right" | 91.2%
+|-
+| Nogueruelas
+| align="right" | 3885
+| align="right" | 126
+| align="right" | 0
+| align="right" | 126
+| align="right" | 3885
+| align="right" | 3885
+| align="right" | 100.0%
+|-
+| Agón
+| align="right" | 1572
+| align="right" | 59
+| align="right" | 0
+| align="right" | 59
+| align="right" | 1572
+| align="right" | 1572
+| align="right" | 100.0%
+|-
+| Valle de Lierp
+| align="right" | 399
+| align="right" | 167
+| align="right" | 0
+| align="right" | 167
+| align="right" | 399
+| align="right" | 399
+| align="right" | 100.0%
+|-
+| Torrellas
+| align="right" | 2769
+| align="right" | 26
+| align="right" | 0
+| align="right" | 26
+| align="right" | 2769
+| align="right" | 2769
+| align="right" | 100.0%
+|-
+| Argavieso
+| align="right" | 1681
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 1681
+| align="right" | 1681
+| align="right" | 100.0%
+|-
+| Alcubierre
+| align="right" | 793
+| align="right" | 157
+| align="right" | 0
+| align="right" | 157
+| align="right" | 793
+| align="right" | 4667
+| align="right" | 17.0%
+|-
+| Barbuñales
+| align="right" | 480
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 480
+| align="right" | 2464
+| align="right" | 19.5%
+|-
+| Rubiales
+| align="right" | 950
+| align="right" | 47
+| align="right" | 0
+| align="right" | 47
+| align="right" | 950
+| align="right" | 950
+| align="right" | 100.0%
+|-
+| Oliete
+| align="right" | 1239
+| align="right" | 86
+| align="right" | 2147
+| align="right" | 86
+| align="right" | 3385
+| align="right" | 4230
+| align="right" | 80.0%
+|-
+| El Burgo de Ebro
+| align="right" | 12651
+| align="right" | 473
+| align="right" | 106
+| align="right" | 473
+| align="right" | 12757
+| align="right" | 29384
+| align="right" | 43.4%
+|-
+| Ilche
+| align="right" | 4079
+| align="right" | 139
+| align="right" | 0
+| align="right" | 139
+| align="right" | 4079
+| align="right" | 4640
+| align="right" | 87.9%
+|-
+| Torralba de los Sisones
+| align="right" | 2368
+| align="right" | 87
+| align="right" | 0
+| align="right" | 87
+| align="right" | 2368
+| align="right" | 2368
+| align="right" | 100.0%
+|-
+| Ejulve
+| align="right" | 1836
+| align="right" | 147
+| align="right" | 0
+| align="right" | 147
+| align="right" | 1836
+| align="right" | 2131
+| align="right" | 86.1%
+|-
+| Camporrells
+| align="right" | 238
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 238
+| align="right" | 238
+| align="right" | 100.0%
+|-
+| El Castellar
+| align="right" | 1216
+| align="right" | 176
+| align="right" | 0
+| align="right" | 176
+| align="right" | 1216
+| align="right" | 1216
+| align="right" | 100.0%
+|-
+| Bádenas
+| align="right" | 913
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 913
+| align="right" | 913
+| align="right" | 100.0%
+|-
+| Luceni
+| align="right" | 0
+| align="right" | 285
+| align="right" | 0
+| align="right" | 285
+| align="right" | 0
+| align="right" | 6916
+| align="right" | 0.0%
+|-
+| Torre de las Arcas
+| align="right" | 1310
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 1310
+| align="right" | 1310
+| align="right" | 100.0%
+|-
+| Valdecuenca
+| align="right" | 1091
+| align="right" | 134
+| align="right" | 0
+| align="right" | 134
+| align="right" | 1091
+| align="right" | 1091
+| align="right" | 100.0%
+|-
+| Sarrión
+| align="right" | 7631
+| align="right" | 630
+| align="right" | 0
+| align="right" | 630
+| align="right" | 7631
+| align="right" | 15672
+| align="right" | 48.7%
+|-
+| Moscardón
+| align="right" | 1528
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 1528
+| align="right" | 1528
+| align="right" | 100.0%
+|-
+| Berbegal
+| align="right" | 729
+| align="right" | 179
+| align="right" | 0
+| align="right" | 179
+| align="right" | 729
+| align="right" | 2955
+| align="right" | 24.7%
+|-
+| San Martín de la Virgen de Moncayo
+| align="right" | 3899
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 3899
+| align="right" | 4310
+| align="right" | 90.5%
+|-
+| Aguatón
+| align="right" | 890
+| align="right" | 84
+| align="right" | 0
+| align="right" | 84
+| align="right" | 890
+| align="right" | 890
+| align="right" | 100.0%
+|-
+| Calamocha
+| align="right" | 15746
+| align="right" | 1333
+| align="right" | 37
+| align="right" | 1333
+| align="right" | 15783
+| align="right" | 40050
+| align="right" | 39.4%
+|-
+| Alcorisa
+| align="right" | 8079
+| align="right" | 407
+| align="right" | 101
+| align="right" | 407
+| align="right" | 8180
+| align="right" | 16814
+| align="right" | 48.6%
+|-
+| San Agustín
+| align="right" | 1813
+| align="right" | 156
+| align="right" | 0
+| align="right" | 156
+| align="right" | 1813
+| align="right" | 1999
+| align="right" | 90.7%
+|-
+| Castejón del Puente
+| align="right" | 6473
+| align="right" | 71
+| align="right" | 0
+| align="right" | 71
+| align="right" | 6473
+| align="right" | 6473
+| align="right" | 100.0%
+|-
+| Torrecilla del Rebollar
+| align="right" | 4228
+| align="right" | 59
+| align="right" | 0
+| align="right" | 59
+| align="right" | 4228
+| align="right" | 4228
+| align="right" | 100.0%
+|-
+| Arén
+| align="right" | 1507
+| align="right" | 168
+| align="right" | 0
+| align="right" | 168
+| align="right" | 1507
+| align="right" | 2820
+| align="right" | 53.4%
+|-
+| Valdehorna
+| align="right" | 825
+| align="right" | 11
+| align="right" | 0
+| align="right" | 11
+| align="right" | 825
+| align="right" | 825
+| align="right" | 100.0%
+|-
+| Moneva
+| align="right" | 1461
+| align="right" | 40
+| align="right" | 0
+| align="right" | 40
+| align="right" | 1461
+| align="right" | 1461
+| align="right" | 100.0%
+|-
+| Mesones de Isuela
+| align="right" | 1705
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 1705
+| align="right" | 2368
+| align="right" | 72.0%
+|-
+| Acered
+| align="right" | 1360
+| align="right" | 94
+| align="right" | 702
+| align="right" | 94
+| align="right" | 2062
+| align="right" | 2062
+| align="right" | 100.0%
+|-
+| Velilla de Cinca
+| align="right" | 1471
+| align="right" | 54
+| align="right" | 140
+| align="right" | 54
+| align="right" | 1610
+| align="right" | 4240
+| align="right" | 38.0%
+|-
+| Orcajo
+| align="right" | 32
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 32
+| align="right" | 1153
+| align="right" | 2.7%
+|-
+| Castillonroy
+| align="right" | 2516
+| align="right" | 248
+| align="right" | 0
+| align="right" | 248
+| align="right" | 2516
+| align="right" | 2581
+| align="right" | 97.5%
+|-
+| Nonaspe
+| align="right" | 71
+| align="right" | 220
+| align="right" | 205
+| align="right" | 220
+| align="right" | 276
+| align="right" | 7841
+| align="right" | 3.5%
+|-
+| Perdiguera
+| align="right" | 1504
+| align="right" | 185
+| align="right" | 0
+| align="right" | 185
+| align="right" | 1504
+| align="right" | 6146
+| align="right" | 24.5%
+|-
+| Samper de Calanda
+| align="right" | 6802
+| align="right" | 114
+| align="right" | 0
+| align="right" | 114
+| align="right" | 6802
+| align="right" | 6802
+| align="right" | 100.0%
+|-
+| Cañada de Benatanduz
+| align="right" | 0
+| align="right" | 75
+| align="right" | 1615
+| align="right" | 75
+| align="right" | 1615
+| align="right" | 1615
+| align="right" | 100.0%
+|-
+| La Zoma
+| align="right" | 105
+| align="right" | 41
+| align="right" | 0
+| align="right" | 41
+| align="right" | 105
+| align="right" | 559
+| align="right" | 18.7%
+|-
+| Lupiñén-Ortilla
+| align="right" | 2310
+| align="right" | 807
+| align="right" | 0
+| align="right" | 807
+| align="right" | 2310
+| align="right" | 6085
+| align="right" | 38.0%
+|-
+| El Grado
+| align="right" | 2590
+| align="right" | 424
+| align="right" | 0
+| align="right" | 424
+| align="right" | 2590
+| align="right" | 4697
+| align="right" | 55.1%
+|-
+| Used
+| align="right" | 4067
+| align="right" | 102
+| align="right" | 0
+| align="right" | 102
+| align="right" | 4067
+| align="right" | 4067
+| align="right" | 100.0%
+|-
+| Alfántega
+| align="right" | 781
+| align="right" | 35
+| align="right" | 289
+| align="right" | 35
+| align="right" | 1070
+| align="right" | 2380
+| align="right" | 45.0%
+|-
+| Villarquemado
+| align="right" | 10785
+| align="right" | 144
+| align="right" | 0
+| align="right" | 144
+| align="right" | 10785
+| align="right" | 10785
+| align="right" | 100.0%
+|-
+| Saldón
+| align="right" | 699
+| align="right" | 16
+| align="right" | 0
+| align="right" | 16
+| align="right" | 699
+| align="right" | 699
+| align="right" | 100.0%
+|-
+| Piracés
+| align="right" | 0
+| align="right" | 245
+| align="right" | 0
+| align="right" | 245
+| align="right" | 0
+| align="right" | 918
+| align="right" | 0.0%
+|-
+| Palomar de Arroyos
+| align="right" | 2155
+| align="right" | 78
+| align="right" | 0
+| align="right" | 78
+| align="right" | 2155
+| align="right" | 2504
+| align="right" | 86.1%
+|-
+| Aladrén
+| align="right" | 1269
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 1269
+| align="right" | 1269
+| align="right" | 100.0%
+|-
+| Salillas de Jalón
+| align="right" | 4238
+| align="right" | 31
+| align="right" | 0
+| align="right" | 31
+| align="right" | 4238
+| align="right" | 4238
+| align="right" | 100.0%
+|-
+| Ibieca
+| align="right" | 1187
+| align="right" | 107
+| align="right" | 0
+| align="right" | 107
+| align="right" | 1187
+| align="right" | 1187
+| align="right" | 100.0%
+|-
+| La Vilueña
+| align="right" | 2491
+| align="right" | 23
+| align="right" | 0
+| align="right" | 23
+| align="right" | 2491
+| align="right" | 2491
+| align="right" | 100.0%
+|-
+| Alberuela de Tubo
+| align="right" | 3978
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 3978
+| align="right" | 3978
+| align="right" | 100.0%
+|-
+| Azaila
+| align="right" | 2791
+| align="right" | 131
+| align="right" | 0
+| align="right" | 131
+| align="right" | 2791
+| align="right" | 2791
+| align="right" | 100.0%
+|-
+| Vierlas
+| align="right" | 1017
+| align="right" | 15
+| align="right" | 0
+| align="right" | 15
+| align="right" | 1017
+| align="right" | 1017
+| align="right" | 100.0%
+|-
+| Botorrita
+| align="right" | 2442
+| align="right" | 147
+| align="right" | 0
+| align="right" | 147
+| align="right" | 2442
+| align="right" | 6765
+| align="right" | 36.1%
+|-
+| Pueyo de Santa Cruz
+| align="right" | 992
+| align="right" | 40
+| align="right" | 79
+| align="right" | 40
+| align="right" | 1071
+| align="right" | 3053
+| align="right" | 35.1%
+|-
+| Sos del Rey Católico
+| align="right" | 3762
+| align="right" | 1010
+| align="right" | 0
+| align="right" | 1010
+| align="right" | 3762
+| align="right" | 9980
+| align="right" | 37.7%
+|-
+| Cantavieja
+| align="right" | 3167
+| align="right" | 133
+| align="right" | 1331
+| align="right" | 133
+| align="right" | 4498
+| align="right" | 4498
+| align="right" | 100.0%
+|-
+| Clarés de Ribota
+| align="right" | 216
+| align="right" | 13
+| align="right" | 0
+| align="right" | 13
+| align="right" | 216
+| align="right" | 216
+| align="right" | 100.0%
+|-
+| Sabiñán
+| align="right" | 1065
+| align="right" | 100
+| align="right" | 0
+| align="right" | 100
+| align="right" | 1065
+| align="right" | 5815
+| align="right" | 18.3%
+|-
+| Chía
+| align="right" | 1148
+| align="right" | 81
+| align="right" | 0
+| align="right" | 81
+| align="right" | 1148
+| align="right" | 1497
+| align="right" | 76.7%
+|-
+| María de Huerva
+| align="right" | 2537
+| align="right" | 573
+| align="right" | 64
+| align="right" | 573
+| align="right" | 2601
+| align="right" | 17768
+| align="right" | 14.6%
+|-
+| Antillón
+| align="right" | 147
+| align="right" | 220
+| align="right" | 0
+| align="right" | 220
+| align="right" | 147
+| align="right" | 1300
+| align="right" | 11.3%
+|-
+| Castejón de Tornos
+| align="right" | 1918
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 1918
+| align="right" | 1918
+| align="right" | 100.0%
+|-
+| Villanueva de Sigena
+| align="right" | 1771
+| align="right" | 296
+| align="right" | 0
+| align="right" | 296
+| align="right" | 1771
+| align="right" | 5509
+| align="right" | 32.1%
+|-
+| San Esteban de Litera
+| align="right" | 2220
+| align="right" | 118
+| align="right" | 885
+| align="right" | 118
+| align="right" | 3104
+| align="right" | 5377
+| align="right" | 57.7%
+|-
+| Alagón
+| align="right" | 2658
+| align="right" | 860
+| align="right" | 368
+| align="right" | 860
+| align="right" | 3026
+| align="right" | 24001
+| align="right" | 12.6%
+|-
+| Navardún
+| align="right" | 1850
+| align="right" | 17
+| align="right" | 0
+| align="right" | 17
+| align="right" | 1850
+| align="right" | 1850
+| align="right" | 100.0%
+|-
+| Alcalá de Moncayo
+| align="right" | 1538
+| align="right" | 55
+| align="right" | 0
+| align="right" | 55
+| align="right" | 1538
+| align="right" | 1538
+| align="right" | 100.0%
+|-
+| Pozán de Vero
+| align="right" | 1852
+| align="right" | 75
+| align="right" | 0
+| align="right" | 75
+| align="right" | 1852
+| align="right" | 1852
+| align="right" | 100.0%
+|-
+| Illueca
+| align="right" | 3016
+| align="right" | 124
+| align="right" | 0
+| align="right" | 124
+| align="right" | 3016
+| align="right" | 9671
+| align="right" | 31.2%
+|-
+| Chalamera
+| align="right" | 2939
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 2939
+| align="right" | 2939
+| align="right" | 100.0%
+|-
+| Ayerbe
+| align="right" | 63
+| align="right" | 977
+| align="right" | 0
+| align="right" | 977
+| align="right" | 63
+| align="right" | 7112
+| align="right" | 0.9%
+|-
+| Calcena
+| align="right" | 2133
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 2133
+| align="right" | 2133
+| align="right" | 100.0%
+|-
+| Alcalá de la Selva
+| align="right" | 14304
+| align="right" | 1050
+| align="right" | 0
+| align="right" | 1050
+| align="right" | 14304
+| align="right" | 15869
+| align="right" | 90.1%
+|-
+| Poleñino
+| align="right" | 0
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 0
+| align="right" | 2985
+| align="right" | 0.0%
+|-
+| Lucena de Jalón
+| align="right" | 4114
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 4114
+| align="right" | 4570
+| align="right" | 90.0%
+|-
+| Josa
+| align="right" | 3124
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 3124
+| align="right" | 3124
+| align="right" | 100.0%
+|-
+| Mezalocha
+| align="right" | 927
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 927
+| align="right" | 2863
+| align="right" | 32.4%
+|-
+| Albero Bajo
+| align="right" | 524
+| align="right" | 261
+| align="right" | 0
+| align="right" | 261
+| align="right" | 524
+| align="right" | 2828
+| align="right" | 18.5%
+|-
+| Piedratajada
+| align="right" | 1533
+| align="right" | 23
+| align="right" | 0
+| align="right" | 23
+| align="right" | 1533
+| align="right" | 1533
+| align="right" | 100.0%
+|-
+| Villarluengo
+| align="right" | 2559
+| align="right" | 171
+| align="right" | 0
+| align="right" | 171
+| align="right" | 2559
+| align="right" | 2559
+| align="right" | 100.0%
+|-
+| Almochuel
+| align="right" | 1274
+| align="right" | 39
+| align="right" | 0
+| align="right" | 39
+| align="right" | 1274
+| align="right" | 1330
+| align="right" | 95.8%
+|-
+| Paracuellos de Jiloca
+| align="right" | 2386
+| align="right" | 65
+| align="right" | 0
+| align="right" | 65
+| align="right" | 2386
+| align="right" | 2386
+| align="right" | 100.0%
+|-
+| Olvés
+| align="right" | 1004
+| align="right" | 39
+| align="right" | 169
+| align="right" | 39
+| align="right" | 1173
+| align="right" | 1173
+| align="right" | 100.0%
+|-
+| Urrea de Gaén
+| align="right" | 515
+| align="right" | 309
+| align="right" | 0
+| align="right" | 309
+| align="right" | 515
+| align="right" | 4110
+| align="right" | 12.5%
+|-
+| La Almolda
+| align="right" | 2733
+| align="right" | 202
+| align="right" | 0
+| align="right" | 202
+| align="right" | 2733
+| align="right" | 7449
+| align="right" | 36.7%
+|-
+| Alcaine
+| align="right" | 407
+| align="right" | 41
+| align="right" | 0
+| align="right" | 41
+| align="right" | 407
+| align="right" | 1343
+| align="right" | 30.3%
+|-
+| Fuentes Calientes
+| align="right" | 939
+| align="right" | 151
+| align="right" | 0
+| align="right" | 151
+| align="right" | 939
+| align="right" | 3035
+| align="right" | 31.0%
+|-
+| Badules
+| align="right" | 1968
+| align="right" | 36
+| align="right" | 0
+| align="right" | 36
+| align="right" | 1968
+| align="right" | 1968
+| align="right" | 100.0%
+|-
+| Novales
+| align="right" | 0
+| align="right" | 175
+| align="right" | 0
+| align="right" | 175
+| align="right" | 0
+| align="right" | 2093
+| align="right" | 0.0%
+|-
+| Murero
+| align="right" | 201
+| align="right" | 35
+| align="right" | 0
+| align="right" | 35
+| align="right" | 201
+| align="right" | 428
+| align="right" | 46.9%
+|-
+| Huesca
+| align="right" | 2026
+| align="right" | 28882
+| align="right" | 302
+| align="right" | 28882
+| align="right" | 2328
+| align="right" | 87588
+| align="right" | 2.7%
+|-
+| Canfranc
+| align="right" | 1386
+| align="right" | 457
+| align="right" | 0
+| align="right" | 457
+| align="right" | 1386
+| align="right" | 4066
+| align="right" | 34.1%
+|-
+| Puente de Montañana
+| align="right" | 359
+| align="right" | 90
+| align="right" | 0
+| align="right" | 90
+| align="right" | 359
+| align="right" | 359
+| align="right" | 100.0%
+|-
+| Longares
+| align="right" | 4880
+| align="right" | 184
+| align="right" | 0
+| align="right" | 184
+| align="right" | 4880
+| align="right" | 5304
+| align="right" | 92.0%
+|-
+| Monforte de Moyuela
+| align="right" | 194
+| align="right" | 278
+| align="right" | 0
+| align="right" | 278
+| align="right" | 194
+| align="right" | 1853
+| align="right" | 10.5%
+|-
+| Bea
+| align="right" | 285
+| align="right" | 3
+| align="right" | 0
+| align="right" | 3
+| align="right" | 285
+| align="right" | 285
+| align="right" | 100.0%
+|-
+| Muniesa
+| align="right" | 1863
+| align="right" | 196
+| align="right" | 0
+| align="right" | 196
+| align="right" | 1863
+| align="right" | 9663
+| align="right" | 19.3%
+|-
+| Luesia
+| align="right" | 3875
+| align="right" | 106
+| align="right" | 353
+| align="right" | 106
+| align="right" | 4228
+| align="right" | 4228
+| align="right" | 100.0%
+|-
+| Bielsa
+| align="right" | 2054
+| align="right" | 674
+| align="right" | 0
+| align="right" | 674
+| align="right" | 2054
+| align="right" | 4149
+| align="right" | 49.5%
+|-
+| Perarrúa
+| align="right" | 855
+| align="right" | 149
+| align="right" | 0
+| align="right" | 149
+| align="right" | 855
+| align="right" | 1992
+| align="right" | 42.9%
+|-
+| Albentosa
+| align="right" | 2263
+| align="right" | 561
+| align="right" | 0
+| align="right" | 561
+| align="right" | 2263
+| align="right" | 3781
+| align="right" | 59.9%
+|-
+| Aldehuela de Liestos
+| align="right" | 1563
+| align="right" | 60
+| align="right" | 0
+| align="right" | 60
+| align="right" | 1563
+| align="right" | 1563
+| align="right" | 100.0%
+|-
+| Barbastro
+| align="right" | 9507
+| align="right" | 1616
+| align="right" | 0
+| align="right" | 1616
+| align="right" | 9507
+| align="right" | 61670
+| align="right" | 15.4%
+|-
+| La Fueva
+| align="right" | 4382
+| align="right" | 832
+| align="right" | 256
+| align="right" | 832
+| align="right" | 4638
+| align="right" | 7007
+| align="right" | 66.2%
+|-
+| Royuela
+| align="right" | 5817
+| align="right" | 276
+| align="right" | 0
+| align="right" | 276
+| align="right" | 5817
+| align="right" | 6073
+| align="right" | 95.8%
+|-
+| Montón
+| align="right" | 1356
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 1356
+| align="right" | 1356
+| align="right" | 100.0%
+|-
+| Alba
+| align="right" | 2515
+| align="right" | 73
+| align="right" | 0
+| align="right" | 73
+| align="right" | 2515
+| align="right" | 2515
+| align="right" | 100.0%
+|-
+| Jarque de la Val
+| align="right" | 2551
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 2551
+| align="right" | 2551
+| align="right" | 100.0%
+|-
+| Abiego
+| align="right" | 219
+| align="right" | 258
+| align="right" | 0
+| align="right" | 258
+| align="right" | 219
+| align="right" | 2985
+| align="right" | 7.3%
+|-
+| Allueva
+| align="right" | 535
+| align="right" | 13
+| align="right" | 0
+| align="right" | 13
+| align="right" | 535
+| align="right" | 535
+| align="right" | 100.0%
+|-
+| Albalatillo
+| align="right" | 3008
+| align="right" | 94
+| align="right" | 0
+| align="right" | 94
+| align="right" | 3008
+| align="right" | 3008
+| align="right" | 100.0%
+|-
+| Codos
+| align="right" | 2028
+| align="right" | 17
+| align="right" | 0
+| align="right" | 17
+| align="right" | 2028
+| align="right" | 2028
+| align="right" | 100.0%
+|-
+| Lledó
+| align="right" | 0
+| align="right" | 269
+| align="right" | 0
+| align="right" | 269
+| align="right" | 0
+| align="right" | 1504
+| align="right" | 0.0%
+|-
+| Camañas
+| align="right" | 375
+| align="right" | 82
+| align="right" | 0
+| align="right" | 82
+| align="right" | 375
+| align="right" | 1929
+| align="right" | 19.4%
+|-
+| Cabañas de Ebro
+| align="right" | 235
+| align="right" | 966
+| align="right" | 0
+| align="right" | 966
+| align="right" | 235
+| align="right" | 3952
+| align="right" | 5.9%
+|-
+| San Miguel del Cinca
+| align="right" | 3331
+| align="right" | 178
+| align="right" | 390
+| align="right" | 178
+| align="right" | 3722
+| align="right" | 8134
+| align="right" | 45.8%
+|-
+|}
