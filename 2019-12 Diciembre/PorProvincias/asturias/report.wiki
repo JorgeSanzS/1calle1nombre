@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Asturias / Asturies
+| align="right" | 1838867
+| align="right" | 223994
+| align="right" | 41824
+| align="right" | 223994
+| align="right" | 1880691
+| align="right" | 3028806
+| align="right" | 62.1%
+|-
+|}

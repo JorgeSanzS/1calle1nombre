@@ -1,0 +1,40 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Zaragoza
+| align="right" | 1124620
+| align="right" | 103227
+| align="right" | 79858
+| align="right" | 103227
+| align="right" | 1204478
+| align="right" | 2921035
+| align="right" | 41.2%
+|-
+| Huesca
+| align="right" | 407959
+| align="right" | 158485
+| align="right" | 24988
+| align="right" | 158485
+| align="right" | 432947
+| align="right" | 1319096
+| align="right" | 32.8%
+|-
+| Teruel
+| align="right" | 604375
+| align="right" | 60255
+| align="right" | 22092
+| align="right" | 60255
+| align="right" | 626467
+| align="right" | 1172357
+| align="right" | 53.4%
+|-
+|}

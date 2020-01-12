@@ -1,0 +1,31 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Cáceres
+| align="right" | 997992
+| align="right" | 110275
+| align="right" | 13406
+| align="right" | 110275
+| align="right" | 1011398
+| align="right" | 2455690
+| align="right" | 41.2%
+|-
+| Badajoz
+| align="right" | 668547
+| align="right" | 112940
+| align="right" | 5442
+| align="right" | 112940
+| align="right" | 673989
+| align="right" | 3311216
+| align="right" | 20.4%
+|-
+|}

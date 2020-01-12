@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>Albacete</td>
+                <td>452126</td>
+                <td>91171</td>
+                <td>4037</td>
+                <td>91171</td>
+                <td>456163</td>
+                <td>2004680</td>
+                
+                    <td>22.8%</td>
+                
+
+                
+                <td><progress value="22.7548962264" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ciudad Real</td>
+                <td>410411</td>
+                <td>50922</td>
+                <td>6052</td>
+                <td>50922</td>
+                <td>416464</td>
+                <td>2631386</td>
+                
+                    <td>15.8%</td>
+                
+
+                
+                <td><progress value="15.8267774314" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Cuenca</td>
+                <td>383475</td>
+                <td>75186</td>
+                <td>3024</td>
+                <td>75186</td>
+                <td>386498</td>
+                <td>2054133</td>
+                
+                    <td>18.8%</td>
+                
+
+                
+                <td><progress value="18.8156470417" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Guadalajara</td>
+                <td>766109</td>
+                <td>73383</td>
+                <td>28324</td>
+                <td>73383</td>
+                <td>794433</td>
+                <td>2230986</td>
+                
+                    <td>35.6%</td>
+                
+
+                
+                <td><progress value="35.6090531193" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Toledo</td>
+                <td>751917</td>
+                <td>97936</td>
+                <td>9659</td>
+                <td>97936</td>
+                <td>761576</td>
+                <td>4818418</td>
+                
+                    <td>15.8%</td>
+                
+
+                
+                <td><progress value="15.8055160515" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

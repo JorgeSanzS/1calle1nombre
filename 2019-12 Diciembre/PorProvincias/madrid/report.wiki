@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Comunidad de Madrid
+| align="right" | 986339
+| align="right" | 680485
+| align="right" | 65933
+| align="right" | 680485
+| align="right" | 1052273
+| align="right" | 11411709
+| align="right" | 9.2%
+|-
+|}

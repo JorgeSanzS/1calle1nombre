@@ -1,0 +1,58 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Albacete
+| align="right" | 452126
+| align="right" | 91171
+| align="right" | 4037
+| align="right" | 91171
+| align="right" | 456163
+| align="right" | 2004680
+| align="right" | 22.8%
+|-
+| Ciudad Real
+| align="right" | 410411
+| align="right" | 50922
+| align="right" | 6052
+| align="right" | 50922
+| align="right" | 416464
+| align="right" | 2631386
+| align="right" | 15.8%
+|-
+| Cuenca
+| align="right" | 383475
+| align="right" | 75186
+| align="right" | 3024
+| align="right" | 75186
+| align="right" | 386498
+| align="right" | 2054133
+| align="right" | 18.8%
+|-
+| Guadalajara
+| align="right" | 766109
+| align="right" | 73383
+| align="right" | 28324
+| align="right" | 73383
+| align="right" | 794433
+| align="right" | 2230986
+| align="right" | 35.6%
+|-
+| Toledo
+| align="right" | 751917
+| align="right" | 97936
+| align="right" | 9659
+| align="right" | 97936
+| align="right" | 761576
+| align="right" | 4818418
+| align="right" | 15.8%
+|-
+|}

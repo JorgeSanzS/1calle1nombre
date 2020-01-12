@@ -1,0 +1,40 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| València / Valencia
+| align="right" | 580531
+| align="right" | 346711
+| align="right" | 8836
+| align="right" | 346711
+| align="right" | 589367
+| align="right" | 6957205
+| align="right" | 8.5%
+|-
+| Alacant / Alicante
+| align="right" | 1801091
+| align="right" | 359031
+| align="right" | 63394
+| align="right" | 359031
+| align="right" | 1864486
+| align="right" | 7949302
+| align="right" | 23.5%
+|-
+| Castelló / Castellón
+| align="right" | 314807
+| align="right" | 95042
+| align="right" | 27892
+| align="right" | 95042
+| align="right" | 342699
+| align="right" | 2437812
+| align="right" | 14.1%
+|-
+|}

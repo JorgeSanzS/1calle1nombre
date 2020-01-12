@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Navarra - Nafarroa
+| align="right" | 141604
+| align="right" | 138684
+| align="right" | 14654
+| align="right" | 138684
+| align="right" | 156258
+| align="right" | 2436526
+| align="right" | 6.4%
+|-
+|}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>Tarragona</td>
+                <td>154911</td>
+                <td>239243</td>
+                <td>6070</td>
+                <td>239243</td>
+                <td>160981</td>
+                <td>3939149</td>
+                
+                    <td>4.1%</td>
+                
+
+                
+                <td><progress value="4.08670327255" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Girona</td>
+                <td>17795</td>
+                <td>241097</td>
+                <td>9665</td>
+                <td>241097</td>
+                <td>27460</td>
+                <td>4193127</td>
+                
+                    <td>0.7%</td>
+                
+
+                
+                <td><progress value="0.65488205669" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Lleida</td>
+                <td>186678</td>
+                <td>184813</td>
+                <td>26089</td>
+                <td>184813</td>
+                <td>212768</td>
+                <td>2110313</td>
+                
+                    <td>10.1%</td>
+                
+
+                
+                <td><progress value="10.0822900002" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Barcelona</td>
+                <td>313219</td>
+                <td>639635</td>
+                <td>23931</td>
+                <td>639635</td>
+                <td>337150</td>
+                <td>11765650</td>
+                
+                    <td>2.9%</td>
+                
+
+                
+                <td><progress value="2.86554113412" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

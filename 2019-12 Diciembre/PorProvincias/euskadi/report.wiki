@@ -1,0 +1,40 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Gipuzkoa
+| align="right" | 320838
+| align="right" | 125145
+| align="right" | 11472
+| align="right" | 125145
+| align="right" | 332310
+| align="right" | 1102037
+| align="right" | 30.2%
+|-
+| Araba/Álava
+| align="right" | 82222
+| align="right" | 118417
+| align="right" | 7676
+| align="right" | 118417
+| align="right" | 89898
+| align="right" | 1002220
+| align="right" | 9.0%
+|-
+| Bizkaia
+| align="right" | 474411
+| align="right" | 160355
+| align="right" | 42215
+| align="right" | 160355
+| align="right" | 516625
+| align="right" | 1554411
+| align="right" | 33.2%
+|-
+|}

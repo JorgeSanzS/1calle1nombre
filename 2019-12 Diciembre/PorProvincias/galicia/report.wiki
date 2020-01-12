@@ -1,0 +1,49 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| A Coruña
+| align="right" | 2029540
+| align="right" | 345602
+| align="right" | 199534
+| align="right" | 345602
+| align="right" | 2229074
+| align="right" | 4039711
+| align="right" | 55.2%
+|-
+| Ourense
+| align="right" | 2360698
+| align="right" | 87291
+| align="right" | 36931
+| align="right" | 87291
+| align="right" | 2397629
+| align="right" | 2747814
+| align="right" | 87.3%
+|-
+| Pontevedra
+| align="right" | 2953099
+| align="right" | 123473
+| align="right" | 287577
+| align="right" | 123473
+| align="right" | 3240676
+| align="right" | 4363548
+| align="right" | 74.3%
+|-
+| Lugo
+| align="right" | 2249049
+| align="right" | 123409
+| align="right" | 11511
+| align="right" | 123409
+| align="right" | 2260560
+| align="right" | 2800304
+| align="right" | 80.7%
+|-
+|}

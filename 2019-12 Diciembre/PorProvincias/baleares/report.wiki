@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Illes Balears
+| align="right" | 1143219
+| align="right" | 330598
+| align="right" | 5950
+| align="right" | 330598
+| align="right" | 1149170
+| align="right" | 4587085
+| align="right" | 25.1%
+|-
+|}

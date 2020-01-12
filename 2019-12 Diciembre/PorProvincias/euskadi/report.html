@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>Gipuzkoa</td>
+                <td>320838</td>
+                <td>125145</td>
+                <td>11472</td>
+                <td>125145</td>
+                <td>332310</td>
+                <td>1102037</td>
+                
+                    <td>30.2%</td>
+                
+
+                
+                <td><progress value="30.1541606812" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Araba/Álava</td>
+                <td>82222</td>
+                <td>118417</td>
+                <td>7676</td>
+                <td>118417</td>
+                <td>89898</td>
+                <td>1002220</td>
+                
+                    <td>9.0%</td>
+                
+
+                
+                <td><progress value="8.96987837826" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Bizkaia</td>
+                <td>474411</td>
+                <td>160355</td>
+                <td>42215</td>
+                <td>160355</td>
+                <td>516625</td>
+                <td>1554411</td>
+                
+                    <td>33.2%</td>
+                
+
+                
+                <td><progress value="33.2360605004" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Santa Cruz de Tenerife
+| align="right" | 780209
+| align="right" | 288438
+| align="right" | 15348
+| align="right" | 288438
+| align="right" | 795557
+| align="right" | 3189769
+| align="right" | 24.9%
+|-
+| Las Palmas
+| align="right" | 219342
+| align="right" | 186038
+| align="right" | 37313
+| align="right" | 186038
+| align="right" | 256656
+| align="right" | 3335582
+| align="right" | 7.7%
+|-
+|}

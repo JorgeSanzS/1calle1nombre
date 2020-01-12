@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>Málaga</td>
+                <td>1580109</td>
+                <td>333965</td>
+                <td>25886</td>
+                <td>333965</td>
+                <td>1605994</td>
+                <td>4986239</td>
+                
+                    <td>32.2%</td>
+                
+
+                
+                <td><progress value="32.2085361882" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Granada</td>
+                <td>2374</td>
+                <td>144461</td>
+                <td>277</td>
+                <td>144461</td>
+                <td>2650</td>
+                <td>4443089</td>
+                
+                    <td>0.1%</td>
+                
+
+                
+                <td><progress value="0.0596436998961" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Almería</td>
+                <td>440432</td>
+                <td>97255</td>
+                <td>7165</td>
+                <td>97255</td>
+                <td>447597</td>
+                <td>2887352</td>
+                
+                    <td>15.5%</td>
+                
+
+                
+                <td><progress value="15.5019738124" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Sevilla</td>
+                <td>1420306</td>
+                <td>141355</td>
+                <td>43679</td>
+                <td>141355</td>
+                <td>1463986</td>
+                <td>5530686</td>
+                
+                    <td>26.5%</td>
+                
+
+                
+                <td><progress value="26.4702342734" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Cádiz</td>
+                <td>1527510</td>
+                <td>129993</td>
+                <td>42272</td>
+                <td>129993</td>
+                <td>1569782</td>
+                <td>3804183</td>
+                
+                    <td>41.3%</td>
+                
+
+                
+                <td><progress value="41.2646269079" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Jaén</td>
+                <td>421121</td>
+                <td>71174</td>
+                <td>23523</td>
+                <td>71174</td>
+                <td>444644</td>
+                <td>2507446</td>
+                
+                    <td>17.7%</td>
+                
+
+                
+                <td><progress value="17.7329422896" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Córdoba</td>
+                <td>741488</td>
+                <td>58327</td>
+                <td>17834</td>
+                <td>58327</td>
+                <td>759322</td>
+                <td>2583057</td>
+                
+                    <td>29.4%</td>
+                
+
+                
+                <td><progress value="29.3962623733" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Huelva</td>
+                <td>729229</td>
+                <td>47232</td>
+                <td>17365</td>
+                <td>47232</td>
+                <td>746594</td>
+                <td>2058861</td>
+                
+                    <td>36.3%</td>
+                
+
+                
+                <td><progress value="36.2624600538" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

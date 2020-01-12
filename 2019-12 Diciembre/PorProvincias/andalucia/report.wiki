@@ -1,0 +1,85 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Málaga
+| align="right" | 1580109
+| align="right" | 333965
+| align="right" | 25886
+| align="right" | 333965
+| align="right" | 1605994
+| align="right" | 4986239
+| align="right" | 32.2%
+|-
+| Granada
+| align="right" | 2374
+| align="right" | 144461
+| align="right" | 277
+| align="right" | 144461
+| align="right" | 2650
+| align="right" | 4443089
+| align="right" | 0.1%
+|-
+| Almería
+| align="right" | 440432
+| align="right" | 97255
+| align="right" | 7165
+| align="right" | 97255
+| align="right" | 447597
+| align="right" | 2887352
+| align="right" | 15.5%
+|-
+| Sevilla
+| align="right" | 1420306
+| align="right" | 141355
+| align="right" | 43679
+| align="right" | 141355
+| align="right" | 1463986
+| align="right" | 5530686
+| align="right" | 26.5%
+|-
+| Cádiz
+| align="right" | 1527510
+| align="right" | 129993
+| align="right" | 42272
+| align="right" | 129993
+| align="right" | 1569782
+| align="right" | 3804183
+| align="right" | 41.3%
+|-
+| Jaén
+| align="right" | 421121
+| align="right" | 71174
+| align="right" | 23523
+| align="right" | 71174
+| align="right" | 444644
+| align="right" | 2507446
+| align="right" | 17.7%
+|-
+| Córdoba
+| align="right" | 741488
+| align="right" | 58327
+| align="right" | 17834
+| align="right" | 58327
+| align="right" | 759322
+| align="right" | 2583057
+| align="right" | 29.4%
+|-
+| Huelva
+| align="right" | 729229
+| align="right" | 47232
+| align="right" | 17365
+| align="right" | 47232
+| align="right" | 746594
+| align="right" | 2058861
+| align="right" | 36.3%
+|-
+|}

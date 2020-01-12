@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        progress[value]::-webkit-progress-bar {
+        background-color: #f00;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+        }
+        tr:nth-child(even) {background: #CCC}
+	    tr:nth-child(odd) {background: #FFF}
+    </style>
+    <script type="text/javascript" src="http://tablesorter.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" id="js">$(document).ready(function() {
+        // call the tablesorter plugin
+        $("table").tablesorter({
+            // sort on the first column and third column, order asc
+            sortList: [[0,0],[2,0]]
+        });
+    }); </script>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Poblacio</th>
+                <th>Residential No Name(m)</th>
+                <th>Num Residential No Name</th>
+                <th>Living Street No Name(m)</th>
+                <th>Num Living Street No Name</th>
+                <th>Total No Name(m)</th>
+                <th>Total (Residential + Living street)</th>
+                <th>Percentatge Restant</th>
+                <th>Resta</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td>A Coruña</td>
+                <td>2029540</td>
+                <td>345602</td>
+                <td>199534</td>
+                <td>345602</td>
+                <td>2229074</td>
+                <td>4039711</td>
+                
+                    <td>55.2%</td>
+                
+
+                
+                <td><progress value="55.1790504098" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Ourense</td>
+                <td>2360698</td>
+                <td>87291</td>
+                <td>36931</td>
+                <td>87291</td>
+                <td>2397629</td>
+                <td>2747814</td>
+                
+                    <td>87.3%</td>
+                
+
+                
+                <td><progress value="87.255854811" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Pontevedra</td>
+                <td>2953099</td>
+                <td>123473</td>
+                <td>287577</td>
+                <td>123473</td>
+                <td>3240676</td>
+                <td>4363548</td>
+                
+                    <td>74.3%</td>
+                
+
+                
+                <td><progress value="74.2669911988" max="100"></progress></td>
+                
+            </tr>
+        
+            <tr>
+                <td>Lugo</td>
+                <td>2249049</td>
+                <td>123409</td>
+                <td>11511</td>
+                <td>123409</td>
+                <td>2260560</td>
+                <td>2800304</td>
+                
+                    <td>80.7%</td>
+                
+
+                
+                <td><progress value="80.7255242496" max="100"></progress></td>
+                
+            </tr>
+        
+        </tbody>
+    </table>
+</body>
+</html>

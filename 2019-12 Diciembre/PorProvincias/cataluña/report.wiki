@@ -1,0 +1,49 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Tarragona
+| align="right" | 154911
+| align="right" | 239243
+| align="right" | 6070
+| align="right" | 239243
+| align="right" | 160981
+| align="right" | 3939149
+| align="right" | 4.1%
+|-
+| Girona
+| align="right" | 17795
+| align="right" | 241097
+| align="right" | 9665
+| align="right" | 241097
+| align="right" | 27460
+| align="right" | 4193127
+| align="right" | 0.7%
+|-
+| Lleida
+| align="right" | 186678
+| align="right" | 184813
+| align="right" | 26089
+| align="right" | 184813
+| align="right" | 212768
+| align="right" | 2110313
+| align="right" | 10.1%
+|-
+| Barcelona
+| align="right" | 313219
+| align="right" | 639635
+| align="right" | 23931
+| align="right" | 639635
+| align="right" | 337150
+| align="right" | 11765650
+| align="right" | 2.9%
+|-
+|}
