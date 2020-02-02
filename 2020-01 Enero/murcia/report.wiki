@@ -1,0 +1,418 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| La Unión
+| align="right" | 20065
+| align="right" | 1725
+| align="right" | 108
+| align="right" | 1725
+| align="right" | 20173
+| align="right" | 76783
+| align="right" | 26.3%
+|-
+| Ricote
+| align="right" | 535
+| align="right" | 306
+| align="right" | 0
+| align="right" | 306
+| align="right" | 535
+| align="right" | 7372
+| align="right" | 7.3%
+|-
+| Librilla
+| align="right" | 6324
+| align="right" | 1374
+| align="right" | 0
+| align="right" | 1374
+| align="right" | 6324
+| align="right" | 24915
+| align="right" | 25.4%
+|-
+| Cartagena
+| align="right" | 159967
+| align="right" | 38192
+| align="right" | 4176
+| align="right" | 38192
+| align="right" | 164144
+| align="right" | 760390
+| align="right" | 21.6%
+|-
+| Blanca
+| align="right" | 758
+| align="right" | 624
+| align="right" | 73
+| align="right" | 624
+| align="right" | 831
+| align="right" | 14827
+| align="right" | 5.6%
+|-
+| Cehegín
+| align="right" | 35624
+| align="right" | 1231
+| align="right" | 681
+| align="right" | 1231
+| align="right" | 36305
+| align="right" | 87594
+| align="right" | 41.4%
+|-
+| Las Torres de Cotillas
+| align="right" | 22130
+| align="right" | 1669
+| align="right" | 579
+| align="right" | 1669
+| align="right" | 22709
+| align="right" | 123502
+| align="right" | 18.4%
+|-
+| Puerto Lumbreras
+| align="right" | 5911
+| align="right" | 1785
+| align="right" | 155
+| align="right" | 1785
+| align="right" | 6065
+| align="right" | 57340
+| align="right" | 10.6%
+|-
+| Totana
+| align="right" | 42042
+| align="right" | 1697
+| align="right" | 814
+| align="right" | 1697
+| align="right" | 42857
+| align="right" | 96926
+| align="right" | 44.2%
+|-
+| Beniel
+| align="right" | 4984
+| align="right" | 682
+| align="right" | 0
+| align="right" | 682
+| align="right" | 4984
+| align="right" | 28973
+| align="right" | 17.2%
+|-
+| Abarán
+| align="right" | 8491
+| align="right" | 780
+| align="right" | 0
+| align="right" | 780
+| align="right" | 8491
+| align="right" | 32067
+| align="right" | 26.5%
+|-
+| Molina de Segura
+| align="right" | 139317
+| align="right" | 4156
+| align="right" | 418
+| align="right" | 4156
+| align="right" | 139736
+| align="right" | 354313
+| align="right" | 39.4%
+|-
+| Alcantarilla
+| align="right" | 21846
+| align="right" | 1554
+| align="right" | 151
+| align="right" | 1554
+| align="right" | 21998
+| align="right" | 80825
+| align="right" | 27.2%
+|-
+| Mula
+| align="right" | 12264
+| align="right" | 1512
+| align="right" | 186
+| align="right" | 1512
+| align="right" | 12450
+| align="right" | 61824
+| align="right" | 20.1%
+|-
+| Yecla
+| align="right" | 51059
+| align="right" | 3480
+| align="right" | 790
+| align="right" | 3480
+| align="right" | 51849
+| align="right" | 106940
+| align="right" | 48.5%
+|-
+| Ceutí
+| align="right" | 2223
+| align="right" | 1097
+| align="right" | 24
+| align="right" | 1097
+| align="right" | 2247
+| align="right" | 62260
+| align="right" | 3.6%
+|-
+| Santomera
+| align="right" | 20750
+| align="right" | 1213
+| align="right" | 0
+| align="right" | 1213
+| align="right" | 20750
+| align="right" | 61498
+| align="right" | 33.7%
+|-
+| Albudeite
+| align="right" | 764
+| align="right" | 278
+| align="right" | 127
+| align="right" | 278
+| align="right" | 891
+| align="right" | 9645
+| align="right" | 9.2%
+|-
+| Los Alcázares
+| align="right" | 608
+| align="right" | 2273
+| align="right" | 64
+| align="right" | 2273
+| align="right" | 672
+| align="right" | 145129
+| align="right" | 0.5%
+|-
+| Abanilla
+| align="right" | 22049
+| align="right" | 1373
+| align="right" | 38
+| align="right" | 1373
+| align="right" | 22086
+| align="right" | 51083
+| align="right" | 43.2%
+|-
+| Fuente Álamo de Murcia
+| align="right" | 105451
+| align="right" | 2589
+| align="right" | 0
+| align="right" | 2589
+| align="right" | 105451
+| align="right" | 156457
+| align="right" | 67.4%
+|-
+| Fortuna
+| align="right" | 32401
+| align="right" | 1407
+| align="right" | 0
+| align="right" | 1407
+| align="right" | 32401
+| align="right" | 72750
+| align="right" | 44.5%
+|-
+| Ojós
+| align="right" | 228
+| align="right" | 624
+| align="right" | 0
+| align="right" | 624
+| align="right" | 228
+| align="right" | 2878
+| align="right" | 7.9%
+|-
+| Caravaca de la Cruz
+| align="right" | 50978
+| align="right" | 1490
+| align="right" | 8
+| align="right" | 1490
+| align="right" | 50986
+| align="right" | 77276
+| align="right" | 66.0%
+|-
+| Águilas
+| align="right" | 60724
+| align="right" | 4288
+| align="right" | 0
+| align="right" | 4288
+| align="right" | 60724
+| align="right" | 142570
+| align="right" | 42.6%
+|-
+| Murcia
+| align="right" | 636767
+| align="right" | 38684
+| align="right" | 5676
+| align="right" | 38684
+| align="right" | 642443
+| align="right" | 1460043
+| align="right" | 44.0%
+|-
+| Torre Pacheco
+| align="right" | 31920
+| align="right" | 17755
+| align="right" | 298
+| align="right" | 17755
+| align="right" | 32218
+| align="right" | 280022
+| align="right" | 11.5%
+|-
+| Alhama de Murcia
+| align="right" | 49778
+| align="right" | 2859
+| align="right" | 399
+| align="right" | 2859
+| align="right" | 50177
+| align="right" | 126119
+| align="right" | 39.8%
+|-
+| Mazarrón
+| align="right" | 75475
+| align="right" | 3752
+| align="right" | 0
+| align="right" | 3752
+| align="right" | 75475
+| align="right" | 162579
+| align="right" | 46.4%
+|-
+| Alguazas
+| align="right" | 8528
+| align="right" | 544
+| align="right" | 0
+| align="right" | 544
+| align="right" | 8528
+| align="right" | 29511
+| align="right" | 28.9%
+|-
+| Pliego
+| align="right" | 1374
+| align="right" | 515
+| align="right" | 0
+| align="right" | 515
+| align="right" | 1374
+| align="right" | 20565
+| align="right" | 6.7%
+|-
+| Bullas
+| align="right" | 18346
+| align="right" | 726
+| align="right" | 151
+| align="right" | 726
+| align="right" | 18497
+| align="right" | 64285
+| align="right" | 28.8%
+|-
+| San Javier
+| align="right" | 32413
+| align="right" | 7385
+| align="right" | 810
+| align="right" | 7385
+| align="right" | 33223
+| align="right" | 196167
+| align="right" | 16.9%
+|-
+| Jumilla
+| align="right" | 21520
+| align="right" | 2851
+| align="right" | 979
+| align="right" | 2851
+| align="right" | 22498
+| align="right" | 64090
+| align="right" | 35.1%
+|-
+| Campos del Río
+| align="right" | 539
+| align="right" | 233
+| align="right" | 0
+| align="right" | 233
+| align="right" | 539
+| align="right" | 9056
+| align="right" | 5.9%
+|-
+| Villanueva del Río Segura
+| align="right" | 1772
+| align="right" | 268
+| align="right" | 0
+| align="right" | 268
+| align="right" | 1772
+| align="right" | 13679
+| align="right" | 13.0%
+|-
+| Lorca
+| align="right" | 82626
+| align="right" | 19112
+| align="right" | 977
+| align="right" | 19112
+| align="right" | 83603
+| align="right" | 208484
+| align="right" | 40.1%
+|-
+| Lorquí
+| align="right" | 15910
+| align="right" | 1076
+| align="right" | 201
+| align="right" | 1076
+| align="right" | 16111
+| align="right" | 70242
+| align="right" | 22.9%
+|-
+| San Pedro del Pinatar
+| align="right" | 19999
+| align="right" | 2233
+| align="right" | 883
+| align="right" | 2233
+| align="right" | 20882
+| align="right" | 145751
+| align="right" | 14.3%
+|-
+| Ulea
+| align="right" | 365
+| align="right" | 333
+| align="right" | 0
+| align="right" | 333
+| align="right" | 365
+| align="right" | 4668
+| align="right" | 7.8%
+|-
+| Calasparra
+| align="right" | 21616
+| align="right" | 1069
+| align="right" | 100
+| align="right" | 1069
+| align="right" | 21716
+| align="right" | 63936
+| align="right" | 34.0%
+|-
+| Moratalla
+| align="right" | 25508
+| align="right" | 6428
+| align="right" | 0
+| align="right" | 6428
+| align="right" | 25508
+| align="right" | 45231
+| align="right" | 56.4%
+|-
+| Cieza
+| align="right" | 6553
+| align="right" | 1576
+| align="right" | 428
+| align="right" | 1576
+| align="right" | 6981
+| align="right" | 41912
+| align="right" | 16.7%
+|-
+| Archena
+| align="right" | 6471
+| align="right" | 1129
+| align="right" | 2016
+| align="right" | 1129
+| align="right" | 8487
+| align="right" | 69349
+| align="right" | 12.2%
+|-
+| Aledo
+| align="right" | 2514
+| align="right" | 297
+| align="right" | 0
+| align="right" | 297
+| align="right" | 2514
+| align="right" | 8044
+| align="right" | 31.3%
+|-
+|}
