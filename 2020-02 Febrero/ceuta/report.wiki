@@ -1,0 +1,22 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Ceuta
+| align="right" | 15699
+| align="right" | 1743
+| align="right" | 0
+| align="right" | 1743
+| align="right" | 15699
+| align="right" | 83367
+| align="right" | 18.8%
+|-
+|}
