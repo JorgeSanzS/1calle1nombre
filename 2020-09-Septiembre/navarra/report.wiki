@@ -1,0 +1,2803 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| Etxalar
+| align="right" | 0
+| align="right" | 1581
+| align="right" | 0
+| align="right" | 1581
+| align="right" | 0
+| align="right" | 4058
+| align="right" | 0.0%
+|-
+| Arellano
+| align="right" | 43
+| align="right" | 73
+| align="right" | 0
+| align="right" | 73
+| align="right" | 43
+| align="right" | 2916
+| align="right" | 1.5%
+|-
+| Orbaitzeta
+| align="right" | 0
+| align="right" | 629
+| align="right" | 0
+| align="right" | 629
+| align="right" | 0
+| align="right" | 3292
+| align="right" | 0.0%
+|-
+| Lana
+| align="right" | 0
+| align="right" | 313
+| align="right" | 110
+| align="right" | 313
+| align="right" | 110
+| align="right" | 5668
+| align="right" | 1.9%
+|-
+| Mañeru
+| align="right" | 126
+| align="right" | 147
+| align="right" | 0
+| align="right" | 147
+| align="right" | 126
+| align="right" | 3371
+| align="right" | 3.7%
+|-
+| Oco
+| align="right" | 21
+| align="right" | 37
+| align="right" | 0
+| align="right" | 37
+| align="right" | 21
+| align="right" | 1629
+| align="right" | 1.3%
+|-
+| Facería 62
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Pamplona/Iruña
+| align="right" | 3738
+| align="right" | 11595
+| align="right" | 0
+| align="right" | 11595
+| align="right" | 3738
+| align="right" | 221150
+| align="right" | 1.7%
+|-
+| Burlada/Burlata
+| align="right" | 750
+| align="right" | 892
+| align="right" | 69
+| align="right" | 892
+| align="right" | 819
+| align="right" | 20055
+| align="right" | 4.1%
+|-
+| Mues
+| align="right" | 53
+| align="right" | 76
+| align="right" | 0
+| align="right" | 76
+| align="right" | 53
+| align="right" | 2565
+| align="right" | 2.1%
+|-
+| Sangüesa/Zangoza
+| align="right" | 1135
+| align="right" | 1659
+| align="right" | 0
+| align="right" | 1659
+| align="right" | 1135
+| align="right" | 16074
+| align="right" | 7.1%
+|-
+| Izagaondoa
+| align="right" | 0
+| align="right" | 303
+| align="right" | 0
+| align="right" | 303
+| align="right" | 0
+| align="right" | 4925
+| align="right" | 0.0%
+|-
+| Sarriés/Sartze
+| align="right" | 0
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 0
+| align="right" | 924
+| align="right" | 0.0%
+|-
+| Orbara
+| align="right" | 0
+| align="right" | 97
+| align="right" | 0
+| align="right" | 97
+| align="right" | 0
+| align="right" | 1195
+| align="right" | 0.0%
+|-
+| Baztan
+| align="right" | 5526
+| align="right" | 10040
+| align="right" | 590
+| align="right" | 10040
+| align="right" | 6115
+| align="right" | 47751
+| align="right" | 12.8%
+|-
+| Fontellas
+| align="right" | 460
+| align="right" | 311
+| align="right" | 0
+| align="right" | 311
+| align="right" | 460
+| align="right" | 7723
+| align="right" | 6.0%
+|-
+| Genevilla
+| align="right" | 0
+| align="right" | 45
+| align="right" | 95
+| align="right" | 45
+| align="right" | 95
+| align="right" | 1960
+| align="right" | 4.8%
+|-
+| Facería 67
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Urraul Bajo
+| align="right" | 26
+| align="right" | 313
+| align="right" | 0
+| align="right" | 313
+| align="right" | 26
+| align="right" | 8176
+| align="right" | 0.3%
+|-
+| Améscoa Baja
+| align="right" | 119
+| align="right" | 651
+| align="right" | 36
+| align="right" | 651
+| align="right" | 155
+| align="right" | 11879
+| align="right" | 1.3%
+|-
+| Metauten
+| align="right" | 0
+| align="right" | 290
+| align="right" | 63
+| align="right" | 290
+| align="right" | 63
+| align="right" | 5722
+| align="right" | 1.1%
+|-
+| Oteiza
+| align="right" | 472
+| align="right" | 165
+| align="right" | 0
+| align="right" | 165
+| align="right" | 472
+| align="right" | 6628
+| align="right" | 7.1%
+|-
+| Aibar/Oibar
+| align="right" | 264
+| align="right" | 259
+| align="right" | 0
+| align="right" | 259
+| align="right" | 264
+| align="right" | 7768
+| align="right" | 3.4%
+|-
+| Sada
+| align="right" | 313
+| align="right" | 63
+| align="right" | 0
+| align="right" | 63
+| align="right" | 313
+| align="right" | 3410
+| align="right" | 9.2%
+|-
+| Igantzi
+| align="right" | 0
+| align="right" | 829
+| align="right" | 0
+| align="right" | 829
+| align="right" | 0
+| align="right" | 3839
+| align="right" | 0.0%
+|-
+| Sartaguda
+| align="right" | 404
+| align="right" | 409
+| align="right" | 14
+| align="right" | 409
+| align="right" | 418
+| align="right" | 11145
+| align="right" | 3.8%
+|-
+| Ituren
+| align="right" | 13
+| align="right" | 881
+| align="right" | 114
+| align="right" | 881
+| align="right" | 127
+| align="right" | 4041
+| align="right" | 3.1%
+|-
+| Urdazubi/Urdax
+| align="right" | 252
+| align="right" | 727
+| align="right" | 86
+| align="right" | 727
+| align="right" | 338
+| align="right" | 4340
+| align="right" | 7.8%
+|-
+| Ablitas
+| align="right" | 308
+| align="right" | 375
+| align="right" | 0
+| align="right" | 375
+| align="right" | 308
+| align="right" | 14575
+| align="right" | 2.1%
+|-
+| Facería 39
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| San Adrián
+| align="right" | 502
+| align="right" | 464
+| align="right" | 0
+| align="right" | 464
+| align="right" | 502
+| align="right" | 29004
+| align="right" | 1.7%
+|-
+| Facería 30
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 31
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 32
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Irurtzun
+| align="right" | 0
+| align="right" | 236
+| align="right" | 0
+| align="right" | 236
+| align="right" | 0
+| align="right" | 6386
+| align="right" | 0.0%
+|-
+| Funes
+| align="right" | 3358
+| align="right" | 447
+| align="right" | 0
+| align="right" | 447
+| align="right" | 3358
+| align="right" | 14835
+| align="right" | 22.6%
+|-
+| Jaurrieta
+| align="right" | 0
+| align="right" | 121
+| align="right" | 0
+| align="right" | 121
+| align="right" | 0
+| align="right" | 2358
+| align="right" | 0.0%
+|-
+| Facería 37
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Eslava
+| align="right" | 5645
+| align="right" | 99
+| align="right" | 0
+| align="right" | 99
+| align="right" | 5645
+| align="right" | 9535
+| align="right" | 59.2%
+|-
+| Esparza de Salazar
+| align="right" | 0
+| align="right" | 46
+| align="right" | 0
+| align="right" | 46
+| align="right" | 0
+| align="right" | 2004
+| align="right" | 0.0%
+|-
+| Aralar mendilerroa / Sierra de Aralar
+| align="right" | 0
+| align="right" | 1345
+| align="right" | 0
+| align="right" | 1345
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Isaba/Izaba
+| align="right" | 0
+| align="right" | 611
+| align="right" | 0
+| align="right" | 611
+| align="right" | 0
+| align="right" | 3050
+| align="right" | 0.0%
+|-
+| Andosilla
+| align="right" | 737
+| align="right" | 326
+| align="right" | 0
+| align="right" | 326
+| align="right" | 737
+| align="right" | 15202
+| align="right" | 4.8%
+|-
+| Oroz-Betelu / Orotz-Betelu
+| align="right" | 6
+| align="right" | 266
+| align="right" | 0
+| align="right" | 266
+| align="right" | 6
+| align="right" | 2584
+| align="right" | 0.2%
+|-
+| Facería 50
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Ansoáin/Antsoain
+| align="right" | 0
+| align="right" | 321
+| align="right" | 0
+| align="right" | 321
+| align="right" | 0
+| align="right" | 10024
+| align="right" | 0.0%
+|-
+| Peralta
+| align="right" | 2456
+| align="right" | 692
+| align="right" | 0
+| align="right" | 692
+| align="right" | 2456
+| align="right" | 23971
+| align="right" | 10.2%
+|-
+| Saldias
+| align="right" | 0
+| align="right" | 350
+| align="right" | 0
+| align="right" | 350
+| align="right" | 0
+| align="right" | 825
+| align="right" | 0.0%
+|-
+| Facería 55
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Goizueta
+| align="right" | 0
+| align="right" | 1378
+| align="right" | 0
+| align="right" | 1378
+| align="right" | 0
+| align="right" | 5451
+| align="right" | 0.0%
+|-
+| Pitillas
+| align="right" | 0
+| align="right" | 178
+| align="right" | 0
+| align="right" | 178
+| align="right" | 0
+| align="right" | 6419
+| align="right" | 0.0%
+|-
+| Irañeta
+| align="right" | 0
+| align="right" | 276
+| align="right" | 0
+| align="right" | 276
+| align="right" | 0
+| align="right" | 2697
+| align="right" | 0.0%
+|-
+| Larraun
+| align="right" | 96
+| align="right" | 1809
+| align="right" | 34
+| align="right" | 1809
+| align="right" | 131
+| align="right" | 15914
+| align="right" | 0.8%
+|-
+| Ujué / Uxue
+| align="right" | 0
+| align="right" | 291
+| align="right" | 63
+| align="right" | 291
+| align="right" | 63
+| align="right" | 4657
+| align="right" | 1.3%
+|-
+| Piedramillera
+| align="right" | 37
+| align="right" | 58
+| align="right" | 0
+| align="right" | 58
+| align="right" | 37
+| align="right" | 1707
+| align="right" | 2.2%
+|-
+| Orísoain
+| align="right" | 220
+| align="right" | 73
+| align="right" | 0
+| align="right" | 73
+| align="right" | 220
+| align="right" | 1152
+| align="right" | 19.1%
+|-
+| Erro
+| align="right" | 122
+| align="right" | 1826
+| align="right" | 1502
+| align="right" | 1826
+| align="right" | 1624
+| align="right" | 16334
+| align="right" | 9.9%
+|-
+| Urroz
+| align="right" | 0
+| align="right" | 133
+| align="right" | 0
+| align="right" | 133
+| align="right" | 0
+| align="right" | 3420
+| align="right" | 0.0%
+|-
+| Ibargoiti
+| align="right" | 0
+| align="right" | 489
+| align="right" | 0
+| align="right" | 489
+| align="right" | 0
+| align="right" | 6413
+| align="right" | 0.0%
+|-
+| Dicastillo
+| align="right" | 0
+| align="right" | 137
+| align="right" | 0
+| align="right" | 137
+| align="right" | 0
+| align="right" | 4374
+| align="right" | 0.0%
+|-
+| Puente la Reina/Gares
+| align="right" | 0
+| align="right" | 523
+| align="right" | 0
+| align="right" | 523
+| align="right" | 0
+| align="right" | 12329
+| align="right" | 0.0%
+|-
+| Zabalza
+| align="right" | 0
+| align="right" | 136
+| align="right" | 0
+| align="right" | 136
+| align="right" | 0
+| align="right" | 3587
+| align="right" | 0.0%
+|-
+| Castillonuevo
+| align="right" | 0
+| align="right" | 116
+| align="right" | 0
+| align="right" | 116
+| align="right" | 0
+| align="right" | 555
+| align="right" | 0.0%
+|-
+| Cirauqui
+| align="right" | 96
+| align="right" | 398
+| align="right" | 0
+| align="right" | 398
+| align="right" | 96
+| align="right" | 5973
+| align="right" | 1.6%
+|-
+| Arróniz
+| align="right" | 22
+| align="right" | 250
+| align="right" | 0
+| align="right" | 250
+| align="right" | 22
+| align="right" | 6795
+| align="right" | 0.3%
+|-
+| Zizur Mayor/Zizur Nagusia
+| align="right" | 58
+| align="right" | 1854
+| align="right" | 0
+| align="right" | 1854
+| align="right" | 58
+| align="right" | 32309
+| align="right" | 0.2%
+|-
+| Obanos
+| align="right" | 0
+| align="right" | 300
+| align="right" | 0
+| align="right" | 300
+| align="right" | 0
+| align="right" | 13494
+| align="right" | 0.0%
+|-
+| Murillo el Fruto
+| align="right" | 82
+| align="right" | 173
+| align="right" | 0
+| align="right" | 173
+| align="right" | 82
+| align="right" | 7043
+| align="right" | 1.2%
+|-
+| Abaurrepea/Abaurrea Baja
+| align="right" | 0
+| align="right" | 117
+| align="right" | 0
+| align="right" | 117
+| align="right" | 0
+| align="right" | 852
+| align="right" | 0.0%
+|-
+| Valle de Egüés/Eguesibar
+| align="right" | 4814
+| align="right" | 2652
+| align="right" | 0
+| align="right" | 2652
+| align="right" | 4814
+| align="right" | 60345
+| align="right" | 8.0%
+|-
+| Torralba del Río
+| align="right" | 163
+| align="right" | 136
+| align="right" | 71
+| align="right" | 136
+| align="right" | 234
+| align="right" | 2729
+| align="right" | 8.6%
+|-
+| Buñuel
+| align="right" | 1239
+| align="right" | 464
+| align="right" | 0
+| align="right" | 464
+| align="right" | 1239
+| align="right" | 18075
+| align="right" | 6.9%
+|-
+| Lakuntza
+| align="right" | 0
+| align="right" | 418
+| align="right" | 0
+| align="right" | 418
+| align="right" | 0
+| align="right" | 5790
+| align="right" | 0.0%
+|-
+| Doneztebe/Santesteban
+| align="right" | 0
+| align="right" | 764
+| align="right" | 0
+| align="right" | 764
+| align="right" | 0
+| align="right" | 5913
+| align="right" | 0.0%
+|-
+| Bidaurreta
+| align="right" | 0
+| align="right" | 141
+| align="right" | 0
+| align="right" | 141
+| align="right" | 0
+| align="right" | 1762
+| align="right" | 0.0%
+|-
+| Etxarri-Aranatz
+| align="right" | 52
+| align="right" | 965
+| align="right" | 0
+| align="right" | 965
+| align="right" | 52
+| align="right" | 13324
+| align="right" | 0.4%
+|-
+| Vidángoz/Bidankoze
+| align="right" | 0
+| align="right" | 168
+| align="right" | 0
+| align="right" | 168
+| align="right" | 0
+| align="right" | 1832
+| align="right" | 0.0%
+|-
+| Facería 29
+| align="right" | 0
+| align="right" | 8
+| align="right" | 0
+| align="right" | 8
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 28
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 26
+| align="right" | 0
+| align="right" | 13
+| align="right" | 0
+| align="right" | 13
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 24
+| align="right" | 0
+| align="right" | 19
+| align="right" | 0
+| align="right" | 19
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Lekunberri
+| align="right" | 172
+| align="right" | 831
+| align="right" | 0
+| align="right" | 831
+| align="right" | 172
+| align="right" | 12995
+| align="right" | 1.3%
+|-
+| Facería 22
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 21
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 49
+| align="right" | 0
+| align="right" | 9
+| align="right" | 0
+| align="right" | 9
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Aranguren
+| align="right" | 1865
+| align="right" | 2424
+| align="right" | 391
+| align="right" | 2424
+| align="right" | 2257
+| align="right" | 39241
+| align="right" | 5.8%
+|-
+| Etxauri
+| align="right" | 285
+| align="right" | 148
+| align="right" | 0
+| align="right" | 148
+| align="right" | 285
+| align="right" | 5579
+| align="right" | 5.1%
+|-
+| Facería 40
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 43
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Tudela
+| align="right" | 14620
+| align="right" | 4304
+| align="right" | 0
+| align="right" | 4304
+| align="right" | 14620
+| align="right" | 79511
+| align="right" | 18.4%
+|-
+| Facería 45
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Iturmendi
+| align="right" | 900
+| align="right" | 280
+| align="right" | 0
+| align="right" | 280
+| align="right" | 900
+| align="right" | 4332
+| align="right" | 20.8%
+|-
+| Olóriz
+| align="right" | 142
+| align="right" | 307
+| align="right" | 0
+| align="right" | 307
+| align="right" | 142
+| align="right" | 5054
+| align="right" | 2.8%
+|-
+| Artajona
+| align="right" | 264
+| align="right" | 446
+| align="right" | 0
+| align="right" | 446
+| align="right" | 264
+| align="right" | 11353
+| align="right" | 2.3%
+|-
+| Luzaide/Valcarlos
+| align="right" | 32
+| align="right" | 410
+| align="right" | 0
+| align="right" | 410
+| align="right" | 32
+| align="right" | 1347
+| align="right" | 2.4%
+|-
+| Oronz
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 29
+| align="right" | 0
+| align="right" | 894
+| align="right" | 0.0%
+|-
+| Añorbe
+| align="right" | 16
+| align="right" | 156
+| align="right" | 0
+| align="right" | 156
+| align="right" | 16
+| align="right" | 4524
+| align="right" | 0.4%
+|-
+| Izalzu/Itzaltzu
+| align="right" | 0
+| align="right" | 71
+| align="right" | 0
+| align="right" | 71
+| align="right" | 0
+| align="right" | 432
+| align="right" | 0.0%
+|-
+| Barillas
+| align="right" | 44
+| align="right" | 160
+| align="right" | 0
+| align="right" | 160
+| align="right" | 44
+| align="right" | 3485
+| align="right" | 1.3%
+|-
+| Ezkurra
+| align="right" | 0
+| align="right" | 542
+| align="right" | 0
+| align="right" | 542
+| align="right" | 0
+| align="right" | 2000
+| align="right" | 0.0%
+|-
+| Lodosa
+| align="right" | 299
+| align="right" | 567
+| align="right" | 0
+| align="right" | 567
+| align="right" | 299
+| align="right" | 18089
+| align="right" | 1.7%
+|-
+| Cáseda
+| align="right" | 0
+| align="right" | 236
+| align="right" | 1474
+| align="right" | 236
+| align="right" | 1474
+| align="right" | 11474
+| align="right" | 12.8%
+|-
+| Urrotz
+| align="right" | 0
+| align="right" | 303
+| align="right" | 0
+| align="right" | 303
+| align="right" | 0
+| align="right" | 736
+| align="right" | 0.0%
+|-
+| Bakaiku
+| align="right" | 0
+| align="right" | 259
+| align="right" | 0
+| align="right" | 259
+| align="right" | 0
+| align="right" | 2822
+| align="right" | 0.0%
+|-
+| Yesa
+| align="right" | 0
+| align="right" | 321
+| align="right" | 0
+| align="right" | 321
+| align="right" | 0
+| align="right" | 6312
+| align="right" | 0.0%
+|-
+| Gallués/Galoze
+| align="right" | 0
+| align="right" | 80
+| align="right" | 0
+| align="right" | 80
+| align="right" | 0
+| align="right" | 1886
+| align="right" | 0.0%
+|-
+| Unzué
+| align="right" | 44
+| align="right" | 166
+| align="right" | 0
+| align="right" | 166
+| align="right" | 44
+| align="right" | 4083
+| align="right" | 1.1%
+|-
+| Abáigar
+| align="right" | 222
+| align="right" | 57
+| align="right" | 0
+| align="right" | 57
+| align="right" | 222
+| align="right" | 1835
+| align="right" | 12.1%
+|-
+| Garde
+| align="right" | 0
+| align="right" | 275
+| align="right" | 0
+| align="right" | 275
+| align="right" | 0
+| align="right" | 1740
+| align="right" | 0.0%
+|-
+| Sesma
+| align="right" | 107
+| align="right" | 175
+| align="right" | 0
+| align="right" | 175
+| align="right" | 107
+| align="right" | 10419
+| align="right" | 1.0%
+|-
+| Liédena
+| align="right" | 133
+| align="right" | 269
+| align="right" | 0
+| align="right" | 269
+| align="right" | 133
+| align="right" | 5068
+| align="right" | 2.6%
+|-
+| Uterga
+| align="right" | 0
+| align="right" | 72
+| align="right" | 0
+| align="right" | 72
+| align="right" | 0
+| align="right" | 2076
+| align="right" | 0.0%
+|-
+| Aberin
+| align="right" | 0
+| align="right" | 105
+| align="right" | 54
+| align="right" | 105
+| align="right" | 54
+| align="right" | 2944
+| align="right" | 1.8%
+|-
+| Bera
+| align="right" | 108
+| align="right" | 2028
+| align="right" | 27
+| align="right" | 2028
+| align="right" | 135
+| align="right" | 8634
+| align="right" | 1.6%
+|-
+| Valtierra
+| align="right" | 352
+| align="right" | 614
+| align="right" | 51
+| align="right" | 614
+| align="right" | 403
+| align="right" | 15452
+| align="right" | 2.6%
+|-
+| Anue
+| align="right" | 37
+| align="right" | 560
+| align="right" | 0
+| align="right" | 560
+| align="right" | 37
+| align="right" | 5593
+| align="right" | 0.7%
+|-
+| Beintza-Labaien
+| align="right" | 0
+| align="right" | 776
+| align="right" | 643
+| align="right" | 776
+| align="right" | 643
+| align="right" | 5082
+| align="right" | 12.7%
+|-
+| Mirafuentes
+| align="right" | 0
+| align="right" | 19
+| align="right" | 0
+| align="right" | 19
+| align="right" | 0
+| align="right" | 940
+| align="right" | 0.0%
+|-
+| Lazagurría
+| align="right" | 0
+| align="right" | 55
+| align="right" | 0
+| align="right" | 55
+| align="right" | 0
+| align="right" | 3090
+| align="right" | 0.0%
+|-
+| Odieta
+| align="right" | 0
+| align="right" | 304
+| align="right" | 0
+| align="right" | 304
+| align="right" | 0
+| align="right" | 3852
+| align="right" | 0.0%
+|-
+| Cascante
+| align="right" | 1657
+| align="right" | 455
+| align="right" | 338
+| align="right" | 455
+| align="right" | 1995
+| align="right" | 14781
+| align="right" | 13.5%
+|-
+| Leitza
+| align="right" | 0
+| align="right" | 1738
+| align="right" | 0
+| align="right" | 1738
+| align="right" | 0
+| align="right" | 8619
+| align="right" | 0.0%
+|-
+| Facería 79
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Cizur
+| align="right" | 757
+| align="right" | 2563
+| align="right" | 0
+| align="right" | 2563
+| align="right" | 757
+| align="right" | 24049
+| align="right" | 3.1%
+|-
+| Facería 76
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Belascoáin
+| align="right" | 0
+| align="right" | 131
+| align="right" | 0
+| align="right" | 131
+| align="right" | 0
+| align="right" | 1996
+| align="right" | 0.0%
+|-
+| Olza
+| align="right" | 425
+| align="right" | 1223
+| align="right" | 521
+| align="right" | 1223
+| align="right" | 946
+| align="right" | 16559
+| align="right" | 5.7%
+|-
+| Olazti / Olazagutía
+| align="right" | 34
+| align="right" | 601
+| align="right" | 0
+| align="right" | 601
+| align="right" | 34
+| align="right" | 6274
+| align="right" | 0.5%
+|-
+| Unciti
+| align="right" | 0
+| align="right" | 475
+| align="right" | 0
+| align="right" | 475
+| align="right" | 0
+| align="right" | 5869
+| align="right" | 0.0%
+|-
+| Barásoain
+| align="right" | 1507
+| align="right" | 112
+| align="right" | 0
+| align="right" | 112
+| align="right" | 1507
+| align="right" | 6302
+| align="right" | 23.9%
+|-
+| Facería 9
+| align="right" | 0
+| align="right" | 22
+| align="right" | 0
+| align="right" | 22
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Mendigorria
+| align="right" | 127
+| align="right" | 306
+| align="right" | 0
+| align="right" | 306
+| align="right" | 127
+| align="right" | 6553
+| align="right" | 1.9%
+|-
+| Murieta
+| align="right" | 632
+| align="right" | 69
+| align="right" | 0
+| align="right" | 69
+| align="right" | 632
+| align="right" | 4533
+| align="right" | 13.9%
+|-
+| Azuelo
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 1059
+| align="right" | 0.0%
+|-
+| Facería 104
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Urraul Alto
+| align="right" | 0
+| align="right" | 497
+| align="right" | 0
+| align="right" | 497
+| align="right" | 0
+| align="right" | 4806
+| align="right" | 0.0%
+|-
+| Leoz
+| align="right" | 139
+| align="right" | 505
+| align="right" | 408
+| align="right" | 505
+| align="right" | 547
+| align="right" | 7813
+| align="right" | 7.0%
+|-
+| Berrioplano
+| align="right" | 2663
+| align="right" | 1641
+| align="right" | 0
+| align="right" | 1641
+| align="right" | 2663
+| align="right" | 29278
+| align="right" | 9.1%
+|-
+| Barbarin
+| align="right" | 0
+| align="right" | 45
+| align="right" | 0
+| align="right" | 45
+| align="right" | 0
+| align="right" | 1457
+| align="right" | 0.0%
+|-
+| Noáin (Valle de Elorz)/Noain (Elortzibar)
+| align="right" | 2846
+| align="right" | 2064
+| align="right" | 6
+| align="right" | 2064
+| align="right" | 2852
+| align="right" | 29333
+| align="right" | 9.7%
+|-
+| Ribaforada
+| align="right" | 3581
+| align="right" | 405
+| align="right" | 0
+| align="right" | 405
+| align="right" | 3581
+| align="right" | 18962
+| align="right" | 18.9%
+|-
+| San Martín de Unx
+| align="right" | 125
+| align="right" | 270
+| align="right" | 0
+| align="right" | 270
+| align="right" | 125
+| align="right" | 6028
+| align="right" | 2.1%
+|-
+| Biurrun-Olcoz
+| align="right" | 271
+| align="right" | 191
+| align="right" | 0
+| align="right" | 191
+| align="right" | 271
+| align="right" | 5615
+| align="right" | 4.8%
+|-
+| Arguedas
+| align="right" | 428
+| align="right" | 701
+| align="right" | 0
+| align="right" | 701
+| align="right" | 428
+| align="right" | 12734
+| align="right" | 3.4%
+|-
+| Cabredo
+| align="right" | 0
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Ultzama
+| align="right" | 117
+| align="right" | 1108
+| align="right" | 0
+| align="right" | 1108
+| align="right" | 117
+| align="right" | 14282
+| align="right" | 0.8%
+|-
+| Fustiñana
+| align="right" | 448
+| align="right" | 315
+| align="right" | 0
+| align="right" | 315
+| align="right" | 448
+| align="right" | 15335
+| align="right" | 2.9%
+|-
+| Murillo el Cuende
+| align="right" | 1295
+| align="right" | 279
+| align="right" | 0
+| align="right" | 279
+| align="right" | 1295
+| align="right" | 7902
+| align="right" | 16.4%
+|-
+| Elgorriaga
+| align="right" | 0
+| align="right" | 251
+| align="right" | 41
+| align="right" | 251
+| align="right" | 41
+| align="right" | 1159
+| align="right" | 3.5%
+|-
+| Cabanillas
+| align="right" | 0
+| align="right" | 264
+| align="right" | 0
+| align="right" | 264
+| align="right" | 0
+| align="right" | 8840
+| align="right" | 0.0%
+|-
+| Ezprogui
+| align="right" | 0
+| align="right" | 141
+| align="right" | 0
+| align="right" | 141
+| align="right" | 0
+| align="right" | 1418
+| align="right" | 0.0%
+|-
+| Valle de Yerri
+| align="right" | 471
+| align="right" | 1193
+| align="right" | 0
+| align="right" | 1193
+| align="right" | 471
+| align="right" | 22937
+| align="right" | 2.1%
+|-
+| Lónguida/Longida
+| align="right" | 250
+| align="right" | 389
+| align="right" | 0
+| align="right" | 389
+| align="right" | 250
+| align="right" | 6551
+| align="right" | 3.8%
+|-
+| Romanzado
+| align="right" | 0
+| align="right" | 282
+| align="right" | 0
+| align="right" | 282
+| align="right" | 0
+| align="right" | 4197
+| align="right" | 0.0%
+|-
+| Legarda
+| align="right" | 0
+| align="right" | 117
+| align="right" | 0
+| align="right" | 117
+| align="right" | 0
+| align="right" | 1480
+| align="right" | 0.0%
+|-
+| Monte Común de las Améscoas/Ameskoa mendiak
+| align="right" | 0
+| align="right" | 222
+| align="right" | 0
+| align="right" | 222
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Bardenas Reales de Navarra
+| align="right" | 0
+| align="right" | 1290
+| align="right" | 0
+| align="right" | 1290
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Bargota
+| align="right" | 73
+| align="right" | 135
+| align="right" | 0
+| align="right" | 135
+| align="right" | 73
+| align="right" | 3845
+| align="right" | 1.9%
+|-
+| Larraona
+| align="right" | 0
+| align="right" | 55
+| align="right" | 0
+| align="right" | 55
+| align="right" | 0
+| align="right" | 2247
+| align="right" | 0.0%
+|-
+| Arce/Artzi
+| align="right" | 103
+| align="right" | 765
+| align="right" | 0
+| align="right" | 765
+| align="right" | 103
+| align="right" | 6542
+| align="right" | 1.6%
+|-
+| Enériz/Eneritz
+| align="right" | 68
+| align="right" | 96
+| align="right" | 0
+| align="right" | 96
+| align="right" | 68
+| align="right" | 4089
+| align="right" | 1.7%
+|-
+| Facería 91
+| align="right" | 0
+| align="right" | 12
+| align="right" | 0
+| align="right" | 12
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Desojo
+| align="right" | 58
+| align="right" | 48
+| align="right" | 0
+| align="right" | 48
+| align="right" | 58
+| align="right" | 2096
+| align="right" | 2.8%
+|-
+| Ezcároz/Ezkaroze
+| align="right" | 0
+| align="right" | 110
+| align="right" | 0
+| align="right" | 110
+| align="right" | 0
+| align="right" | 1879
+| align="right" | 0.0%
+|-
+| Roncal/Erronkari
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 1966
+| align="right" | 0.0%
+|-
+| Abaurregaina/Abaurrea Alta
+| align="right" | 664
+| align="right" | 256
+| align="right" | 0
+| align="right" | 256
+| align="right" | 664
+| align="right" | 3226
+| align="right" | 20.6%
+|-
+| Corella
+| align="right" | 1440
+| align="right" | 781
+| align="right" | 0
+| align="right" | 781
+| align="right" | 1440
+| align="right" | 29468
+| align="right" | 4.9%
+|-
+| Lapoblación
+| align="right" | 124
+| align="right" | 140
+| align="right" | 0
+| align="right" | 140
+| align="right" | 124
+| align="right" | 4808
+| align="right" | 2.6%
+|-
+| Olaibar
+| align="right" | 0
+| align="right" | 465
+| align="right" | 0
+| align="right" | 465
+| align="right" | 0
+| align="right" | 3885
+| align="right" | 0.0%
+|-
+| Urzainqui
+| align="right" | 0
+| align="right" | 43
+| align="right" | 0
+| align="right" | 43
+| align="right" | 0
+| align="right" | 1756
+| align="right" | 0.0%
+|-
+| Pueyo / Puiu
+| align="right" | 0
+| align="right" | 185
+| align="right" | 0
+| align="right" | 185
+| align="right" | 0
+| align="right" | 7296
+| align="right" | 0.0%
+|-
+| Lantz
+| align="right" | 95
+| align="right" | 229
+| align="right" | 0
+| align="right" | 229
+| align="right" | 95
+| align="right" | 1738
+| align="right" | 5.5%
+|-
+| Hiriberri/Villanueva de Aezkoa
+| align="right" | 0
+| align="right" | 195
+| align="right" | 0
+| align="right" | 195
+| align="right" | 0
+| align="right" | 2304
+| align="right" | 0.0%
+|-
+| Facería 83
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 4
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Uharte-Arakil
+| align="right" | 0
+| align="right" | 729
+| align="right" | 0
+| align="right" | 729
+| align="right" | 0
+| align="right" | 5675
+| align="right" | 0.0%
+|-
+| Eulate
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 67
+| align="right" | 0
+| align="right" | 4357
+| align="right" | 0.0%
+|-
+| Morentin
+| align="right" | 56
+| align="right" | 68
+| align="right" | 0
+| align="right" | 68
+| align="right" | 56
+| align="right" | 2427
+| align="right" | 2.3%
+|-
+| Legaria
+| align="right" | 258
+| align="right" | 60
+| align="right" | 0
+| align="right" | 60
+| align="right" | 258
+| align="right" | 3324
+| align="right" | 7.7%
+|-
+| Imotz
+| align="right" | 111
+| align="right" | 468
+| align="right" | 0
+| align="right" | 468
+| align="right" | 111
+| align="right" | 6711
+| align="right" | 1.7%
+|-
+| Ergoiena
+| align="right" | 0
+| align="right" | 629
+| align="right" | 670
+| align="right" | 629
+| align="right" | 670
+| align="right" | 6512
+| align="right" | 10.3%
+|-
+| Etayo
+| align="right" | 0
+| align="right" | 54
+| align="right" | 0
+| align="right" | 54
+| align="right" | 0
+| align="right" | 1776
+| align="right" | 0.0%
+|-
+| Villatuerta
+| align="right" | 427
+| align="right" | 691
+| align="right" | 0
+| align="right" | 691
+| align="right" | 427
+| align="right" | 16444
+| align="right" | 2.6%
+|-
+| Garralda
+| align="right" | 38
+| align="right" | 281
+| align="right" | 0
+| align="right" | 281
+| align="right" | 38
+| align="right" | 3416
+| align="right" | 1.1%
+|-
+| Auritz/Burguete
+| align="right" | 152
+| align="right" | 330
+| align="right" | 0
+| align="right" | 330
+| align="right" | 152
+| align="right" | 2388
+| align="right" | 6.3%
+|-
+| Estella-Lizarra
+| align="right" | 1638
+| align="right" | 1575
+| align="right" | 261
+| align="right" | 1575
+| align="right" | 1900
+| align="right" | 30842
+| align="right" | 6.2%
+|-
+| Huarte/Uharte
+| align="right" | 1034
+| align="right" | 1007
+| align="right" | 0
+| align="right" | 1007
+| align="right" | 1034
+| align="right" | 13956
+| align="right" | 7.4%
+|-
+| Luquin
+| align="right" | 14
+| align="right" | 82
+| align="right" | 0
+| align="right" | 82
+| align="right" | 14
+| align="right" | 1914
+| align="right" | 0.7%
+|-
+| Igúzquiza
+| align="right" | 729
+| align="right" | 389
+| align="right" | 21
+| align="right" | 389
+| align="right" | 750
+| align="right" | 5062
+| align="right" | 14.8%
+|-
+| Guesálaz
+| align="right" | 324
+| align="right" | 559
+| align="right" | 117
+| align="right" | 559
+| align="right" | 441
+| align="right" | 13069
+| align="right" | 3.4%
+|-
+| Castejón
+| align="right" | 3387
+| align="right" | 323
+| align="right" | 0
+| align="right" | 323
+| align="right" | 3387
+| align="right" | 22382
+| align="right" | 15.1%
+|-
+| Cintruénigo
+| align="right" | 1549
+| align="right" | 479
+| align="right" | 0
+| align="right" | 479
+| align="right" | 1549
+| align="right" | 41757
+| align="right" | 3.7%
+|-
+| Valle de Ollo/Ollaran
+| align="right" | 209
+| align="right" | 509
+| align="right" | 61
+| align="right" | 509
+| align="right" | 271
+| align="right" | 7651
+| align="right" | 3.5%
+|-
+| Beriáin
+| align="right" | 1082
+| align="right" | 342
+| align="right" | 0
+| align="right" | 342
+| align="right" | 1082
+| align="right" | 12395
+| align="right" | 8.7%
+|-
+| Esteribar
+| align="right" | 379
+| align="right" | 2035
+| align="right" | 0
+| align="right" | 2035
+| align="right" | 379
+| align="right" | 23145
+| align="right" | 1.6%
+|-
+| Arano
+| align="right" | 0
+| align="right" | 346
+| align="right" | 0
+| align="right" | 346
+| align="right" | 0
+| align="right" | 835
+| align="right" | 0.0%
+|-
+| Javier
+| align="right" | 0
+| align="right" | 391
+| align="right" | 0
+| align="right" | 391
+| align="right" | 0
+| align="right" | 1792
+| align="right" | 0.0%
+|-
+| Murchante
+| align="right" | 2665
+| align="right" | 218
+| align="right" | 0
+| align="right" | 218
+| align="right" | 2665
+| align="right" | 20407
+| align="right" | 13.1%
+|-
+| Falces
+| align="right" | 362
+| align="right" | 504
+| align="right" | 0
+| align="right" | 504
+| align="right" | 362
+| align="right" | 12012
+| align="right" | 3.0%
+|-
+| Lumbier
+| align="right" | 0
+| align="right" | 522
+| align="right" | 0
+| align="right" | 522
+| align="right" | 0
+| align="right" | 5837
+| align="right" | 0.0%
+|-
+| Orcoyen
+| align="right" | 919
+| align="right" | 872
+| align="right" | 0
+| align="right" | 872
+| align="right" | 919
+| align="right" | 15245
+| align="right" | 6.0%
+|-
+| Arruazu
+| align="right" | 0
+| align="right" | 166
+| align="right" | 0
+| align="right" | 166
+| align="right" | 0
+| align="right" | 863
+| align="right" | 0.0%
+|-
+| Facería 18
+| align="right" | 0
+| align="right" | 14
+| align="right" | 0
+| align="right" | 14
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Arbizu
+| align="right" | 0
+| align="right" | 605
+| align="right" | 0
+| align="right" | 605
+| align="right" | 0
+| align="right" | 4617
+| align="right" | 0.0%
+|-
+| Olejua
+| align="right" | 0
+| align="right" | 23
+| align="right" | 0
+| align="right" | 23
+| align="right" | 0
+| align="right" | 1134
+| align="right" | 0.0%
+|-
+| Leatxe/Leache
+| align="right" | 0
+| align="right" | 24
+| align="right" | 0
+| align="right" | 24
+| align="right" | 0
+| align="right" | 1641
+| align="right" | 0.0%
+|-
+| Lizoáin-Arriasgoiti
+| align="right" | 0
+| align="right" | 634
+| align="right" | 0
+| align="right" | 634
+| align="right" | 0
+| align="right" | 7264
+| align="right" | 0.0%
+|-
+| Oitz
+| align="right" | 0
+| align="right" | 193
+| align="right" | 0
+| align="right" | 193
+| align="right" | 0
+| align="right" | 1142
+| align="right" | 0.0%
+|-
+| Echarri/Etxarri
+| align="right" | 0
+| align="right" | 82
+| align="right" | 0
+| align="right" | 82
+| align="right" | 0
+| align="right" | 1028
+| align="right" | 0.0%
+|-
+| Villamayor de Monjardín
+| align="right" | 229
+| align="right" | 191
+| align="right" | 0
+| align="right" | 191
+| align="right" | 229
+| align="right" | 2167
+| align="right" | 10.6%
+|-
+| Lesaka
+| align="right" | 0
+| align="right" | 2248
+| align="right" | 0
+| align="right" | 2248
+| align="right" | 0
+| align="right" | 5952
+| align="right" | 0.0%
+|-
+| Petilla de Aragón
+| align="right" | 0
+| align="right" | 123
+| align="right" | 0
+| align="right" | 123
+| align="right" | 0
+| align="right" | 500
+| align="right" | 0.0%
+|-
+| Cortes
+| align="right" | 377
+| align="right" | 431
+| align="right" | 0
+| align="right" | 431
+| align="right" | 377
+| align="right" | 15819
+| align="right" | 2.4%
+|-
+| Zugarramurdi
+| align="right" | 102
+| align="right" | 389
+| align="right" | 23
+| align="right" | 389
+| align="right" | 125
+| align="right" | 2340
+| align="right" | 5.3%
+|-
+| Uztárroz/Uztarroze
+| align="right" | 0
+| align="right" | 256
+| align="right" | 0
+| align="right" | 256
+| align="right" | 0
+| align="right" | 1726
+| align="right" | 0.0%
+|-
+| Navascués / Nabaskoze
+| align="right" | 184
+| align="right" | 225
+| align="right" | 0
+| align="right" | 225
+| align="right" | 184
+| align="right" | 4035
+| align="right" | 4.6%
+|-
+| Olite/Erriberri
+| align="right" | 724
+| align="right" | 533
+| align="right" | 0
+| align="right" | 533
+| align="right" | 724
+| align="right" | 21440
+| align="right" | 3.4%
+|-
+| Galar
+| align="right" | 3496
+| align="right" | 1920
+| align="right" | 466
+| align="right" | 1920
+| align="right" | 3961
+| align="right" | 21604
+| align="right" | 18.3%
+|-
+| Ucar
+| align="right" | 69
+| align="right" | 98
+| align="right" | 0
+| align="right" | 98
+| align="right" | 69
+| align="right" | 3033
+| align="right" | 2.3%
+|-
+| El Busto
+| align="right" | 72
+| align="right" | 25
+| align="right" | 0
+| align="right" | 25
+| align="right" | 72
+| align="right" | 1890
+| align="right" | 3.8%
+|-
+| Azagra
+| align="right" | 492
+| align="right" | 249
+| align="right" | 0
+| align="right" | 249
+| align="right" | 492
+| align="right" | 14106
+| align="right" | 3.5%
+|-
+| Ziordia
+| align="right" | 0
+| align="right" | 347
+| align="right" | 0
+| align="right" | 347
+| align="right" | 0
+| align="right" | 4027
+| align="right" | 0.0%
+|-
+| Altsasu/Alsasua
+| align="right" | 61
+| align="right" | 1673
+| align="right" | 0
+| align="right" | 1673
+| align="right" | 61
+| align="right" | 18697
+| align="right" | 0.3%
+|-
+| Goñi
+| align="right" | 0
+| align="right" | 337
+| align="right" | 327
+| align="right" | 337
+| align="right" | 327
+| align="right" | 6711
+| align="right" | 4.9%
+|-
+| Facería 85
+| align="right" | 0
+| align="right" | 8
+| align="right" | 0
+| align="right" | 8
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Barañáin/Barañain
+| align="right" | 0
+| align="right" | 960
+| align="right" | 0
+| align="right" | 960
+| align="right" | 0
+| align="right" | 18518
+| align="right" | 0.0%
+|-
+| Salinas de Oro
+| align="right" | 122
+| align="right" | 139
+| align="right" | 175
+| align="right" | 139
+| align="right" | 298
+| align="right" | 1767
+| align="right" | 16.8%
+|-
+| Berriozar
+| align="right" | 54
+| align="right" | 391
+| align="right" | 0
+| align="right" | 391
+| align="right" | 54
+| align="right" | 9192
+| align="right" | 0.6%
+|-
+| Zubieta
+| align="right" | 0
+| align="right" | 843
+| align="right" | 104
+| align="right" | 843
+| align="right" | 104
+| align="right" | 2543
+| align="right" | 4.1%
+|-
+| Ancín/Antzin
+| align="right" | 384
+| align="right" | 115
+| align="right" | 0
+| align="right" | 115
+| align="right" | 384
+| align="right" | 6636
+| align="right" | 5.8%
+|-
+| Iza
+| align="right" | 773
+| align="right" | 1267
+| align="right" | 0
+| align="right" | 1267
+| align="right" | 773
+| align="right" | 18340
+| align="right" | 4.2%
+|-
+| Gallipienzo
+| align="right" | 63
+| align="right" | 169
+| align="right" | 258
+| align="right" | 169
+| align="right" | 320
+| align="right" | 4258
+| align="right" | 7.5%
+|-
+| Marañón
+| align="right" | 242
+| align="right" | 44
+| align="right" | 0
+| align="right" | 44
+| align="right" | 242
+| align="right" | 3423
+| align="right" | 7.1%
+|-
+| Allo
+| align="right" | 0
+| align="right" | 156
+| align="right" | 0
+| align="right" | 156
+| align="right" | 0
+| align="right" | 7416
+| align="right" | 0.0%
+|-
+| Aria
+| align="right" | 0
+| align="right" | 100
+| align="right" | 0
+| align="right" | 100
+| align="right" | 0
+| align="right" | 980
+| align="right" | 0.0%
+|-
+| Berbinzana
+| align="right" | 0
+| align="right" | 81
+| align="right" | 0
+| align="right" | 81
+| align="right" | 0
+| align="right" | 4757
+| align="right" | 0.0%
+|-
+| Facería 14
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Viana
+| align="right" | 6628
+| align="right" | 1053
+| align="right" | 0
+| align="right" | 1053
+| align="right" | 6628
+| align="right" | 23151
+| align="right" | 28.6%
+|-
+| Garínoain
+| align="right" | 194
+| align="right" | 84
+| align="right" | 0
+| align="right" | 84
+| align="right" | 194
+| align="right" | 4105
+| align="right" | 4.7%
+|-
+| Ciriza
+| align="right" | 172
+| align="right" | 59
+| align="right" | 0
+| align="right" | 59
+| align="right" | 172
+| align="right" | 1707
+| align="right" | 10.1%
+|-
+| Abárzuza/Abartzuza
+| align="right" | 108
+| align="right" | 214
+| align="right" | 0
+| align="right" | 214
+| align="right" | 108
+| align="right" | 5455
+| align="right" | 2.0%
+|-
+| Aguilar de Codés
+| align="right" | 0
+| align="right" | 67
+| align="right" | 29
+| align="right" | 67
+| align="right" | 29
+| align="right" | 2379
+| align="right" | 1.2%
+|-
+| Tulebras
+| align="right" | 0
+| align="right" | 30
+| align="right" | 0
+| align="right" | 30
+| align="right" | 0
+| align="right" | 2393
+| align="right" | 0.0%
+|-
+| Areso
+| align="right" | 1620
+| align="right" | 365
+| align="right" | 0
+| align="right" | 365
+| align="right" | 1620
+| align="right" | 4986
+| align="right" | 32.5%
+|-
+| Ayegui
+| align="right" | 646
+| align="right" | 674
+| align="right" | 0
+| align="right" | 674
+| align="right" | 646
+| align="right" | 18144
+| align="right" | 3.6%
+|-
+| Caparroso
+| align="right" | 696
+| align="right" | 469
+| align="right" | 0
+| align="right" | 469
+| align="right" | 696
+| align="right" | 11753
+| align="right" | 5.9%
+|-
+| Atetz / Atez
+| align="right" | 0
+| align="right" | 218
+| align="right" | 0
+| align="right" | 218
+| align="right" | 0
+| align="right" | 4697
+| align="right" | 0.0%
+|-
+| Ezcabarte
+| align="right" | 725
+| align="right" | 1315
+| align="right" | 0
+| align="right" | 1315
+| align="right" | 725
+| align="right" | 15713
+| align="right" | 4.6%
+|-
+| Aras
+| align="right" | 0
+| align="right" | 96
+| align="right" | 0
+| align="right" | 96
+| align="right" | 0
+| align="right" | 3462
+| align="right" | 0.0%
+|-
+| Urbasa
+| align="right" | 0
+| align="right" | 539
+| align="right" | 0
+| align="right" | 539
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Garaioa
+| align="right" | 0
+| align="right" | 210
+| align="right" | 0
+| align="right" | 210
+| align="right" | 0
+| align="right" | 2188
+| align="right" | 0.0%
+|-
+| Villava/Atarrabia
+| align="right" | 0
+| align="right" | 960
+| align="right" | 0
+| align="right" | 960
+| align="right" | 0
+| align="right" | 10807
+| align="right" | 0.0%
+|-
+| Aoiz/Agoitz
+| align="right" | 1204
+| align="right" | 281
+| align="right" | 232
+| align="right" | 281
+| align="right" | 1436
+| align="right" | 11951
+| align="right" | 12.0%
+|-
+| Araitz
+| align="right" | 51
+| align="right" | 1173
+| align="right" | 0
+| align="right" | 1173
+| align="right" | 51
+| align="right" | 3175
+| align="right" | 1.6%
+|-
+| Monreal
+| align="right" | 0
+| align="right" | 201
+| align="right" | 0
+| align="right" | 201
+| align="right" | 0
+| align="right" | 4365
+| align="right" | 0.0%
+|-
+| Guirguillano/Girgillao
+| align="right" | 0
+| align="right" | 155
+| align="right" | 0
+| align="right" | 155
+| align="right" | 0
+| align="right" | 2002
+| align="right" | 0.0%
+|-
+| Arantza
+| align="right" | 0
+| align="right" | 1075
+| align="right" | 0
+| align="right" | 1075
+| align="right" | 0
+| align="right" | 2890
+| align="right" | 0.0%
+|-
+| Aranarache/Aranaratxe
+| align="right" | 0
+| align="right" | 36
+| align="right" | 0
+| align="right" | 36
+| align="right" | 0
+| align="right" | 1470
+| align="right" | 0.0%
+|-
+| Sansol
+| align="right" | 97
+| align="right" | 85
+| align="right" | 0
+| align="right" | 85
+| align="right" | 97
+| align="right" | 1761
+| align="right" | 5.5%
+|-
+| Betelu
+| align="right" | 0
+| align="right" | 253
+| align="right" | 0
+| align="right" | 253
+| align="right" | 0
+| align="right" | 2913
+| align="right" | 0.0%
+|-
+| Arakil
+| align="right" | 0
+| align="right" | 1475
+| align="right" | 0
+| align="right" | 1475
+| align="right" | 0
+| align="right" | 10913
+| align="right" | 0.0%
+|-
+| Marcilla
+| align="right" | 1001
+| align="right" | 344
+| align="right" | 0
+| align="right" | 344
+| align="right" | 1001
+| align="right" | 11241
+| align="right" | 8.9%
+|-
+| Muruzábal
+| align="right" | 0
+| align="right" | 92
+| align="right" | 0
+| align="right" | 92
+| align="right" | 0
+| align="right" | 4968
+| align="right" | 0.0%
+|-
+| Orreaga/Roncesvalles
+| align="right" | 0
+| align="right" | 156
+| align="right" | 0
+| align="right" | 156
+| align="right" | 0
+| align="right" | 133
+| align="right" | 0.0%
+|-
+| Santacara
+| align="right" | 225
+| align="right" | 159
+| align="right" | 0
+| align="right" | 159
+| align="right" | 225
+| align="right" | 8292
+| align="right" | 2.7%
+|-
+| Cárcar
+| align="right" | 176
+| align="right" | 273
+| align="right" | 0
+| align="right" | 273
+| align="right" | 176
+| align="right" | 9692
+| align="right" | 1.8%
+|-
+| Sorlada
+| align="right" | 197
+| align="right" | 53
+| align="right" | 0
+| align="right" | 53
+| align="right" | 197
+| align="right" | 1903
+| align="right" | 10.4%
+|-
+| Cadreita
+| align="right" | 70
+| align="right" | 311
+| align="right" | 0
+| align="right" | 311
+| align="right" | 70
+| align="right" | 12756
+| align="right" | 0.5%
+|-
+| Espronceda
+| align="right" | 30
+| align="right" | 51
+| align="right" | 0
+| align="right" | 51
+| align="right" | 30
+| align="right" | 2078
+| align="right" | 1.4%
+|-
+| Mendavia
+| align="right" | 1160
+| align="right" | 413
+| align="right" | 0
+| align="right" | 413
+| align="right" | 1160
+| align="right" | 22110
+| align="right" | 5.2%
+|-
+| Sunbilla
+| align="right" | 0
+| align="right" | 826
+| align="right" | 0
+| align="right" | 826
+| align="right" | 0
+| align="right" | 4767
+| align="right" | 0.0%
+|-
+| Torres del Río
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 2173
+| align="right" | 0.0%
+|-
+| Basaburúa Mayor
+| align="right" | 0
+| align="right" | 1223
+| align="right" | 348
+| align="right" | 1223
+| align="right" | 348
+| align="right" | 10853
+| align="right" | 3.2%
+|-
+| Adiós
+| align="right" | 0
+| align="right" | 36
+| align="right" | 0
+| align="right" | 36
+| align="right" | 0
+| align="right" | 2138
+| align="right" | 0.0%
+|-
+| Aribe
+| align="right" | 0
+| align="right" | 93
+| align="right" | 0
+| align="right" | 93
+| align="right" | 0
+| align="right" | 381
+| align="right" | 0.0%
+|-
+| Los Arcos
+| align="right" | 245
+| align="right" | 392
+| align="right" | 0
+| align="right" | 392
+| align="right" | 245
+| align="right" | 6149
+| align="right" | 4.0%
+|-
+| Artazu
+| align="right" | 0
+| align="right" | 49
+| align="right" | 0
+| align="right" | 49
+| align="right" | 0
+| align="right" | 1126
+| align="right" | 0.0%
+|-
+| Mendaza
+| align="right" | 0
+| align="right" | 195
+| align="right" | 0
+| align="right" | 195
+| align="right" | 0
+| align="right" | 5924
+| align="right" | 0.0%
+|-
+| Burgui/Burgi
+| align="right" | 158
+| align="right" | 178
+| align="right" | 0
+| align="right" | 178
+| align="right" | 158
+| align="right" | 3010
+| align="right" | 5.3%
+|-
+| Güesa/Gorza
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 89
+| align="right" | 0
+| align="right" | 904
+| align="right" | 0.0%
+|-
+| Fitero
+| align="right" | 1705
+| align="right" | 388
+| align="right" | 0
+| align="right" | 388
+| align="right" | 1705
+| align="right" | 11427
+| align="right" | 14.9%
+|-
+| Ochagavía/Otsagabia
+| align="right" | 0
+| align="right" | 559
+| align="right" | 0
+| align="right" | 559
+| align="right" | 0
+| align="right" | 3826
+| align="right" | 0.0%
+|-
+| Lerín
+| align="right" | 821
+| align="right" | 275
+| align="right" | 0
+| align="right" | 275
+| align="right" | 821
+| align="right" | 10602
+| align="right" | 7.7%
+|-
+| Tirapu
+| align="right" | 0
+| align="right" | 96
+| align="right" | 34
+| align="right" | 96
+| align="right" | 34
+| align="right" | 1212
+| align="right" | 2.8%
+|-
+| Urdiain
+| align="right" | 0
+| align="right" | 547
+| align="right" | 0
+| align="right" | 547
+| align="right" | 0
+| align="right" | 3856
+| align="right" | 0.0%
+|-
+| Mélida
+| align="right" | 1671
+| align="right" | 179
+| align="right" | 452
+| align="right" | 179
+| align="right" | 2123
+| align="right" | 11902
+| align="right" | 17.8%
+|-
+| Miranda de Arga
+| align="right" | 0
+| align="right" | 204
+| align="right" | 115
+| align="right" | 204
+| align="right" | 115
+| align="right" | 6988
+| align="right" | 1.6%
+|-
+| Villafranca
+| align="right" | 339
+| align="right" | 418
+| align="right" | 0
+| align="right" | 418
+| align="right" | 339
+| align="right" | 14307
+| align="right" | 2.4%
+|-
+| Juslapeña
+| align="right" | 165
+| align="right" | 381
+| align="right" | 0
+| align="right" | 381
+| align="right" | 165
+| align="right" | 7756
+| align="right" | 2.1%
+|-
+| Tiebas-Muruarte de Reta
+| align="right" | 381
+| align="right" | 387
+| align="right" | 0
+| align="right" | 387
+| align="right" | 381
+| align="right" | 5583
+| align="right" | 6.8%
+|-
+| Zúñiga
+| align="right" | 87
+| align="right" | 169
+| align="right" | 0
+| align="right" | 169
+| align="right" | 87
+| align="right" | 2175
+| align="right" | 4.0%
+|-
+| Larraga
+| align="right" | 456
+| align="right" | 291
+| align="right" | 0
+| align="right" | 291
+| align="right" | 456
+| align="right" | 13370
+| align="right" | 3.4%
+|-
+| Armañanzas
+| align="right" | 79
+| align="right" | 132
+| align="right" | 0
+| align="right" | 132
+| align="right" | 79
+| align="right" | 1301
+| align="right" | 6.1%
+|-
+| Andia
+| align="right" | 0
+| align="right" | 189
+| align="right" | 0
+| align="right" | 189
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Facería 88
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 2
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Donamaria
+| align="right" | 0
+| align="right" | 669
+| align="right" | 0
+| align="right" | 669
+| align="right" | 0
+| align="right" | 2347
+| align="right" | 0.0%
+|-
+| Carcastillo
+| align="right" | 234
+| align="right" | 498
+| align="right" | 0
+| align="right" | 498
+| align="right" | 234
+| align="right" | 18482
+| align="right" | 1.3%
+|-
+| Lezaun
+| align="right" | 0
+| align="right" | 293
+| align="right" | 0
+| align="right" | 293
+| align="right" | 0
+| align="right" | 3433
+| align="right" | 0.0%
+|-
+| Facería 87
+| align="right" | 0
+| align="right" | 179
+| align="right" | 0
+| align="right" | 179
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Nazar
+| align="right" | 0
+| align="right" | 51
+| align="right" | 0
+| align="right" | 51
+| align="right" | 0
+| align="right" | 2045
+| align="right" | 0.0%
+|-
+| Facería 81
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 1
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Allín/Allin
+| align="right" | 821
+| align="right" | 619
+| align="right" | 334
+| align="right" | 619
+| align="right" | 1154
+| align="right" | 13328
+| align="right" | 8.7%
+|-
+| Facería 82
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 5
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Milagro
+| align="right" | 1038
+| align="right" | 336
+| align="right" | 0
+| align="right" | 336
+| align="right" | 1038
+| align="right" | 18991
+| align="right" | 5.5%
+|-
+| Lokiz mendilerroa / Sierra de Lóquiz
+| align="right" | 0
+| align="right" | 147
+| align="right" | 0
+| align="right" | 147
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0.0%
+|-
+| Beire
+| align="right" | 64
+| align="right" | 108
+| align="right" | 0
+| align="right" | 108
+| align="right" | 64
+| align="right" | 3719
+| align="right" | 1.7%
+|-
+| Tafalla
+| align="right" | 1109
+| align="right" | 1480
+| align="right" | 0
+| align="right" | 1480
+| align="right" | 1109
+| align="right" | 34413
+| align="right" | 3.2%
+|-
+| Lerga
+| align="right" | 0
+| align="right" | 86
+| align="right" | 0
+| align="right" | 86
+| align="right" | 0
+| align="right" | 2041
+| align="right" | 0.0%
+|-
+| Bertizarana
+| align="right" | 44
+| align="right" | 916
+| align="right" | 0
+| align="right" | 916
+| align="right" | 44
+| align="right" | 4479
+| align="right" | 1.0%
+|-
+| Eratsun
+| align="right" | 0
+| align="right" | 490
+| align="right" | 0
+| align="right" | 490
+| align="right" | 0
+| align="right" | 1001
+| align="right" | 0.0%
+|-
+| Monteagudo
+| align="right" | 147
+| align="right" | 86
+| align="right" | 0
+| align="right" | 86
+| align="right" | 147
+| align="right" | 7158
+| align="right" | 2.1%
+|-
+|}
